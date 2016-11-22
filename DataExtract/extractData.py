@@ -10,11 +10,11 @@ import time
 
 basepath = 'http://openg.azurewebsites.net/api/leaderboard?'
 
-file_enum = {'\Data\Scores_Men.csv', '\Data\Scores_Women.csv', '\Data\Scores_Master_Men_45.csv', '\Data\Scores_Master_Women_45.csv',
+file_enum = ['\Data\Scores_Men.csv', '\Data\Scores_Women.csv', '\Data\Scores_Master_Men_45.csv', '\Data\Scores_Master_Women_45.csv',
              '\Data\Scores_Master_Men_50.csv', '\Data\Scores_Master Women_50.csv', '\Data\Scores_Master_Men_55.csv', '\Data\Scores_Master_Women_55.csv',
              '\Data\Scores_Master_Men_60.csv', '\Data\Scores_Master_Women_60.csv', '\Data\Scores_Team.csv', '\Data\Scores_Master_Men_40.csv',
              '\Data\Scores_Master_Women_40.csv', '\Data\Scores_Teen_Boy_14.csv', '\Data\Scores_Teen_Girl_14.csv', '\Data\Scores_Teen_Boy_16.csv',
-             '\Data\Scores_Teen_Girl_16.csv'}
+             '\Data\Scores_Teen_Girl_16.csv']
 
 div_dict = {'1':"I-Men", '2':"I-Women", '3':"M-Men 45-49", '4':"M-Women 45-49", 
             '5':"M-Men 50-54", '6':"M-Women 50-54", '7':"M-Men 55-59", '8':"M-Women 55-59",
@@ -53,6 +53,7 @@ for div, title in div_dict:
     WkScore = numpy.array(range(5))
     WkRank = numpy.array(range(5))
 
+    file_path = 'Scores'
     Id_list = []
 
     #loop thorugh the pages
@@ -108,5 +109,7 @@ for div, title in div_dict:
             Scores.loc[Id] = (Name, Div, ORank, Rank, WkScore[0], WkRank[0], WkScore[1], WkRank[1], WkScore[2], WkRank[2],
                           WkScore[3], WkRank[3], WkScore[4], WkRank[4])
 
-    Scores.to_csv(path_or_buf=file_enum[div-1])
-    getProfile.pullProfile(Id_list, div)
+    filename = os.path.join(file_path, file_enum[div-1])
+    Scores.to_csv(path_or_buf=filename)
+    print(filename + " written out.")
+    getProfile.getProfile(Id_list, div)

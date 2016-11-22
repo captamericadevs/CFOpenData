@@ -1,6 +1,6 @@
-from getProfile import download
+from getProfile import *
 
 
 Id_list = ['2725']
 div = 1
-getProfile.download(Id_list, div)
+getProfile.getProfile(Id_list, div)
