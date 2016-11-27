@@ -1,0 +1,1 @@
+from getAffiliates import getAffiliates
