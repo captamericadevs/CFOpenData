@@ -41,7 +41,7 @@ class getAffiliates():
                 page = page + 1
   
         filename = 'Affiliate_List.csv'
-        self.Affiliates.to_csv(path_or_buf=filename)
+        self.Affiliate.to_csv(path_or_buf=filename)
         print(filename + " written out.")
         
    
