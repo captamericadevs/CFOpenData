@@ -9,12 +9,12 @@ div_dict = {'1':"I-Men", '2':"I-Women", '3':"M-Men 45-49", '4':"M-Women 45-49",
             
 divisions = [1,2] #Men's and Women's Rx Divisions
 year = 16
-numberperpage = 60
+numberperpage = 30
 
 #Get Affiliates
-getAffiliates.getAffiliates()
+#getAffiliates.getAffiliates()
 
 #Get Athletes
-#for div in divisions:
-#    CFOpenData = extractScores.extractScores(div,year,numberperpage)
-#    getProfile.getProfile(CFOpenData.Id_list, div)
+for div in divisions:
+    CFOpenData = extractScores.extractScores(div,year,numberperpage)
+    getProfile.getProfile(CFOpenData.Id_list, div)

@@ -1,18 +1,14 @@
-#!/usr/local/bin/python3.5
-import asyncio
-from aiohttp import ClientSession
-
+import grequests 
 import requests
-
 import os, re
 from getProfile import *
 
 import numpy
 import pandas
 import json
+import time
 
 basepath = 'http://openg.azurewebsites.net/api/leaderboard?'
-headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36"}
 file_path = 'Scores'
 file_enum = ['Scores_Men.csv', 'Scores_Women.csv', 'Scores_Master_Men_45.csv', 'Scores_Master_Women_45.csv',
              'Scores_Master_Men_50.csv', 'Scores_Master Women_50.csv', 'Scores_Master_Men_55.csv', 'Scores_Master_Women_55.csv',
@@ -27,20 +23,14 @@ div_dict = {'1':"I-Men", '2':"I-Women", '3':"M-Men 45-49", '4':"M-Women 45-49",
 
 class extractScores():
     Id_list = []
-    async def downloadPage(self, sem, nParams, session):
-        async with sem:
-            return await self.getPage(nParams, session)
-    
-    async def getPage(self, params, session):
-        async with session.get(basepath, params=params, headers=headers) as response:
-            data = await response.json()
-            return data
-
-    def getScores(self, response):
+    def exception_handler(self, request, exception):
+        grequests.send(request)
+        
+    def getScores(self, response, *args, **kwargs):
         WkScore = numpy.array(range(5))
         WkRank = numpy.array(range(5))
-        athletes = response['Athletes'] #get the athletes
-
+        athletes = response.json()['Athletes'] #get the athletes
+        
         #loop through all the athletes on each page
         for i in range(self.numperpage):
             Id = athletes[i]['Id']
@@ -71,37 +61,21 @@ class extractScores():
                     print(athletes[i]['Weeks'][w]['Score'])
                     WkScore[w] = 0
                     WkRank[w] = 0
-                except TypeError:
-                    print("Type: " + Name)
-                    print(athletes[i]['Weeks'][w]['Rank'])
-                    WkScore[w] = 0
-                    WkRank[w] = 0
 
             self.Scores.loc[Id] = (Name, Div, ORank, Rank, WkScore[0], WkRank[0], WkScore[1], WkRank[1], WkScore[2], WkRank[2],
                               WkScore[3], WkRank[3], WkScore[4], WkRank[4])
-    
-    async def loopPages(self, numberofpages):
-        async_list = []
-        sem = asyncio.Semaphore(1000) #create semaphore
-        
-        async with ClientSession() as session:
-            for p in range(numberofpages):
-                params={"division": self.division, "sort": "1", "region": "0",
-                        "stage": "15", "year": self.year, "page": str(p),
-                        "numberperpage": self.numperpage, "scaled": "0", "occupation": "0"}
-                task = asyncio.ensure_future(self.downloadPage(sem, params, session))
-                async_list.append(task)
-            results = await asyncio.gather(*async_list) 
-        #loop through pages on complete
-        for page in results:
-            self.getScores(page)
+   
+        self.retrievedPage = self.retrievedPage + 1
+        if (int(self.retrievedPage) % self.throttleSize) == 0:
+            print("Sent " + str(self.retrievedPage) + " pages and received " + str(len(self.Id_list)) + " Ids and " + str(len(self.Scores.index)) + " scores")
+        sleep(2)
        
     def __init__(self, div, year, numperpage):           
         self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
                                            'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
         self.division = div #for each division
         self.numperpage = numperpage
-        self.year = year
+        self.throttleSize = 20
             
         #request page 1
         response = requests.get(basepath,
@@ -116,19 +90,42 @@ class extractScores():
                                    "scaled": "0",
                                    "occupation": "0"
                                },
-                               headers=headers).json()
+                               headers={
+                                   "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36"
+                               }).json()
 
         num_pages = response['TotalPages'] #get number of pages
         print("Number of Pages = " + str(num_pages))
+        async_list = []
         
         #loop through the pages
-        loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages(num_pages))
-        print("Downloading " + str(num_pages) + " pages of scores...")
-        loop.run_until_complete(future)
+        session = requests.Session()
+        for p in range(num_pages):
+            #advance the page
+            next_page = grequests.get(basepath, params={
+                                       "division": div,
+                                       "sort": "1",
+                                       "region": "0",
+                                       "stage": "15",
+                                       "year": year,
+                                       "page": str(p),
+                                       "numberperpage": numperpage,
+                                       "scaled": "0",
+                                       "occupation": "0"
+                                    },
+                                    headers={
+                                        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36"
+                                    }, hooks={'response' : self.getScores}, session=session)
+            #job = grequests.send(next_page, grequests.Pool(20))
+            #time.sleep(0.5)
+            async_list.append(next_page) #build list of pages to download
+        print("Downloading " + str(len(async_list)) + " pages of scores...")
+        self.retrievedPage = 1
+        download_pages = grequests.map(async_list, size=self.throttleSize, exception_handler=self.exception_handler) #download asynchronously
 
-        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
+        print("Number of pages returned = " + str(len(download_pages)))
+        print(download_pages)
+        filename = os.path.join(file_path, str(year)+"_"+file_enum[int(div)-1]) #create file in Scores directory
         self.Scores.to_csv(path_or_buf=filename)
         print(filename + " written out.")
-        
         
