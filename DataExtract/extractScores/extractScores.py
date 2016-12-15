@@ -1,4 +1,22 @@
 #!/usr/local/bin/python3.5
+
+# Author: Will Parker <mr.william.a.parker@gmail.com>
+"""
+A class to download and process data from an open database of 
+CrossFit Open scores available at: http://openg.azurewebsites.net/
+
+Usage:
+extractScores.extractScores(division,year,numberperpage)
+:param division: Defines the competitive division (i.e. Male Rx, Female Rx, etc)
+:type division: integer 1-15
+:param year: Defines the year of the competition
+:type year: integer 11-16
+:param numberperpage: number of athletes to extract per page
+:type numberperpage: integer
+"""
+
+__docformat__ = 'restructuredtext'
+
 import asyncio
 from aiohttp import ClientSession
 
@@ -10,6 +28,8 @@ from getProfile import *
 import numpy
 import pandas
 import json
+import logging
+import time
 
 basepath = 'http://openg.azurewebsites.net/api/leaderboard?'
 headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36"}
@@ -26,17 +46,42 @@ div_dict = {'1':"I-Men", '2':"I-Women", '3':"M-Men 45-49", '4':"M-Women 45-49",
             '14':"T-Boy 14-15", '15':"T-Girl 14-15", '16':"T-Boy 16-17", '17':"T-Girl 16-17"}
 
 class extractScores():
+    """
+    Downloads the pages for a division, extracts features, then stores data in a CSV file
+    """
     Id_list = []
+    
     async def downloadPage(self, sem, nParams, session):
+        """
+        async function that checks semaphore unlocked before calling get function
+    
+        :param sem: asyncio.Semaphore
+        :param nParams: dictionary of RESTful params
+        :param session: TCP session info of type aiohttp.ClientSession() 
+        :returns getPage: call function
+        """
         async with sem:
             return await self.getPage(nParams, session)
     
     async def getPage(self, params, session):
+        """
+        async function that makes HTTP GET requests
+    
+        :param params: set of RESTful type parameters to describe response
+        :param session: TCP session info of type aiohttp.ClientSession()
+        :returns data: JSON response object
+        """
         async with session.get(basepath, params=params, headers=headers) as response:
             data = await response.json()
             return data
 
+    
     def getScores(self, response):
+        """
+        function that extracts scores for each athletes
+    
+        :params response: JSON response object
+        """
         WkScore = numpy.array(range(5))
         WkRank = numpy.array(range(5))
         athletes = response['Athletes'] #get the athletes
@@ -52,7 +97,7 @@ class extractScores():
 
             for w in range(5): #loop through the workouts
                 try:
-                    if athletes[i]['Weeks'][w]['Score'] == '--': #if no score
+                    if athletes[i]['Weeks'][w]['Score'] == '--' or athletes[i]['Weeks'][w]['Score'] == None or athletes[i]['Weeks'][w]['Rank'] == None: #if no score
                         WkScore[w] = 0
                         WkRank[w] = 0
                     elif len(athletes[i]['Weeks'][w]['Score']) >= 5: #if a time
@@ -78,14 +123,22 @@ class extractScores():
                     WkRank[w] = 0
 
             self.Scores.loc[Id] = (Name, Div, ORank, Rank, WkScore[0], WkRank[0], WkScore[1], WkRank[1], WkScore[2], WkRank[2],
-                              WkScore[3], WkRank[3], WkScore[4], WkRank[4])
+                              WkScore[3], WkRank[3], WkScore[4], WkRank[4]) #store in DataFrame
     
-    async def loopPages(self, numberofpages):
+    async def loopPages(self, start, numberofpages):
+        """
+        async function that creates semaphore and prepares HTTP GET requests by a segmented number of pages
+    
+        :param start: page number at the beginning of this segment
+        :param numberofpages: number of pages in this segment
+        """
+        logging.info('loopPages from ' + str(start))
         async_list = []
-        sem = asyncio.Semaphore(1000) #create semaphore
+        sem = asyncio.Semaphore(numberofpages) #create semaphore
         
+        tstart = time.time() #start timer
         async with ClientSession() as session:
-            for p in range(numberofpages):
+            for p in range(start, start+numberofpages):
                 params={"division": self.division, "sort": "1", "region": "0",
                         "stage": "15", "year": self.year, "page": str(p),
                         "numberperpage": self.numperpage, "scaled": "0", "occupation": "0"}
@@ -93,12 +146,28 @@ class extractScores():
                 async_list.append(task)
             results = await asyncio.gather(*async_list) 
         #loop through pages on complete
+        logging.info('Number of results = ' + str(len(results)))
+        tdownload = time.time() #timer for downloads
+        
         for page in results:
             self.getScores(page)
+            logging.info('Length of scores = ' + str(len(results)))
+           
+        logging.info('Time to Download = ' + str(tdownload - tstart))
+        logging.info('Average time per page = ' + str((tdownload - tstart)/numberofpages))
+        tend = time.time() #timer for number of pages
+        logging.info('Time to Process = ' + str(tend - tstart))
        
-    def __init__(self, div, year, numperpage):           
-        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
-                                           'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
+    def __init__(self, div, year, numperpage):          
+        """
+        Initialize the class. Gets the total number of pages in the class based on the requested
+        number per page. Segments the total pages by an integer number of pages (nper) to ensure
+        sockets aren't maxed out (functions as a throttle)
+        
+        :param div: integer describing the competitive division
+        :param year: integer describing the competition year
+        :param numperpage: integer describing the number of athletes to return per page
+        """
         self.division = div #for each division
         self.numperpage = numperpage
         self.year = year
@@ -120,15 +189,45 @@ class extractScores():
 
         num_pages = response['TotalPages'] #get number of pages
         print("Number of Pages = " + str(num_pages))
+        nper = 1000 #number of pages in each segment
+        self.endoflist = num_pages % nper
+        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
+                            'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
         
-        #loop through the pages
+        #loop through the first segment of pages
         loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages(num_pages))
+        future = asyncio.ensure_future(self.loopPages(0, nper))
         print("Downloading " + str(num_pages) + " pages of scores...")
         loop.run_until_complete(future)
 
         filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
-        self.Scores.to_csv(path_or_buf=filename)
+        self.Scores.to_csv(path_or_buf=filename) #blocking function
         print(filename + " written out.")
+        
+        i = 1
+        while i < int(num_pages/nper):
+            self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
+                                    'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
+            #loop through the middle segments of pages
+            loop = asyncio.get_event_loop()
+            future = asyncio.ensure_future(self.loopPages((i*nper), nper))
+            loop.run_until_complete(future)
+
+            filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
+            self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+            print(filename + " written to page " + str(i*nper))
+            i = i + 1
+        
+        #loop through the pages in the final segment (less that a clean cut)
+        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
+                                    'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
+        loop = asyncio.get_event_loop()
+        future = asyncio.ensure_future(self.loopPages((i*nper), self.endoflist))
+        loop.run_until_complete(future)
+
+        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
+        self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+        print(filename + " written to page " + str((i*nper)+(self.endoflist)))
+        
         
         
