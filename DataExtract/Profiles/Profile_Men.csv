@@ -40,7 +40,7 @@ Carlos Albaladejo,Unaffiliated,28.0,67.0,175.0,0:00,350.0,275.0,530.0,450.0,54.0
 David McCahan,CrossFit French Creek,31.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
 Steven Robinson,CrossFit Fort Walton Beach,30.0,67.0,197.0,--,335.0,255.0,655.0,605.0,58.0
 Coy Ozias,CrossFit Nassau,20.0,66.0,165.0,--,275.0,225.0,335.0,380.0,70.0
-Roy Gamboa,CrossFit Abilene,29.0,68.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
+Roy Gamboa,Unaffiliated,29.0,68.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
 Dillon Bailey,CrossFit Westchase,24.0,70.0,192.0,1:03,315.0,250.0,500.0,415.0,73.0
 Austin Moncivaez,CrossFit Murfreesboro,24.0,66.0,150.0,0:58,290.0,230.0,415.0,395.0,0.0
 Thomas Nay,Unaffiliated,27.0,67.0,185.0,0:00,325.0,270.0,555.0,455.0,0.0
@@ -66,7 +66,7 @@ Adrian Mundwiler,C23 CrossFit,24.0,6.0,182.0,--,0.0,0.0,0.0,0.0,0.0
 Tom Lengyel,CrossFit Geelong,25.0,6.0,164.0,5:00,302.0,255.0,440.0,385.0,60.0
 Zak Carchedi,Cobra Command CrossFit,23.0,69.0,184.0,--,350.0,285.0,515.0,475.0,55.0
 Marcus Filly,Unaffiliated,32.0,70.0,192.0,0:58,355.0,280.0,515.0,455.0,63.0
-Daniel Viger,L'usine CrossFit Taschereau,22.0,71.0,195.0,0:59,310.0,250.0,545.0,440.0,60.0
+Daniel Viger,L'usine CrossFit Taschereau,22.0,71.0,195.0,0:59,310.0,255.0,545.0,440.0,60.0
 Tyler Armstrong,Champlain Valley CrossFit,31.0,69.0,195.0,--,315.0,240.0,475.0,435.0,0.0
 Kirk Gibson,Smashletics CrossFit,24.0,69.0,185.0,0:55,355.0,295.0,520.0,455.0,100.0
 Sean Fox,CrossFit Under Pressure,27.0,68.0,176.0,0:51,305.0,255.0,455.0,395.0,80.0
@@ -75,7 +75,7 @@ ZA Anderson,CrossFit Pure,27.0,74.0,225.0,--,0.0,0.0,0.0,0.0,0.0
 Dylan Mitai,Functional Strength CrossFit,27.0,6.0,99.0,--,0.0,0.0,407.0,330.0,0.0
 Kyle Flickinger,CrossFit Kilo,26.0,70.0,173.0,0:00,275.0,220.0,485.0,346.0,60.0
 Maxime Roy De Sylva,CrossFit Adm,23.0,67.0,165.0,--,0.0,0.0,0.0,0.0,0.0
-Mark Hutchinson,Unaffiliated,28.0,71.0,203.0,0:49,340.0,285.0,520.0,425.0,71.0
+Mark Hutchinson,Unaffiliated,28.0,71.0,207.0,0:54,355.0,295.0,545.0,425.0,71.0
 Bartlomiej Lipka,CrossFit R99,27.0,6.0,183.0,0:57,330.0,260.0,555.0,445.0,45.0
 Andreas Janzen,CrossFit The Challenge,33.0,69.0,185.0,0:00,275.0,225.0,430.0,335.0,67.0
 Arnar Sigurdsson,Reebok CrossFit Valens,28.0,7.0,189.0,0:58,0.0,0.0,0.0,0.0,75.0
@@ -89,7 +89,7 @@ michael fuertes,CrossFit 212,22.0,0.0,156.0,--,0.0,0.0,0.0,0.0,0.0
 Scott Cottrill,CrossFit Weddington,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
 Dakota Rager,CrossFit 808,25.0,64.0,169.0,--,310.0,242.0,0.0,415.0,0.0
 Hinrik Ingi Óskarsson,Reebok CrossFit Reykjavík,22.0,7.0,200.0,--,332.0,279.0,513.0,429.0,0.0
-Alexandre Caron,CrossFit Levis,20.0,71.0,195.0,--,315.0,245.0,495.0,395.0,50.0
+Alexandre Caron,CrossFit Levis,21.0,71.0,195.0,--,315.0,245.0,495.0,395.0,50.0
 Wesley Rethwill,CrossFit Invictus,26.0,72.0,197.0,--,325.0,250.0,485.0,455.0,0.0
 André Houdet,CrossFit Nordvest,22.0,7.0,178.0,--,0.0,0.0,0.0,0.0,0.0
 Scott Gillespie,Cobra Command CrossFit,27.0,70.0,175.0,0:52,255.0,200.0,435.0,335.0,48.0
@@ -139,7 +139,7 @@ Austin O'Neal,Windy City CrossFit,26.0,70.0,215.0,--,0.0,0.0,0.0,0.0,0.0
 Sam Henderson,CrossFit Yas,24.0,7.0,198.0,0:00,0.0,0.0,0.0,0.0,0.0
 Luke McMahon,CrossFit Tumut,22.0,6.0,175.0,--,1763.0,1763.0,2204.0,2204.0,0.0
 Giovanni Contreras,LoneStar CrossFit,25.0,72.0,198.0,--,325.0,255.0,525.0,425.0,0.0
-Mike Bjerregaard,CrossFit Nordvest,24.0,7.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Mike Bjerregaard,CrossFit Nordvest,25.0,7.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
 Viktor Långsved,CrossFit Prestanda,25.0,7.0,196.0,--,0.0,0.0,0.0,0.0,0.0
 Drew Accomando,CrossFit Milford,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
 Basile Beaty,Verdant CrossFit,30.0,70.0,174.0,47:00,305.0,260.0,0.0,0.0,0.0
@@ -169,7 +169,7 @@ Dane mclaughlin,CrossFit Inferno,29.0,73.0,193.0,--,0.0,0.0,0.0,0.0,0.0
 Zack Mabray,Choctaw CrossFit,22.0,71.0,195.0,--,335.0,275.0,550.0,455.0,0.0
 Jak Cornthwaite,CrossFit JST,25.0,6.0,202.0,--,0.0,0.0,0.0,0.0,0.0
 Simon Paquette,L'Usine CrossFit Sherbrooke,28.0,71.0,198.0,0:00,0.0,0.0,0.0,0.0,0.0
-Lukas Esslinger,CrossFit Kreis 9,23.0,7.0,200.0,0:00,1.0,1.0,1.0,1.0,0.0
+Lukas Esslinger,CrossFit Kreis 9,24.0,7.0,200.0,0:00,1.0,1.0,1.0,1.0,0.0
 Corey Lunney,CrossFit Shrewsbury,25.0,69.0,175.0,0:00,326.0,255.0,525.0,485.0,0.0
 Gary Sorrentino,CrossFit OSA,27.0,73.0,214.0,1:00,325.0,275.0,565.0,425.0,50.0
 Bradley Pritchard,CrossFit 285,40.0,67.0,165.0,--,270.0,217.0,480.0,390.0,83.0
@@ -179,12 +179,12 @@ Andrew Warwick,Brick CrossFit,31.0,72.0,212.0,5:21,0.0,0.0,0.0,0.0,0.0
 Austin Spencer,CrossFit MF,24.0,70.0,195.0,--,326.0,270.0,475.0,410.0,0.0
 Sigurður Þrastarson,CrossFit XY,32.0,6.0,205.0,--,319.0,253.0,584.0,507.0,40.0
 Milosz Staworzynski,CrossFit Genius,29.0,6.0,182.0,--,286.0,220.0,440.0,374.0,0.0
-Colin Cartee,CrossFit OC3,26.0,72.0,195.0,0:53,305.0,245.0,435.0,375.0,0.0
+Colin Cartee,CrossFit OC3,26.0,8.0,400.0,0:30,25.0,400.0,0.0,30.0,3000.0
 Kyle Bernier,CrossFit Swerve,23.0,70.0,195.0,--,0.0,0.0,0.0,0.0,0.0
 Jadon Kempers,CrossFit Cedar Park,24.0,71.0,190.0,--,315.0,275.0,500.0,0.0,60.0
 Tommy Caputo,CrossFit Bound,25.0,70.0,193.0,0:53,335.0,255.0,510.0,425.0,0.0
 Blair Morrison,CrossFit Anywhere,34.0,72.0,190.0,0:56,297.0,255.0,490.0,450.0,45.0
-Haydn Wolfsbauer,CrossFit Devour,29.0,7.0,198.0,0:00,330.0,266.0,529.0,451.0,0.0
+Haydn Wolfsbauer,CrossFit Devour,30.0,7.0,198.0,0:00,330.0,266.0,529.0,451.0,0.0
 Mischak Potter-Rivera,Columbia CrossFit,21.0,66.0,165.0,--,0.0,0.0,445.0,405.0,70.0
 Steven Turnbull,Tweed CrossFit,25.0,7.0,156.0,--,231.0,187.0,396.0,286.0,52.0
 Mikko Aronpaa,CrossFit Alioth,32.0,6.0,202.0,0:00,341.0,275.0,535.0,456.0,52.0
@@ -196,7 +196,7 @@ Will Moorad,CrossFit Rigged,27.0,69.0,185.0,0:00,0.0,260.0,0.0,0.0,0.0
 Reza Mashkoori,CrossFit NCR,32.0,6.0,179.0,0:59,300.0,225.0,465.0,405.0,0.0
 Jeff Evans,HYTE CrossFit,28.0,72.0,207.0,1:00,405.0,315.0,550.0,540.0,57.0
 Christopher Clyde,CrossFit Balance,29.0,72.0,215.0,0:00,0.0,0.0,0.0,0.0,0.0
-Jamie Headon,CrossFit C2F,23.0,6.0,194.0,--,330.0,264.0,489.0,440.0,0.0
+Jamie Headon,CrossFit C2F,24.0,6.0,194.0,--,330.0,264.0,489.0,440.0,0.0
 Julian Martinez,Unaffiliated,27.0,68.0,155.0,0:52,245.0,225.0,495.0,435.0,0.0
 Mark Oliver,CrossFit Ybor,24.0,66.0,175.0,--,335.0,250.0,485.0,0.0,0.0
 Pete Barner,Washington State University CrossFit,24.0,68.0,185.0,--,255.0,225.0,420.0,375.0,0.0
@@ -214,7 +214,7 @@ Darren Marks,Black Dog CrossFit,33.0,70.0,195.0,--,325.0,245.0,520.0,445.0,50.0
 Samuel Gallego,CrossFit Teatinos,28.0,7.0,187.0,1:01,330.0,246.0,473.0,418.0,65.0
 Alexander Elebro,CrossFit Solid,24.0,0.0,205.0,--,0.0,0.0,0.0,0.0,0.0
 Wade Whitton,CrossFit Elect,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
-Arminas Balevicius,CrossFit 82,23.0,6.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Arminas Balevicius,CrossFit 82,24.0,6.0,170.0,--,0.0,0.0,0.0,0.0,0.0
 Eiríkur Baldursson,CrossFit Nordvest,28.0,7.0,191.0,0:58,286.0,279.0,485.0,374.0,63.0
 David Bjornsson,CrossFit Sport,21.0,6.0,171.0,1:03,308.0,242.0,485.0,385.0,64.0
 Cory Dill,CrossFit McCalla,27.0,69.0,195.0,--,355.0,280.0,525.0,550.0,0.0
@@ -269,3 +269,1702 @@ Chris Killian,Hardbat CrossFit,30.0,67.0,180.0,--,335.0,270.0,500.0,450.0,65.0
 Streat Hoerner,CrossFit Dubuque,21.0,69.0,192.0,--,345.0,265.0,500.0,425.0,0.0
 Kosta Ilic,CrossFit Dignus,26.0,7.0,190.0,--,0.0,0.0,0.0,0.0,0.0
 Vinny Casey,CrossFit Diamond State,21.0,69.0,185.0,0:00,335.0,275.0,515.0,485.0,0.0
+Ricky Moore,CrossFit Invictus Point Loma,27.0,65.0,173.0,--,325.0,250.0,465.0,451.0,51.0
+Klaus Hebo Uggerhoj,CrossFit Aalborg,26.0,6.0,190.0,0:00,308.0,246.0,485.0,414.0,0.0
+Conor Nugent,CrossFit Resilience,23.0,73.0,205.0,0:55,350.0,300.0,500.0,425.0,71.0
+Jonathan Gauvreau,CrossFit de l'est,32.0,71.0,230.0,1:23,350.0,300.0,565.0,515.0,35.0
+Sean Brickwood,CrossFit Origin,27.0,6.0,175.0,--,308.0,246.0,447.0,385.0,45.0
+Tony Spaleny,CrossFit 417,20.0,68.0,185.0,0:58,275.0,225.0,410.0,375.0,50.0
+Danny Burk,CrossFit North Peoria,33.0,68.0,188.0,0:00,0.0,0.0,0.0,0.0,0.0
+Justin Adams,Woodward CrossFit,26.0,68.0,180.0,0:58,320.0,245.0,475.0,405.0,80.0
+Tim Leigh,Refine CrossFit,25.0,69.0,180.0,--,345.0,283.0,516.0,455.0,60.0
+James Stetson,CrossFit On Track,24.0,69.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Erik Toth,CrossFit Bratislava,27.0,6.0,189.0,--,298.0,237.0,0.0,419.0,50.0
+Ondrej Tencer,CrossFit Kosice,24.0,7.0,209.0,--,319.0,253.0,507.0,407.0,60.0
+Jeff Rickert,CrossFit Broad Ripple,28.0,70.0,185.0,--,225.0,185.0,405.0,315.0,35.0
+Jorge Roel Gonzalez,Unaffiliated,34.0,6.0,192.0,--,0.0,0.0,535.0,435.0,0.0
+Sam Dancer,Qtown CrossFit,29.0,70.0,210.0,--,365.0,315.0,655.0,535.0,65.0
+Sul Min Choi,CrossFit FBJ,28.0,6.0,193.0,0:00,297.0,231.0,485.0,407.0,30.0
+Aaron Carlson,Natural Selection CrossFit,34.0,69.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+James Hobart,CrossFit Mayhem,30.0,68.0,185.0,--,325.0,266.0,505.0,425.0,60.0
+Dusty Sulon,CrossFit Danville,31.0,72.0,185.0,1:07,305.0,260.0,500.0,420.0,46.0
+Will Trujillo,CrossFit Fury,29.0,71.0,204.0,--,0.0,0.0,0.0,0.0,0.0
+Marc-Andre Ferris,Physics CrossFit,22.0,71.0,197.0,--,0.0,0.0,0.0,0.0,0.0
+Joseph Tortora,CrossFit Grandview,25.0,70.0,193.0,--,330.0,265.0,475.0,450.0,70.0
+Alex Bookout,CrossFit Conjugate,24.0,68.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+James Kozlakowski,CrossFit Virtuosity,26.0,70.0,205.0,--,355.0,265.0,600.0,495.0,0.0
+Zach Sowder,CrossFit Maximus Nashland,24.0,68.0,195.0,0:55,335.0,250.0,560.0,485.0,64.0
+Richard Bohlken,CrossFit Lubbock,28.0,71.0,195.0,--,340.0,275.0,530.0,425.0,55.0
+Benjamin Williams,CrossFit Bound,29.0,72.0,193.0,--,350.0,275.0,517.0,457.0,0.0
+Gilson Duarte,BSB CrossFit,26.0,6.0,158.0,--,2.0,185.0,435.0,380.0,0.0
+Kevin Schuetz,Koda CrossFit Norman,29.0,72.0,205.0,0:00,345.0,300.0,575.0,450.0,54.0
+Hayden LaVanda,CrossFit Artax,23.0,6.0,196.0,0:00,330.0,264.0,529.0,451.0,65.0
+Mariano Carchio,BIGG CrossFit Palermo Chico,25.0,0.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Joel Munro,CrossFit Raw Commando,25.0,6.0,167.0,--,308.0,249.0,485.0,374.0,70.0
+Marquan Jones,CrossFit West Essex,26.0,71.0,190.0,0:00,340.0,285.0,485.0,420.0,64.0
+Mike Abgarian,Reebok CrossFit Back Bay,33.0,64.0,155.0,1:01,310.0,232.0,440.0,435.0,81.0
+Eric Evans,CrossFit Foothill,25.0,70.0,178.0,0:49,310.0,245.0,515.0,405.0,59.0
+Matt Strand,Timberwolf CrossFit,23.0,70.0,185.0,--,305.0,230.0,520.0,450.0,56.0
+Nick Robles,CrossFit Kinnick,26.0,72.0,209.0,1:09,320.0,265.0,0.0,385.0,0.0
+Jesse Beckner,CrossFit Code 3 South,25.0,0.0,187.0,--,0.0,0.0,0.0,0.0,0.0
+Dennis Guerrero,CrossFit Jetty,26.0,66.0,155.0,--,285.0,245.0,460.0,400.0,64.0
+Denis Samsonov,CrossFit 8085,26.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Harry Debenham,CrossFit Reebok Gold Coast,21.0,7.0,176.0,--,286.0,231.0,485.0,374.0,0.0
+Carl Appel,CrossFit Hamilton,26.0,70.0,195.0,--,340.0,260.0,500.0,460.0,0.0
+Tucker McLemore,CrossFit Argyle,23.0,70.0,188.0,1:01,285.0,205.0,455.0,400.0,0.0
+Frank Mastroianni,CrossFit Affect,23.0,66.0,178.0,--,325.0,255.0,475.0,425.0,30.0
+Joshua Wichtrup,CrossFit Flensburg,24.0,7.0,183.0,1:01,310.0,225.0,475.0,445.0,0.0
+Dustin McWilliams,CrossFit Tundra,35.0,67.0,170.0,--,305.0,240.0,425.0,400.0,50.0
+Simon Nybacka,CrossFit Nordic,26.0,0.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Tyler McBride,CrossFit 516,27.0,67.0,170.0,1:04,0.0,0.0,405.0,340.0,60.0
+Conor Murphy,Reebok CrossFit One,27.0,73.0,185.0,0:00,0.0,0.0,0.0,0.0,0.0
+Numi Katrinarson,CrossFit Nordic,36.0,7.0,185.0,--,293.0,233.0,425.0,381.0,55.0
+Kyle Kasperbauer,CrossFit Kinesis,34.0,68.0,190.0,0:51,345.0,285.0,508.0,515.0,71.0
+Gabriel Donald,CrossFit Grover Beach,36.0,69.0,174.0,--,245.0,195.0,445.0,365.0,0.0
+Connor McDonald,NorBeau CrossFit,24.0,71.0,185.0,--,300.0,245.0,455.0,380.0,72.0
+Antonio Reyes,Contender CrossFit,26.0,67.0,165.0,0:52,280.0,210.0,510.0,385.0,70.0
+Zathan Simpson,Reebok CrossFit One,25.0,71.0,185.0,1:00,0.0,215.0,0.0,345.0,0.0
+Jonathan Mancini,CrossFit Steam,23.0,69.0,176.0,--,275.0,210.0,425.0,355.0,0.0
+Tyler Goldberg,CrossFit Harbor East,26.0,76.0,205.0,1:20,245.0,205.0,525.0,405.0,0.0
+Javier González Fernández,CrossFit Malaga,24.0,7.0,185.0,--,319.0,242.0,485.0,418.0,0.0
+Sam Parkin,,25.0,6.0,188.0,--,286.0,198.0,518.0,385.0,51.0
+Morten Almaas,CrossFit Maxpuls,30.0,7.0,190.0,--,275.0,213.0,440.0,352.0,0.0
+Cameron Nichol,Blitz CrossFit,29.0,7.0,215.0,--,275.0,238.0,485.0,363.0,0.0
+Bartosz Wieckowski,Reebok CrossFit Mokotow,26.0,7.0,196.0,--,308.0,253.0,462.0,385.0,51.0
+Abel Rodríguez,CrossFit 77 Feet,22.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Brandon DeLao,CrossFit Meridian,26.0,66.0,175.0,--,300.0,225.0,430.0,365.0,55.0
+John Hitchcock,CrossFit Excel,27.0,69.0,192.0,0:50,343.0,305.0,541.0,435.0,74.0
+Cédric Lapointe,CrossFit 819,20.0,6.0,175.0,--,305.0,240.0,425.0,405.0,65.0
+Taylor Wade,CrossFit Crash,24.0,69.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Matthew Pals,CrossFit Irondale,39.0,72.0,190.0,0:00,315.0,255.0,515.0,425.0,50.0
+Craig Kenney,Branford CrossFit,29.0,72.0,200.0,--,340.0,300.0,525.0,445.0,0.0
+Thomas Vinas,CrossFit Fury,20.0,71.0,200.0,--,365.0,282.0,540.0,475.0,0.0
+Nicolas Leblanc,L'usine CrossFit Taschereau,24.0,68.0,185.0,--,300.0,245.0,480.0,365.0,0.0
+YooSik Kim,CrossFit Zest,30.0,6.0,176.0,--,300.0,245.0,535.0,440.0,59.0
+Jorge Aragon,East Valley CrossFit,22.0,66.0,175.0,0:51,315.0,245.0,455.0,385.0,61.0
+Brenden Loyer,CrossFit Reformation,25.0,68.0,182.0,1:02,305.0,255.0,475.0,430.0,1.0
+Kent Ingalls,CrossFit Forward,34.0,69.0,170.0,0:53,332.0,264.0,485.0,462.0,70.0
+Julian Serna,Hallandale Beach CrossFit,33.0,71.0,195.0,0:00,265.0,195.0,0.0,0.0,55.0
+Shane McBride,CrossFit 557,30.0,65.0,183.0,0:00,355.0,280.0,550.0,505.0,0.0
+andrew Kong,CrossFit Tustin,27.0,67.0,187.0,1:19,345.0,286.0,500.0,440.0,0.0
+Chad Blanchard,NEPA CrossFit,31.0,71.0,210.0,--,300.0,260.0,545.0,425.0,62.0
+Marc Ordeig,Area CrossFit,28.0,6.0,189.0,--,2.0,231.0,440.0,374.0,0.0
+Troy Cathey,CrossFit Caldwell,24.0,67.0,180.0,0:59,275.0,225.0,455.0,380.0,42.0
+Tommy Hackenbruck,Ute CrossFit Sugarhouse,35.0,73.0,209.0,0:57,340.0,285.0,535.0,525.0,60.0
+Spenser Scott,CrossFit Valley of the Moon,27.0,68.0,170.0,0:59,265.0,220.0,445.0,375.0,65.0
+Javi Martinez,Coast Range CrossFit,30.0,69.0,180.0,--,280.0,215.0,485.0,410.0,0.0
+Dane Dekerlegand,CrossFit Breaux Bridge,30.0,66.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Timothy Fabiano,CrossFit 247,27.0,69.0,178.0,--,315.0,250.0,470.0,405.0,60.0
+Yves-Éric Pilote,CrossFit Jonq,27.0,71.0,190.0,--,275.0,0.0,0.0,0.0,0.0
+David Sluss,Bear Republic CrossFit,31.0,70.0,168.0,1:23,255.0,205.0,365.0,315.0,50.0
+Maxim Emond,STADD CrossFit,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Will Carter,CrossFit Immortal,25.0,67.0,189.0,--,335.0,255.0,500.0,450.0,0.0
+Nathan Hammock,CrossFit Clash,28.0,72.0,210.0,--,365.0,300.0,500.0,475.0,0.0
+Eric Cardona,HustleHard CrossFit,25.0,66.0,155.0,1:09,315.0,250.0,445.0,385.0,71.0
+Hunter Stewart,CrossFit Sua Sponte West,29.0,72.0,200.0,--,325.0,240.0,425.0,405.0,0.0
+Matthew Torres,River North CrossFit,30.0,68.0,170.0,0:00,0.0,0.0,0.0,0.0,0.0
+Mateusz Knap,CrossFit Elektromoc,25.0,6.0,180.0,--,260.0,0.0,480.0,355.0,52.0
+Jason Smith,CrossFit Kyalami,32.0,7.0,195.0,1:05,345.0,295.0,550.0,450.0,45.0
+Connor Vale,CrossFit Kitsilano,23.0,71.0,197.0,0:00,340.0,285.0,475.0,455.0,0.0
+Vincent Buttitta,CrossFit Strongsville,26.0,66.0,170.0,--,315.0,245.0,470.0,440.0,0.0
+Jordan Bender,CrossFit Melbourne,24.0,6.0,182.0,0:00,0.0,0.0,0.0,0.0,0.0
+Daniel Petro,CrossFit West Cobb,28.0,71.0,210.0,0:00,330.0,285.0,555.0,485.0,65.0
+Ryan Smith,Big Sky CrossFit,31.0,71.0,190.0,0:00,300.0,245.0,485.0,380.0,60.0
+Olivier Martin,Unaffiliated,35.0,72.0,208.0,1:14,345.0,255.0,505.0,445.0,51.0
+Justin Van Dyke,CrossFit South Bay,32.0,71.0,195.0,--,0.0,245.0,0.0,420.0,0.0
+Eric Showman,CrossFit Amped Shoreline,29.0,71.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Norman Woodring,CrossFit Unmatched,27.0,0.0,195.0,--,315.0,0.0,565.0,410.0,0.0
+Andrea Barbotti,CrossFit Civitanova,27.0,6.0,180.0,--,313.0,249.0,462.0,407.0,40.0
+Chris Martirano,CrossFit Adaptation,29.0,72.0,209.0,0:57,335.0,265.0,525.0,420.0,0.0
+Scott Braunsdorf,CrossFit Costa Mesa,28.0,72.0,0.0,0:00,275.0,224.0,473.0,341.0,55.0
+Jeremy Kinnick,CrossFit Kinnick,37.0,70.0,200.0,1:05,307.0,250.0,495.0,445.0,65.0
+Justin King,Slingin Iron CrossFit,35.0,69.0,215.0,--,365.0,300.0,535.0,515.0,47.0
+Robert Wagner,Skyline CrossFit,25.0,69.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Dustin Owen,CrossFit .380 South,40.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Josh Connelly,CrossFit Allendale,25.0,70.0,200.0,--,285.0,225.0,465.0,420.0,50.0
+Travis Pribula,CrossFit Tundra,27.0,69.0,180.0,1:06,305.0,250.0,475.0,385.0,31.0
+Joey Szwec,CrossFit East Cobb,21.0,70.0,187.0,--,310.0,250.0,435.0,400.0,50.0
+Scott Giuliano,CrossFit Apex,22.0,70.0,190.0,--,315.0,255.0,475.0,405.0,0.0
+Tom Wyles,Esprit de Corps CrossFit,32.0,7.0,180.0,--,264.0,198.0,440.0,396.0,33.0
+Jimmy St Louis,CrossFit Ybor,35.0,77.0,225.0,0:58,315.0,240.0,500.0,435.0,39.0
+Cameron Currie,CrossFit Cavaliers,29.0,70.0,194.0,1:04,350.0,255.0,525.0,485.0,55.0
+Ant Haynes,CrossFit CSTL,27.0,6.0,196.0,0:00,0.0,0.0,0.0,0.0,0.0
+Park Jihwan,CrossFit Sechan,25.0,6.0,148.0,--,0.0,0.0,0.0,0.0,0.0
+Eric Oxley,CrossFit Shady Grove,28.0,69.0,195.0,1:02,340.0,275.0,540.0,480.0,0.0
+Anthony Davis,CrossFit Lake Effect,22.0,70.0,215.0,--,345.0,280.0,600.0,500.0,52.0
+Kaylem Cottrill,CrossFit Runway,28.0,68.0,195.0,--,335.0,235.0,605.0,505.0,64.0
+Michael Gillum,CrossFit Taurus,27.0,7.0,220.0,--,324.0,277.0,507.0,401.0,0.0
+Nicolas Viens,L'Usine CrossFit Sherbrooke,22.0,74.0,210.0,--,335.0,275.0,545.0,435.0,0.0
+Connor Cackovic,CrossFit 760 Elk City,24.0,69.0,190.0,0:54,305.0,250.0,515.0,0.0,0.0
+Logan Schecter,CrossFit Milford,27.0,67.0,155.0,1:06,287.0,240.0,430.0,350.0,60.0
+Guido Trinidad,Peak 360 CrossFit,36.0,67.0,191.0,1:02,335.0,260.0,475.0,450.0,63.0
+Rodney Carter,CrossFit Bound,21.0,70.0,183.0,--,250.0,0.0,0.0,0.0,0.0
+Luke McGruer,Mount CrossFit,33.0,6.0,176.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jesse Burns,CrossFit NorWest,19.0,0.0,158.0,--,0.0,205.0,440.0,0.0,0.0
+Ruben Martinez,Contender CrossFit,22.0,70.0,175.0,1:07,345.0,270.0,410.0,415.0,60.0
+Cedrik Bernier,CrossFit Pro1,25.0,75.0,220.0,--,280.0,235.0,445.0,355.0,2.0
+Liam Holborn,Tweed CrossFit,36.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Martin Pedreira,CrossFit Forest,33.0,70.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Rob Edel,CrossFit OC3,27.0,75.0,195.0,--,275.0,220.0,475.0,365.0,43.0
+Jonathan See,CrossFit Free,25.0,69.0,183.0,--,255.0,200.0,425.0,350.0,0.0
+Daniel Iracheta,CrossFit CDR Redlands,28.0,70.0,181.0,--,270.0,220.0,475.0,400.0,0.0
+Alastair Mackinnon,CrossFit East Kilbride,27.0,7.0,200.0,0:00,235.0,176.0,407.0,0.0,0.0
+David Santa Cruz Borgstrand,CrossFit Sydkusten,34.0,7.0,210.0,1:03,330.0,275.0,507.0,462.0,56.0
+Yohann Gigord,CrossFit Galileo,27.0,6.0,187.0,0:55,308.0,253.0,418.0,385.0,33.0
+P D Savage,CrossFit 8020,26.0,73.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Ryan Ventura,CrossFit I 35,26.0,68.0,185.0,--,315.0,250.0,0.0,405.0,0.0
+Landon Weber,Max Oxygen CrossFit,24.0,70.0,170.0,--,255.0,205.0,420.0,385.0,56.0
+Clay Cook,CrossFit Canada Bay,25.0,7.0,196.0,0:00,220.0,147.0,407.0,308.0,0.0
+andrew costantino,Vagabond CrossFit,30.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Richard Vint,CrossFit 1664,37.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Marcel Schröder,CrossFit KraftMuehle,37.0,0.0,191.0,--,0.0,0.0,0.0,0.0,0.0
+Sandro Curami,Reebok CrossFit Louvre,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chris Scutti,CrossFit Newton,24.0,71.0,207.0,0:00,315.0,0.0,545.0,500.0,50.0
+Jacob Theriot,Hurricane CrossFit,26.0,65.0,160.0,1:01,285.0,255.0,485.0,460.0,70.0
+Bryce Lawlor,CrossFit RDU,24.0,70.0,190.0,--,325.0,255.0,535.0,435.0,0.0
+Patrick Fitzsimons,CrossFit Active Artarmon,27.0,6.0,180.0,0:00,319.0,253.0,562.0,418.0,0.0
+Josh Mabry,South Charlotte CrossFit,27.0,66.0,175.0,--,300.0,235.0,500.0,400.0,0.0
+Stuart Bready,Gold City CrossFit,24.0,68.0,195.0,0:58,345.0,280.0,525.0,505.0,50.0
+Chris Hogan,CrossFit 121,31.0,6.0,200.0,1:00,319.0,264.0,485.0,407.0,65.0
+Andy Angelo,CrossFit Scioto,26.0,69.0,170.0,--,275.0,220.0,500.0,350.0,64.0
+Nate Dunfee,CrossFit Progression,29.0,72.0,207.0,0:00,340.0,280.0,550.0,425.0,39.0
+Alexander Nettey,CrossFit Chicago,33.0,73.0,200.0,0:00,310.0,275.0,0.0,405.0,0.0
+Andre Lozano,CrossFit New Albany,31.0,0.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Jérémie Mongeon-Duby,Reebok CrossFit YUL,22.0,69.0,190.0,--,315.0,235.0,465.0,415.0,0.0
+Tim Steel,CrossFit Hershey,35.0,70.0,177.0,0:56,295.0,215.0,505.0,390.0,55.0
+Simon Mantyla,CrossFit Solid,25.0,7.0,202.0,--,299.0,224.0,473.0,440.0,0.0
+Matt Rodwell,CrossFit Blackfriars,24.0,74.0,205.0,0:00,0.0,0.0,0.0,0.0,0.0
+Briston Gordon,Stay Classy CrossFit,22.0,71.0,189.0,--,300.0,225.0,450.0,390.0,30.0
+Matthew Walrath,Paradiso CrossFit Venice,26.0,70.0,185.0,1:02,284.0,220.0,510.0,435.0,57.0
+Courtney Bird,CrossFit Sua Sponte West,33.0,70.0,200.0,1:00,340.0,265.0,0.0,455.0,0.0
+Dale Meitzler,Bandit CrossFit,27.0,69.0,187.0,--,322.0,260.0,500.0,460.0,0.0
+Gage Hannah,CrossFit Ridgeline,20.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Bartek Karczewski,,28.0,6.0,187.0,--,352.0,275.0,507.0,440.0,0.0
+Stefan Helgi Einarsson,Reebok CrossFit Reykjavík,33.0,6.0,185.0,--,308.0,242.0,473.0,462.0,58.0
+Gabriel Yanez,CrossFit Garden City,25.0,66.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Mitchell Weekes,CrossFit 2580,25.0,0.0,161.0,--,0.0,0.0,0.0,0.0,0.0
+Santiago Ficcadenti,BIGG CrossFit Palermo Chico,27.0,7.0,190.0,--,286.0,231.0,440.0,374.0,72.0
+Jason Carroll,LumberYard CrossFit,27.0,70.0,185.0,--,315.0,250.0,555.0,440.0,0.0
+Robbie Perovich,CrossFit Fraser Valley,39.0,75.0,216.0,--,0.0,0.0,0.0,0.0,0.0
+Brandon Pastorek,CrossFit VisOne,32.0,71.0,205.0,1:10,365.0,275.0,505.0,405.0,50.0
+Michael Mikaere,Unaffiliated,25.0,6.0,189.0,0:00,308.0,253.0,551.0,407.0,0.0
+Chris Sansbury,Friendship CrossFit,27.0,72.0,198.0,0:00,305.0,225.0,475.0,445.0,31.0
+Gabriel Bussieres,CrossFit Quebec City,23.0,67.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Asa Brown,CrossFit Spartanburg,21.0,67.0,185.0,--,350.0,280.0,450.0,495.0,60.0
+Cody Mooney,CrossFit MF,22.0,72.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Christopher Brown,CrossFit Awaken,33.0,71.0,212.0,1:00,325.0,265.0,525.0,445.0,44.0
+Brendan Clarke,,24.0,7.0,185.0,1:00,308.0,271.0,451.0,379.0,50.0
+Addison Bain,Farmhouse CrossFit,27.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Phillip Kniep,CrossFit Lincoln,33.0,72.0,203.0,1:05,340.0,275.0,550.0,465.0,48.0
+Guillaume Magnouat,CrossFit Hostilius,27.0,0.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Tristan Maiorano,Unaffiliated,21.0,71.0,185.0,0:00,295.0,235.0,500.0,405.0,40.0
+Joshua Swann,CrossFit Nac,24.0,66.0,175.0,0:00,315.0,245.0,465.0,450.0,0.0
+Josh Wagner,CrossFit Apex,35.0,69.0,179.0,1:03,290.0,255.0,475.0,400.0,60.0
+Benjamin Massey,Blitz CrossFit,27.0,73.0,191.0,0:00,220.0,0.0,396.0,363.0,55.0
+Tim Faughlin,CrossFit Melbourne,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Adam Darnley-Stuart,CrossFit Eora,32.0,7.0,171.0,--,308.0,220.0,451.0,374.0,0.0
+Bryan Meraviglia,CrossFit Milford,28.0,70.0,190.0,--,305.0,235.0,505.0,415.0,0.0
+Travis Holmquist,Be CrossFit,30.0,67.0,165.0,1:04,275.0,225.0,435.0,325.0,45.0
+Ben Schmidt,CrossFit Kilo,30.0,71.0,192.0,0:00,0.0,0.0,0.0,0.0,0.0
+Carl Moreton,CrossFit Liverpool,25.0,69.0,194.0,0:59,297.0,242.0,465.0,396.0,50.0
+Mike Gilmore,CrossFit Roseville,38.0,68.0,155.0,1:03,250.0,200.0,462.0,365.0,60.0
+Raffi Vaz,CrossFit Posto 9,31.0,132.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Matthew Sleight,CrossFit Hull,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Orlando Trejo,CrossFit Ramus,28.0,6.0,72.0,0:00,335.0,264.0,462.0,440.0,0.0
+Austin Nedelcoff,CrossFit Bettendorf,25.0,71.0,175.0,--,320.0,255.0,455.0,420.0,0.0
+Tyler Kopacz,Maple City CrossFit,25.0,67.0,176.0,0:58,285.0,205.0,475.0,400.0,79.0
+Greg Pierce,CrossFit Southie,27.0,0.0,197.0,--,0.0,0.0,0.0,0.0,0.0
+Garret Fisher,Unaffiliated,25.0,73.0,209.0,0:55,365.0,285.0,0.0,0.0,0.0
+Joe Silvestri,CrossFit Amped Bellevue,29.0,69.0,195.0,1:00,350.0,282.0,555.0,475.0,60.0
+Dominick Maurici,Caution CrossFit,27.0,67.0,180.0,1:02,335.0,260.0,545.0,475.0,76.0
+Anderon Primo,CrossFit Bauru,22.0,7.0,205.0,0:56,335.0,260.0,495.0,425.0,57.0
+Natan Geva,CrossFit Yas,28.0,7.0,189.0,--,282.0,242.0,396.0,341.0,0.0
+Mason Doherty,CrossFit MSD,26.0,6.0,194.0,0:58,308.0,242.0,485.0,396.0,60.0
+Luke Holmes,CrossFit 965,26.0,66.0,165.0,--,300.0,240.0,445.0,415.0,49.0
+Bryan Miller,CrossFit Invictus,26.0,73.0,210.0,1:03,355.0,290.0,555.0,460.0,57.0
+Nick Graham,Carriage House CrossFit,28.0,64.0,182.0,--,285.0,225.0,435.0,435.0,67.0
+Hudson Wikoff,CrossFit Naptown,28.0,71.0,200.0,--,332.0,275.0,500.0,425.0,0.0
+Peter Shaw,CrossFit NCR,27.0,7.0,215.0,--,315.0,245.0,505.0,405.0,53.0
+Josh Petlowany,Unaffiliated,37.0,72.0,200.0,0:00,320.0,245.0,475.0,400.0,0.0
+Ronnie Teasdale,CrossFit Mean Streets,34.0,70.0,182.0,0:58,275.0,240.0,475.0,400.0,65.0
+Ryan Knutson,Compound CrossFit,25.0,70.0,195.0,1:03,337.0,282.0,515.0,438.0,63.0
+Tyler Christophel,CrossFit 417,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Bryce Smith,CrossFit Invictus,26.0,76.0,215.0,0:00,0.0,0.0,0.0,0.0,0.0
+John Lytle,Declaration CrossFit,28.0,69.0,177.0,0:00,275.0,215.0,0.0,385.0,70.0
+David Cornthwaite,CrossFit St. Louis,34.0,68.0,197.0,0:00,335.0,265.0,425.0,405.0,56.0
+Landan Webster,CrossFit Dallas Central,34.0,73.0,205.0,0:58,308.0,264.0,440.0,405.0,45.0
+Charlie Cassara,SC CrossFit 165,43.0,70.0,190.0,1:00,275.0,235.0,505.0,385.0,0.0
+Nolan Gouveia,CrossFit Kindle,27.0,70.0,195.0,--,295.0,245.0,495.0,415.0,0.0
+Brandon Massie,Mako CrossFit,28.0,72.0,208.0,1:05,317.0,265.0,495.0,405.0,50.0
+Jarett Perelmutter,Brick CrossFit Grand Central Station,41.0,66.0,154.0,0:00,0.0,0.0,475.0,1000.0,0.0
+Max Bragg,CrossFit MF,23.0,68.0,165.0,--,285.0,235.0,425.0,350.0,0.0
+Carlos Trujillo,Unaffiliated,23.0,0.0,160.0,--,275.0,225.0,550.0,375.0,0.0
+Sean Hardwick,CrossFit Central Lancaster,28.0,72.0,185.0,0:00,297.0,242.0,462.0,385.0,52.0
+Ryan Rapenport,South Loop CrossFit,32.0,0.0,175.0,--,305.0,245.0,0.0,490.0,0.0
+Brett Moore,Eximo CrossFit,30.0,72.0,200.0,0:59,290.0,230.0,455.0,425.0,54.0
+Stef Lig,Reebok CrossFit Tyneside,28.0,6.0,178.0,0:00,253.0,187.0,418.0,374.0,41.0
+Tj Mitchell,Black Dog CrossFit,24.0,69.0,182.0,--,290.0,215.0,415.0,370.0,0.0
+Matthew Hubbard,Unaffiliated,35.0,69.0,189.0,1:04,345.0,285.0,505.0,475.0,64.0
+Allan Dunlap,CrossFit Fort Vancouver,24.0,67.0,178.0,--,0.0,0.0,0.0,0.0,0.0
+Travis Mead,Iron Valley CrossFit,30.0,73.0,205.0,--,335.0,280.0,560.0,465.0,60.0
+Teanu Rickard,Arete CrossFit,23.0,69.0,210.0,--,320.0,240.0,560.0,455.0,45.0
+Connor Duddy,CrossFit Athletic Academy,23.0,70.0,185.0,--,325.0,260.0,475.0,410.0,0.0
+Darren Thornton,CrossFit 965,27.0,0.0,204.0,--,0.0,0.0,0.0,0.0,0.0
+Mathew Hornung,CrossFit Fort Vancouver,27.0,0.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Scott Stalling,CrossFit Dixie,31.0,72.0,172.0,1:00,300.0,255.0,495.0,370.0,0.0
+Matt Mcleod,CrossFit Crossaxed,23.0,6.0,169.0,1:02,299.0,238.0,485.0,396.0,63.0
+Ethan Helbig,Unaffiliated,21.0,71.0,210.0,--,341.0,265.0,455.0,445.0,0.0
+Ngarimu Ahipene,Injustice CrossFit,29.0,6.0,182.0,--,324.0,264.0,509.0,451.0,0.0
+Matt Rattay,Three Kings CrossFit,23.0,67.0,170.0,0:00,315.0,225.0,425.0,425.0,0.0
+Drew Canavero,CrossFit Knurling,29.0,68.0,185.0,1:04,375.0,300.0,545.0,535.0,50.0
+Hunter Britt,CrossFit Invictus,22.0,70.0,178.0,0:00,330.0,275.0,545.0,425.0,0.0
+Antonio Milocco,CrossFit Ichnos,25.0,6.0,180.0,0:59,297.0,235.0,496.0,418.0,77.0
+Trent Blackwill,CrossFit on 18th,27.0,70.0,180.0,--,335.0,275.0,425.0,405.0,0.0
+Omar Martinez,Unaffiliated,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Dillon Smith,CrossFit The Tracks,22.0,72.0,190.0,0:56,325.0,275.0,535.0,445.0,0.0
+Jason Lasko,Northwest CrossFit Bellevue,29.0,75.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chad Langan,Maple City CrossFit,24.0,62.0,135.0,1:00,307.0,235.0,450.0,441.0,80.0
+Michel Lessard,1535 CrossFit,32.0,70.0,0.0,--,275.0,210.0,585.0,385.0,51.0
+Dan Melzar,CrossFit New England,26.0,69.0,185.0,--,295.0,245.0,445.0,425.0,0.0
+Chad Powlovich,CrossFit Charlottesville,30.0,75.0,223.0,--,310.0,250.0,475.0,435.0,0.0
+Chad Kibbey,,31.0,69.0,176.0,1:00,300.0,256.0,500.0,390.0,0.0
+Dalton Mankin,CrossFit Wild West,21.0,68.0,180.0,--,335.0,265.0,455.0,435.0,40.0
+Garrett Bothun,CrossFit Heath,32.0,69.0,180.0,0:56,320.0,260.0,455.0,405.0,0.0
+Schuyler Schmidt,Unaffiliated,33.0,68.0,159.0,1:12,0.0,0.0,415.0,365.0,50.0
+Korey Bromery,CrossFit Beaufort,30.0,71.0,190.0,1:13,320.0,255.0,505.0,440.0,0.0
+Gerald Matyschsyk,CrossFit Brickyard,34.0,72.0,215.0,0:00,300.0,245.0,485.0,415.0,43.0
+Sam Flavell,CrossFit Melbourne,23.0,0.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Szymanski,CrossFit Wallingford,25.0,68.0,178.0,0:53,305.0,230.0,455.0,410.0,42.0
+Derek Volmering,Get Lifted CrossFit,31.0,72.0,203.0,--,0.0,0.0,0.0,0.0,0.0
+Eric Sweet,CrossFit Rife,38.0,69.0,188.0,1:09,285.0,225.0,475.0,415.0,52.0
+Oscar Dudzinski,CrossFit West Chester,22.0,69.0,178.0,--,275.0,215.0,465.0,365.0,0.0
+Josh Dilworth,CrossFit On Track,26.0,70.0,215.0,--,335.0,275.0,545.0,440.0,56.0
+Matthew Reilly,CrossFit Urge,28.0,7.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Skyler Sheeder,Railhouse CrossFit,28.0,68.0,165.0,--,285.0,225.0,420.0,400.0,50.0
+Steve Papa,CrossFit Pittsfield,32.0,68.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+Chad Melton,CrossFit 2nd Nature,26.0,67.0,195.0,--,355.0,300.0,565.0,460.0,57.0
+Brannen Dorman,CrossFit Passion,27.0,69.0,195.0,--,325.0,250.0,495.0,440.0,50.0
+ates boran,CrossFit 34,30.0,6.0,169.0,--,308.0,253.0,473.0,418.0,79.0
+Severin Irimia,CrossFit Euphoria,28.0,7.0,194.0,--,308.0,231.0,473.0,363.0,50.0
+Will Bennett,CrossFit West Monroe,22.0,70.0,190.0,0:00,345.0,628.0,0.0,0.0,55.0
+Artur Machado,Furia CrossFit,25.0,6.0,170.0,0:44,330.0,244.0,537.0,451.0,72.0
+Joe Piersanti,CrossFit OC3,23.0,68.0,189.0,--,350.0,270.0,545.0,500.0,0.0
+Guilherme Domingues,CrossFit Esteio,26.0,7.0,200.0,0:58,335.0,267.0,525.0,425.0,0.0
+Chris Shimley,Top Fuel CrossFit Valparaiso,25.0,68.0,193.0,0:00,365.0,285.0,505.0,505.0,61.0
+Chris Reed,CrossFit Lubbock,22.0,71.0,195.0,--,315.0,255.0,455.0,405.0,50.0
+Andrick Fournier,L'Usine CrossFit Sherbrooke,22.0,70.0,190.0,--,315.0,261.0,487.0,365.0,0.0
+Mackenzie Curran,CrossFit 26,22.0,70.0,190.0,0:00,305.0,245.0,485.0,405.0,50.0
+Daniel Felling,Unaffiliated,26.0,72.0,190.0,0:00,0.0,0.0,400.0,0.0,0.0
+Christian Davila,CrossFit Gwinnett,23.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Nathan Keil,Unaffiliated,28.0,72.0,195.0,--,305.0,260.0,500.0,435.0,65.0
+David Musgrave,Croga CrossFit,30.0,69.0,195.0,--,305.0,262.0,485.0,415.0,44.0
+James McLaughlan,Five Lakes CrossFit,29.0,65.0,154.0,1:00,285.0,227.0,465.0,400.0,68.0
+Brady Greear,CrossFit STY,25.0,70.0,210.0,--,325.0,255.0,575.0,455.0,0.0
+?udovít Czókoly,,24.0,6.0,187.0,1:03,341.0,264.0,462.0,418.0,64.0
+Callum Foster,Range of Motion CrossFit,28.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+David Zastrow,CrossFit Mean Streets,31.0,68.0,178.0,--,300.0,235.0,430.0,400.0,58.0
+Calvin Keyser-Allen,CrossFit Nordic,33.0,6.0,202.0,0:53,352.0,275.0,573.0,496.0,0.0
+Ryan Starling,CrossFit CDR Redlands,34.0,71.0,195.0,--,335.0,250.0,535.0,460.0,0.0
+Brendan Southwick,CrossFit Territory,33.0,6.0,185.0,0:00,374.0,319.0,551.0,473.0,72.0
+Lefteris Theofanidis,Royal CrossFit,26.0,67.0,174.0,--,400.0,310.0,0.0,640.0,0.0
+Alex Miller,CrossFit Over the Mountain,26.0,0.0,215.0,--,0.0,0.0,0.0,0.0,0.0
+Sean McArdle,Park Slope CrossFit,35.0,0.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Vernard Jenkins,,36.0,69.0,220.0,1:29,315.0,250.0,655.0,525.0,0.0
+Victor Pineda,West View CrossFit,27.0,6.0,172.0,0:58,245.0,210.0,405.0,330.0,50.0
+Eric Rodriguez,LoneStar CrossFit,26.0,60.0,165.0,--,265.0,195.0,475.0,405.0,0.0
+Jakob Magnusson,CrossFit Hafnarfjordur,28.0,6.0,187.0,0:00,297.0,264.0,485.0,407.0,50.0
+Seth Prochaska,CrossFit Cedar Park,26.0,70.0,182.0,0:58,365.0,285.0,585.0,525.0,52.0
+Blake Aulds,CrossFit OverTake,28.0,70.0,175.0,1:00,319.0,268.0,455.0,370.0,60.0
+Nick Fuentes,CrossFit Chatswood,24.0,7.0,183.0,--,288.0,235.0,429.0,341.0,0.0
+Joey Siela,CrossFit HIDDENGYM,30.0,74.0,190.0,--,305.0,235.0,455.0,405.0,70.0
+Jesse Baz,Paradiso CrossFit Venice,34.0,70.0,172.0,0:00,282.0,220.0,430.0,375.0,63.0
+Joshua Thorn,CrossFit Loft,30.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chase Hill,CrossFit One Valley,27.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Wach Mickael,Unaffiliated,33.0,7.0,207.0,--,286.0,220.0,429.0,363.0,0.0
+Tom Hoffman,CrossFit Performance,25.0,75.0,204.0,1:00,235.0,170.0,365.0,285.0,0.0
+Chase Davis,,26.0,68.0,170.0,--,305.0,240.0,475.0,465.0,0.0
+Barry Mairs,CrossFit 8020,30.0,6.0,191.0,0:58,293.0,253.0,473.0,396.0,60.0
+Brendan Caslin,CrossFit Southie,24.0,73.0,194.0,--,300.0,225.0,425.0,375.0,52.0
+Kieran Mullins,CrossFit Artax,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Auke Toussaint,CrossFit Noord,34.0,6.0,169.0,0:00,0.0,0.0,0.0,0.0,50.0
+Charlie Racinowski,Iron Wolf CrossFit,29.0,68.0,198.0,1:15,325.0,275.0,550.0,505.0,60.0
+Josh Workman,CrossFit Norwalk,18.0,67.0,145.0,--,275.0,225.0,435.0,405.0,0.0
+Paco Bravo,Indian CrossFit,34.0,6.0,178.0,--,293.0,238.0,462.0,385.0,0.0
+David Espinosa Teran,CrossFit Roca,34.0,0.0,187.0,0:00,330.0,245.0,425.0,430.0,42.0
+Luke Ebron,CrossFit 8020,25.0,6.0,230.0,--,275.0,216.0,462.0,330.0,40.0
+Dominic Hodge,Reebok CrossFit Reading,27.0,7.0,194.0,--,286.0,224.0,0.0,0.0,0.0
+Ed Haynes,CrossFit CSTL,29.0,6.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Jona Kemmann,CrossFit Bonn,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Tyler Hopta,Peak 360 CrossFit,23.0,71.0,185.0,--,325.0,255.0,545.0,425.0,0.0
+Enrico Saul,CrossFit Muenster,42.0,7.0,189.0,--,275.0,205.0,435.0,0.0,72.0
+Robert Downton,CrossFit NorWest,36.0,6.0,220.0,0:00,0.0,0.0,0.0,0.0,0.0
+Yong Jun Lee,CrossFit Zest,26.0,7.0,188.0,--,265.0,205.0,465.0,385.0,0.0
+Jason Jamison,CrossFit Modern,32.0,70.0,185.0,--,325.0,260.0,500.0,455.0,0.0
+Marc Thomas,Corpore Sano CrossFit,28.0,6.0,176.0,1:02,286.0,220.0,562.0,429.0,70.0
+Matt James,CrossFit CM2,26.0,0.0,176.0,--,1741.0,1344.0,33069.0,2204620.0,397.0
+Kurt Baker,CrossFit Fraser Valley,27.0,75.0,215.0,1:02,315.0,280.0,528.0,423.0,60.0
+Elliot Simmonds,CrossFit Yas,23.0,7.0,185.0,0:00,0.0,0.0,0.0,0.0,0.0
+Marcos Rivera,CrossFit Max Effort,23.0,71.0,193.0,--,305.0,255.0,455.0,365.0,55.0
+Justin Fallon,CrossFit Blur,30.0,71.0,185.0,0:56,305.0,240.0,515.0,405.0,65.0
+Kendall Kersey,CrossFit Day One,29.0,70.0,203.0,0:54,330.0,251.0,525.0,450.0,60.0
+Trevor Bachmeyer,CrossFit Brentwood,43.0,70.0,185.0,1:07,315.0,245.0,565.0,465.0,88.0
+Marcin Szybaj,Hell's Rage CrossFit,26.0,6.0,187.0,--,297.0,231.0,440.0,418.0,60.0
+Dan Goldberg,CrossFit Syracuse,33.0,71.0,205.0,1:01,315.0,265.0,0.0,440.0,65.0
+Jason Ungacta,CrossFit Iron Mile,26.0,70.0,185.0,--,285.0,255.0,500.0,375.0,35.0
+Johan Van Deventer,RTF CrossFit Repeat,28.0,0.0,209.0,--,0.0,0.0,0.0,0.0,0.0
+Joshua Belville,CrossFit Cool Springs,36.0,72.0,205.0,0:57,315.0,255.0,475.0,410.0,50.0
+Jake Pinchback,CrossFit Tall City,25.0,68.0,168.0,0:56,315.0,245.0,495.0,405.0,53.0
+Samuel Cournoyer,CrossFit Adm,21.0,7.0,190.0,--,325.0,270.0,485.0,0.0,0.0
+Derek Eason,CrossFit Train 97333,22.0,67.0,160.0,--,265.0,205.0,455.0,345.0,62.0
+Michael DeMarco,The Helm CrossFit,27.0,65.0,158.0,--,295.0,235.0,415.0,385.0,0.0
+Mark Stewart Jr.,Hurricane CrossFit,31.0,73.0,208.0,1:05,350.0,265.0,535.0,475.0,35.0
+Gabe Garcia,CrossFit MF,34.0,67.0,169.0,0:00,275.0,215.0,435.0,400.0,60.0
+Tom Niro,Shop CrossFit,23.0,0.0,175.0,--,280.0,205.0,415.0,355.0,0.0
+Kevin Winkens,CrossFit Lost Legion,26.0,6.0,178.0,--,286.0,211.0,440.0,407.0,57.0
+Zack Simmons,Koda CrossFit,23.0,68.0,185.0,--,325.0,265.0,500.0,430.0,0.0
+Jackson McBride,Contender CrossFit,23.0,60.0,185.0,1:12,275.0,225.0,475.0,375.0,0.0
+Niels Verschuren,CrossFit Gymert,26.0,6.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Pates,CrossFit Battleground,26.0,0.0,154.0,--,0.0,0.0,0.0,0.0,0.0
+Paul Schecklman,Unaffiliated,25.0,70.0,200.0,--,345.0,255.0,575.0,460.0,49.0
+Sveinbjörn Sveinbjörnsson,CrossFit Sport,36.0,7.0,198.0,1:00,286.0,220.0,473.0,407.0,0.0
+Alex Kotoulas,,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Stefán Jóhannsson,Reebok CrossFit Reykjavík,22.0,0.0,215.0,--,0.0,0.0,0.0,0.0,0.0
+Callum Ward,CrossFit Chalk City,29.0,7.0,225.0,1:13,308.0,264.0,533.0,462.0,65.0
+Edy Montenegro,KOM CrossFit,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Franco Cozzi,BIGG CrossFit Palermo Chico,22.0,7.0,193.0,--,352.0,253.0,573.0,528.0,87.0
+Henry Lopez,CrossFit Invictus Point Loma,30.0,64.0,165.0,0:00,0.0,0.0,0.0,0.0,0.0
+Bryan Wong,CrossFit Haymaker,29.0,69.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Jeffrey Hajner,Iron Regime CrossFit,31.0,69.0,195.0,--,315.0,265.0,505.0,475.0,58.0
+Orion Hones,CrossFit Jaakarhu,22.0,71.0,215.0,--,325.0,255.0,535.0,425.0,0.0
+Mohamed Elomda,,28.0,7.0,207.0,--,310.0,245.0,550.0,385.0,62.0
+Matt Hewett,CrossFit Mayhem,28.0,68.0,185.0,0:52,315.0,252.0,530.0,475.0,60.0
+Zachary Forrest,CrossFit Max Effort,30.0,67.0,175.0,1:01,325.0,265.0,485.0,425.0,74.0
+Ryan Bender,CrossFit SPXF,28.0,70.0,195.0,0:00,350.0,295.0,605.0,455.0,0.0
+Robert Gray,CrossFit Anywhere,26.0,72.0,205.0,1:00,305.0,230.0,445.0,415.0,0.0
+Andrew Hiller,CrossFit Alpha Dog,25.0,69.0,190.0,0:58,310.0,260.0,550.0,450.0,84.0
+OJ Washington,Bear Republic CrossFit,31.0,70.0,181.0,0:49,315.0,270.0,495.0,485.0,50.0
+Chris Cordova,CrossFit Escondido,22.0,70.0,195.0,--,310.0,245.0,495.0,435.0,0.0
+Clay Braden,Reebok CrossFit Asia,29.0,74.0,198.0,0:00,0.0,0.0,0.0,0.0,0.0
+Cameron Knight,Rock It CrossFit,23.0,68.0,175.0,--,325.0,245.0,585.0,460.0,52.0
+Nycolas Joyal,Unaffiliated,22.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Raphael Durand,NorCal CrossFit Redwood City,25.0,69.0,0.0,--,295.0,245.0,465.0,370.0,0.0
+Christian Dealba,Second Alarm CrossFit,27.0,66.0,168.0,--,315.0,250.0,455.0,405.0,0.0
+Michael Hernandez,CrossFit CDR Redlands,28.0,70.0,175.0,51:09,315.0,255.0,475.0,405.0,0.0
+Nate Long,FURYAN CrossFit,26.0,67.0,178.0,--,315.0,265.0,475.0,385.0,63.0
+Alex Bozenhard,New London CrossFit,24.0,68.0,190.0,0:58,295.0,235.0,425.0,445.0,40.0
+Kyle McDermid,Unaffiliated,29.0,68.0,170.0,0:00,290.0,231.0,440.0,400.0,51.0
+Kristóf Horváth,Reebok CrossFit Duna,22.0,7.0,210.0,--,231.0,187.0,0.0,330.0,0.0
+Jacob Wallis,CrossFit Murfreesboro,20.0,73.0,180.0,0:49,315.0,260.0,475.0,375.0,72.0
+Ed Nave jr,CrossFit 38 Degrees North,26.0,69.0,179.0,--,300.0,235.0,475.0,355.0,0.0
+Josh Godinez,College Station CrossFit,19.0,68.0,164.0,0:00,0.0,0.0,0.0,0.0,0.0
+Simon Greenwood,CrossFit Oxford Originals,30.0,6.0,182.0,0:57,299.0,238.0,462.0,403.0,50.0
+Jack Fleckney,CrossFit East Northants,25.0,7.0,198.0,--,308.0,249.0,485.0,374.0,0.0
+Michael Tancini,New Order CrossFit,26.0,72.0,197.0,0:00,355.0,275.0,475.0,455.0,0.0
+Kevin Jurs,CrossFit Tartu,22.0,7.0,0.0,--,330.0,275.0,462.0,418.0,0.0
+Aidan Chemaly,CrossFit East Tamaki,26.0,6.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Trevor Dravland,CrossFit Surge,23.0,69.0,160.0,--,0.0,0.0,0.0,0.0,0.0
+Alex Arnold,CrossFit Wexford,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jose Machado,Crush It CrossFit,29.0,6.0,187.0,--,315.0,255.0,505.0,415.0,58.0
+Kevin Anderson,Be CrossFit,27.0,67.0,165.0,1:01,275.0,215.0,435.0,325.0,55.0
+Robert Ellis,CrossFit Finest,34.0,71.0,187.0,0:00,0.0,192.0,510.0,0.0,53.0
+Jón Víðir Þorvaldsson,Reebok CrossFit Reykjavík,20.0,6.0,160.0,--,242.0,194.0,352.0,319.0,51.0
+Axel Yang Kornvig,Aarhus CrossFit,28.0,6.0,174.0,--,264.0,209.0,440.0,308.0,56.0
+Vincent Towler,CrossFit Park Ridge,24.0,71.0,181.0,0:51,325.0,255.0,490.0,415.0,65.0
+Lucas Parker,CrossFit Vic City,27.0,68.0,187.0,0:00,345.0,291.0,0.0,490.0,0.0
+David Richman,Double Edge CrossFit,23.0,71.0,188.0,--,320.0,285.0,485.0,450.0,0.0
+Gary Helmick,CrossFit Revamped,29.0,70.0,180.0,0:00,320.0,250.0,525.0,420.0,60.0
+Alan Garcia,CrossFit Impetus,26.0,6.0,180.0,0:58,320.0,270.0,475.0,405.0,70.0
+daniel latour,CrossFit Granby,28.0,66.0,195.0,51:00,375.0,290.0,585.0,475.0,50.0
+Adam Klink,CrossFit Krypton,27.0,72.0,220.0,0:58,300.0,230.0,575.0,525.0,55.0
+Josh Marunde,CrossFit 269,30.0,70.0,188.0,58:00,315.0,245.0,455.0,430.0,0.0
+David Charbonneau,CrossFit Dynamix,31.0,70.0,190.0,0:00,363.0,300.0,585.0,490.0,0.0
+Marco Coppola,CrossFit OverTake,29.0,72.0,225.0,1:03,418.0,335.0,573.0,515.0,42.0
+Thomas Markhauser,CrossFit NCR,22.0,64.0,169.0,--,270.0,240.0,425.0,385.0,76.0
+Kevin Longmeier,CrossFit Duratus,35.0,70.0,192.0,--,0.0,0.0,0.0,0.0,0.0
+Evan Massey,Unaffiliated,30.0,70.0,190.0,0:00,305.0,245.0,455.0,400.0,0.0
+Nicholas Placone,Badger CrossFit,27.0,70.0,195.0,0:00,315.0,257.0,0.0,0.0,0.0
+Nathan Goldhardt,Tekton CrossFit,29.0,71.0,190.0,0:57,305.0,255.0,515.0,415.0,78.0
+Brandon Luckett,Red Stick CrossFit,22.0,73.0,197.0,--,315.0,260.0,445.0,375.0,0.0
+Jordon Piggott,CrossFit Townsville,22.0,6.0,163.0,1:02,286.0,231.0,407.0,410.0,82.0
+Adam de Jong,,30.0,70.0,190.0,--,255.0,205.0,555.0,405.0,40.0
+Ryan McCarthy,Reebok CrossFit 5th Ave,25.0,0.0,189.0,--,0.0,0.0,0.0,0.0,0.0
+Amador Arteaga,CrossFit Azusa,22.0,69.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+nathan forster,IMT CrossFit,32.0,0.0,185.0,0:00,0.0,0.0,0.0,0.0,0.0
+Raymond Fleser,Ocean State CrossFit,29.0,72.0,210.0,--,330.0,270.0,485.0,445.0,50.0
+Zack Height,Amity CrossFit,32.0,69.0,177.0,1:02,297.0,238.0,454.0,385.0,56.0
+David Crespo Tammelin,C23 CrossFit,34.0,7.0,220.0,--,319.0,231.0,496.0,396.0,55.0
+Filip Fisker,Aarhus CrossFit,26.0,7.0,230.0,0:50,352.0,286.0,529.0,440.0,60.0
+Shawn Ramirez,CrossFit Armed,42.0,72.0,200.0,1:22,315.0,247.0,515.0,425.0,60.0
+Josh Boyle,CrossFit Latitude 39,30.0,6.0,187.0,--,297.0,246.0,473.0,396.0,0.0
+Mike Kluegel,Rocklin CrossFit,31.0,67.0,190.0,--,285.0,220.0,485.0,405.0,0.0
+Ryan Quinn,8th Day CrossFit,28.0,68.0,180.0,0:53,285.0,250.0,0.0,365.0,0.0
+Zach Nichols,CrossFit Plymouth MI,29.0,76.0,215.0,--,345.0,255.0,630.0,455.0,0.0
+Denny Kimmel,CrossFit Tundra,32.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+David Dubin,,22.0,73.0,215.0,0:53,295.0,245.0,500.0,375.0,45.0
+Seth Matlock,CrossFit 417,24.0,72.0,185.0,0:52,315.0,255.0,445.0,435.0,60.0
+Connor Nellans,CrossFit Connex,23.0,0.0,194.0,--,0.0,0.0,0.0,0.0,0.0
+Blake Hanan,Superhero CrossFit,34.0,69.0,160.0,0:00,275.0,217.0,470.0,370.0,0.0
+Jeffrey Baltimore,CrossFit 717,24.0,66.0,175.0,1:02,300.0,255.0,510.0,425.0,67.0
+Nils Engelhardt,CrossFit Celle,26.0,7.0,178.0,0:00,300.0,245.0,465.0,375.0,0.0
+Marcus Domingue,CrossFit Inveniam,30.0,69.0,175.0,--,280.0,205.0,405.0,377.0,0.0
+Ben Epstein,Champlain Valley CrossFit,33.0,0.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Grant McHaney,CrossFit Epically Awesome,27.0,69.0,185.0,1:15,245.0,185.0,475.0,385.0,0.0
+Kevin Feltus,Reebok CrossFit Valens,29.0,6.0,161.0,--,253.0,213.0,407.0,341.0,0.0
+Daryl Green,CrossFit Portsea Island,24.0,7.0,205.0,1:01,286.0,238.0,462.0,341.0,0.0
+Alex Tedd,CrossFit Greater Brislington,26.0,6.0,189.0,--,275.0,200.0,496.0,374.0,0.0
+Christoph Koerner,CrossFit Starship,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Richard Goodall,CrossFit 605,24.0,6.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Aaron Clark,CrossFit Unbridled,23.0,0.0,169.0,--,0.0,0.0,0.0,0.0,0.0
+Shane Ormerod,CrossFit Urge,27.0,6.0,180.0,0:00,308.0,231.0,462.0,418.0,60.0
+Jon Moreno,Brick CrossFit DTX,25.0,68.0,169.0,0:55,295.0,240.0,455.0,410.0,61.0
+Henrik Olofsson,Unaffiliated,31.0,7.0,187.0,--,286.0,242.0,462.0,396.0,0.0
+Tom Brown,Shogun CrossFit,27.0,66.0,168.0,--,275.0,227.0,500.0,418.0,0.0
+Utku Tuncer,Antrum CrossFit,30.0,6.0,194.0,--,337.0,275.0,485.0,440.0,0.0
+Juan Cruz Sartori,CrossFit Argos San Isidro,35.0,6.0,205.0,1:02,352.0,297.0,507.0,529.0,60.0
+Kenneth Leverich,Orange Coast CrossFit,29.0,68.0,185.0,--,365.0,302.0,525.0,465.0,62.0
+Matthew Greene,CrossFit O'Fallon,24.0,73.0,205.0,0:59,315.0,260.0,440.0,385.0,61.0
+Jonathan Cayer,L'usine CrossFit Taschereau,28.0,7.0,220.0,--,320.0,265.0,550.0,465.0,60.0
+Jordan Eldridge,CrossFit Envy,22.0,70.0,193.0,--,0.0,0.0,0.0,0.0,0.0
+Ryan Woodall,Injustice CrossFit,35.0,6.0,191.0,--,0.0,0.0,0.0,0.0,0.0
+Andre Fassler,Unaffiliated,23.0,71.0,180.0,1:04,285.0,230.0,375.0,350.0,50.0
+Torey Throop,CrossFit Plymouth MI,27.0,72.0,205.0,--,335.0,275.0,500.0,425.0,55.0
+Dusty Flores,Pillar CrossFit,27.0,68.0,178.0,1:00,315.0,260.0,460.0,455.0,60.0
+Joel Strugnell,Hydra CrossFit,26.0,7.0,198.0,--,315.0,245.0,475.0,415.0,40.0
+Adam Blaney,CrossFit Salisbury,33.0,69.0,168.0,1:04,286.0,230.0,455.0,405.0,55.0
+German Castro,CrossFit Bigness,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Kurt Hindmarsh,CrossFit Verge,25.0,6.0,176.0,--,299.0,249.0,473.0,396.0,0.0
+Jordan Nolff,CrossFit Alinea,27.0,0.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Rees Machell,CrossFit Canberra,18.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Santino Marini,CrossFit Invictus Point Loma,29.0,71.0,174.0,0:00,0.0,0.0,0.0,0.0,0.0
+Bret Swearengin,Another Level CrossFit,29.0,67.0,178.0,--,295.0,235.0,0.0,405.0,0.0
+Zachary Kramer,Unaffiliated,27.0,74.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Drake Lambdin,ML CrossFit,24.0,72.0,190.0,1:05,265.0,220.0,435.0,390.0,50.0
+Nick Cowart,New Era CrossFit,27.0,72.0,190.0,0:00,308.0,255.0,425.0,355.0,0.0
+Taylor Poulin,Vagabond CrossFit,31.0,70.0,190.0,1:05,315.0,250.0,475.0,400.0,60.0
+Julius Klitgaard,CrossFit Nordvest,21.0,7.0,185.0,--,310.0,260.0,440.0,363.0,0.0
+Alex Oberman,CrossFit Trifecta,25.0,68.0,175.0,--,305.0,245.0,465.0,385.0,86.0
+James Whelan,CrossFit Paradigm Performance,24.0,65.0,169.0,1:16,325.0,250.0,435.0,445.0,0.0
+Sam Harvey,CrossFit WestMids,25.0,60.0,172.0,--,0.0,0.0,462.0,396.0,0.0
+Karl-Johan Schmidt,Aarhus CrossFit,25.0,7.0,207.0,--,319.0,264.0,462.0,440.0,40.0
+Chris Gugino,CrossFit Variance,27.0,67.0,155.0,--,0.0,0.0,0.0,0.0,50.0
+gerome casamento,CrossFit Bilzen,30.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Chris Dewan,Unaffiliated,28.0,73.0,190.0,1:05,265.0,215.0,420.0,305.0,60.0
+Francois Tremblay,CrossFit MeCK,34.0,67.0,175.0,0:00,0.0,0.0,0.0,0.0,0.0
+Ayodele Ayodeji Babatunde Joshua Falae,CrossFit Montclair,30.0,71.0,200.0,--,355.0,285.0,625.0,485.0,64.0
+Corey Berger,Skypoint CrossFit,29.0,70.0,190.0,0:51,311.0,255.0,585.0,415.0,0.0
+Robert Mullarkey,RADD CrossFit NSLI,21.0,0.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Alan Foulis,Unaffiliated,30.0,6.0,198.0,0:58,319.0,240.0,473.0,418.0,39.0
+Michael Mogard,Reebok CrossFit 673,33.0,69.0,178.0,1:00,315.0,270.0,500.0,400.0,53.0
+Aaron Parker,CrossFit Reebok 306,26.0,20.0,180.0,0:00,285.0,225.0,500.0,390.0,40.0
+Yousef Albaqsami,CrossFit Q8,29.0,6.0,167.0,--,0.0,0.0,0.0,0.0,0.0
+Jeff Patzer,Unaffiliated,28.0,66.0,173.0,--,275.0,215.0,420.0,395.0,0.0
+Ryan Laframboise,Unaffiliated,26.0,69.0,180.0,--,305.0,240.0,455.0,405.0,0.0
+Brandon Crump,Reebok CrossFit East Woodbridge,27.0,67.0,180.0,0:00,335.0,270.0,505.0,465.0,59.0
+Dean Shaw,CrossFit Algoa,28.0,6.0,182.0,0:00,0.0,0.0,0.0,0.0,0.0
+Cameron Willson,CrossFit Flowood,25.0,71.0,210.0,0:07,345.0,300.0,545.0,500.0,70.0
+Nicholas Urankar,CrossFit 061,32.0,70.0,195.0,0:00,390.0,310.0,555.0,480.0,55.0
+Johnny Medina III,,22.0,67.0,173.0,0:00,325.0,265.0,545.0,460.0,50.0
+Richard Cabigon,CrossFit Seven Cities,26.0,69.0,203.0,--,315.0,255.0,500.0,407.0,56.0
+Troy Stinson,CrossFit Lifeworx,27.0,71.0,190.0,0:00,305.0,261.0,425.0,425.0,50.0
+Mark Pfeifer,Rio City CrossFit,32.0,69.0,178.0,0:00,0.0,230.0,455.0,0.0,54.0
+Jonathan Wier,CrossFit Mainstreet,32.0,71.0,215.0,--,345.0,270.0,600.0,500.0,45.0
+Dane Smith,CrossFit Krypton,20.0,67.0,169.0,--,0.0,0.0,500.0,500.0,0.0
+Alfredo Haas,Jakabol CrossFit,30.0,6.0,194.0,--,319.0,286.0,507.0,462.0,0.0
+Jason Hoggan,CrossFit Deep,33.0,70.0,190.0,1:00,315.0,250.0,530.0,455.0,63.0
+Dustin Raul Stumpf,American River CrossFit,27.0,71.0,195.0,--,310.0,255.0,505.0,485.0,80.0
+Daniel Bosco,Windsor CrossFit,29.0,68.0,195.0,0:00,320.0,230.0,515.0,430.0,0.0
+George Brodnax,CrossFit St. Simons,25.0,71.0,205.0,--,365.0,285.0,600.0,515.0,0.0
+Jordan Jiunta,Sundown CrossFit,26.0,65.0,170.0,0:00,0.0,0.0,0.0,0.0,0.0
+Facundo Niño,Jakabol CrossFit,25.0,0.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Hans Stancil,CrossFit Vero Beach,31.0,69.0,184.0,1:03,315.0,250.0,475.0,415.0,0.0
+Marco Alejandro,CrossFit West Chester,24.0,72.0,195.0,0:00,325.0,255.0,485.0,425.0,0.0
+Tanner Stahl,Cascade CrossFit,20.0,0.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Diego Flores,Pillar CrossFit,24.0,67.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Alexandre Jolivet,Reebok CrossFit Louvre,37.0,6.0,202.0,0:58,341.0,253.0,617.0,551.0,46.0
+Tanner Sturm,CrossFit Interbay,24.0,68.0,175.0,--,300.0,235.0,495.0,440.0,0.0
+Thomas Gean,CrossFit Commence,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Raff Sencion,Gnardog CrossFit,26.0,66.0,169.0,--,0.0,0.0,0.0,0.0,0.0
+Zachary Gordon,Ballast CrossFit,27.0,69.0,190.0,0:53,255.0,205.0,480.0,335.0,50.0
+travis zipper,CrossFit Max Effort,36.0,70.0,183.0,--,0.0,0.0,0.0,0.0,0.0
+Richard Essig,CrossFit Hershey,26.0,75.0,215.0,--,345.0,275.0,455.0,426.0,35.0
+Jacob Wheeler,CrossFit Esplanade,23.0,5.0,147.0,1:11,255.0,194.0,418.0,341.0,50.0
+David Stevens,CrossFit Hype,27.0,67.0,175.0,--,300.0,245.0,440.0,405.0,0.0
+Steven Bidwell,Derby City CrossFit,22.0,69.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Greg Jennings,Superhero CrossFit,30.0,70.0,180.0,0:00,285.0,225.0,455.0,385.0,50.0
+Tyler Cox,CrossFit Pushin Weight,30.0,71.0,190.0,0:00,315.0,235.0,525.0,455.0,0.0
+Robert Vizzari,CrossFit Milford,29.0,70.0,185.0,--,325.0,275.0,495.0,435.0,36.0
+Braden Rubey,CrossFit Argyle,28.0,68.0,180.0,0:00,305.0,275.0,550.0,500.0,62.0
+Hugo Leighton,CrossFit Urge,22.0,6.0,174.0,--,321.0,264.0,485.0,401.0,51.0
+Royce Dunne,CrossFit Torian,25.0,7.0,220.0,1:03,355.0,300.0,551.0,496.0,60.0
+Josh Golden,Kauai CrossFit,33.0,69.0,194.0,0:57,325.0,240.0,535.0,455.0,50.0
+Ryan Schafer,CrossFit Grand Rapids,25.0,75.0,220.0,1:08,340.0,275.0,550.0,400.0,0.0
+Christian Congden,CrossFit North Charleston,24.0,71.0,195.0,1:00,330.0,260.0,535.0,425.0,46.0
+Corey Bartkowiak,Strong Body CrossFit,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Mateusz Homski,CrossFit Wroclaw,26.0,6.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Salvador Pastormerlo,Jakabol CrossFit,26.0,7.0,171.0,--,253.0,220.0,418.0,330.0,0.0
+Mitch McClune,Space Coast CrossFit,26.0,68.0,175.0,--,352.0,265.0,485.0,485.0,0.0
+Richard Andrews,Bayway CrossFit,27.0,67.0,174.0,0:00,330.0,265.0,455.0,420.0,68.0
+Logan Southard,CrossFit Acworth,21.0,66.0,175.0,--,315.0,265.0,405.0,405.0,50.0
+Zach Filer,Old Country CrossFit,32.0,72.0,195.0,0:00,305.0,266.0,545.0,445.0,60.0
+Jamie Lee,Diablo CrossFit,31.0,72.0,230.0,1:00,356.0,306.0,505.0,425.0,43.0
+Jacob Howenstein,CrossFit St. Louis,25.0,73.0,218.0,--,325.0,265.0,550.0,435.0,0.0
+Harrison Heller,Mad Apple CrossFit,28.0,72.0,189.0,--,275.0,235.0,525.0,435.0,52.0
+Kristian Kjelsbak,CrossFit Gold Box,29.0,7.0,0.0,--,180.0,0.0,264.0,105.0,0.0
+Rhett Singleton,CrossFit Lynchburg,27.0,70.0,195.0,1:12,295.0,235.0,473.0,405.0,0.0
+Jesse Haines,CrossFit Heath,34.0,69.0,190.0,--,300.0,240.0,505.0,375.0,60.0
+Travis Stoetzel,,34.0,67.0,180.0,0:58,325.0,245.0,500.0,425.0,63.0
+Joshua Marshall,CrossFit Invictus Point Loma,27.0,72.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Max Scuorzo,Cityside CrossFit,28.0,69.0,183.0,1:01,280.0,235.0,455.0,405.0,41.0
+John Delorenzo,Unaffiliated,33.0,6.0,195.0,--,275.0,198.0,507.0,396.0,46.0
+Jonathan Dube,CrossFit Stricken,23.0,0.0,185.0,--,0.0,215.0,445.0,405.0,0.0
+Ethan Witkop,CrossFit CLC,25.0,71.0,201.0,--,330.0,255.0,500.0,445.0,0.0
+Sam Joraslafsky,CrossFit Loaded,35.0,7.0,229.0,1:00,319.0,253.0,551.0,396.0,40.0
+Nathan Horner,CrossFit Plus,27.0,6.0,182.0,--,282.0,220.0,485.0,385.0,0.0
+Jake Lockert,CrossFit Mayhem,25.0,74.0,209.0,0:00,300.0,235.0,505.0,405.0,25.0
+Brandon Wolf,CrossFit Shrewsbury,28.0,63.0,225.0,--,315.0,255.0,450.0,455.0,0.0
+Chris Anderson,Superhero CrossFit,38.0,0.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Corey Hostetter,CrossFit Foothill,24.0,68.0,180.0,1:00,310.0,260.0,435.0,405.0,51.0
+Kevin Brown,Unaffiliated,27.0,64.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Andrew McGovern,CrossFit Wheelhouse,27.0,68.0,180.0,--,315.0,245.0,500.0,455.0,0.0
+Joakim Törnvi,CrossFit Falun,22.0,7.0,196.0,--,308.0,253.0,485.0,440.0,33.0
+Dustin Hollister,Anderson River CrossFit,33.0,67.0,165.0,1:02,265.0,215.0,445.0,365.0,54.0
+Brent Parrish,CrossFit Black Hive,34.0,69.0,178.0,--,255.0,205.0,485.0,405.0,52.0
+Zac Atkins,CrossFit Rejoice,27.0,68.0,165.0,--,290.0,225.0,440.0,380.0,39.0
+James Riley,Unaffiliated,28.0,69.0,178.0,--,275.0,205.0,455.0,355.0,0.0
+Micah Kradin,CrossFit North Gate,34.0,70.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Javier Lozano,Honor First CrossFit,28.0,67.0,170.0,--,285.0,235.0,415.0,385.0,0.0
+Marty Rotan,CrossFit 157,29.0,72.0,210.0,1:00,355.0,300.0,550.0,450.0,50.0
+Wayne Banks,South Loop CrossFit,26.0,74.0,0.0,--,295.0,225.0,540.0,450.0,0.0
+Joshua Rose,CrossFit Credence,32.0,72.0,190.0,0:55,305.0,255.0,465.0,415.0,42.0
+Jack Nevell,CrossFit Raw Commando,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Denis Clotten,CrossFit Pulheim,26.0,7.0,183.0,1:03,297.0,253.0,473.0,396.0,0.0
+Mathias Jepson,Reebok CrossFit Onyx,24.0,6.0,176.0,0:00,0.0,0.0,0.0,0.0,0.0
+Aaron Colton,CrossFit Charlottesville,26.0,0.0,179.0,--,0.0,0.0,0.0,0.0,0.0
+Evin Brining,CrossFit Ridgeline,21.0,71.0,190.0,--,0.0,0.0,475.0,365.0,0.0
+Sebastian Klindt,CrossFit Hellerup,28.0,7.0,182.0,0:00,253.0,198.0,451.0,341.0,50.0
+Ariel Fernandez,CrossFit Virtuosity,30.0,68.0,189.0,--,0.0,0.0,0.0,0.0,0.0
+Jordan Roland,Goose Island CrossFit,23.0,65.0,185.0,--,310.0,275.0,405.0,430.0,0.0
+Benjamin Kimbel,,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+adam wanstall,Injustice CrossFit,28.0,7.0,174.0,1:01,275.0,227.0,443.0,330.0,33.0
+Jared Kissinger,Unaffiliated,24.0,68.0,173.0,--,280.0,230.0,435.0,375.0,0.0
+Pawe? Le?nikowski,CrossFit Genius,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Thomas Dominick,CrossFit Roux,27.0,66.0,170.0,1:24,290.0,220.0,455.0,415.0,0.0
+Kevin O'Malley,Vagabond CrossFit,31.0,72.0,178.0,0:00,0.0,0.0,0.0,0.0,0.0
+Chris Wells,CrossFit Ex Nihilo,25.0,72.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Borja Rodríguez,CrossFit Grau,22.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Kondos,CrossFit Lactic,26.0,6.0,167.0,--,238.0,191.0,374.0,286.0,0.0
+John Chmay,Unaffiliated,26.0,71.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Molina Moreno,CrossFit Bellum,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jacob Guillory,Hurricane CrossFit,33.0,71.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
+Tyler Le Floch,CrossFit 212,28.0,72.0,200.0,0:00,235.0,185.0,435.0,340.0,0.0
+Darrin Gardner,CrossFit Pallas,28.0,67.0,180.0,--,285.0,245.0,455.0,425.0,60.0
+Jamison Skinner,CrossFit Irondale,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Moore,Sundown CrossFit,33.0,0.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Daniel Stutzman,CrossFit Kilo,22.0,71.0,176.0,--,0.0,0.0,410.0,330.0,0.0
+Noel Famy,MSAC CrossFit,42.0,68.0,180.0,0:57,315.0,240.0,485.0,470.0,75.0
+christian mains,NewCov CrossFit,32.0,70.0,161.0,1:00,245.0,205.0,400.0,335.0,47.0
+Felipe Ochoa,Unaffiliated,22.0,6.0,165.0,--,225.0,185.0,385.0,280.0,65.0
+Mads Thimm,CrossFit Aalborg,29.0,0.0,194.0,--,0.0,0.0,0.0,0.0,0.0
+Ryan Grantham,CrossFit Federal Hill,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Andrew McCoy,Reebok CrossFit Tyneside,24.0,6.0,172.0,--,271.0,216.0,440.0,286.0,0.0
+Mathieu Gomes,Reebok CrossFit Miami Beach,26.0,64.0,165.0,--,295.0,225.0,485.0,445.0,63.0
+Thomas Hughes,Ore CrossFit,24.0,7.0,182.0,--,0.0,0.0,507.0,418.0,0.0
+Petter Maansson,CrossFit Kalmar,29.0,7.0,180.0,--,286.0,231.0,385.0,330.0,32.0
+Caleb Townsend,,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Fredrik Thornes,CrossFit Asane,22.0,6.0,170.0,0:00,242.0,202.0,385.0,385.0,70.0
+Rok Dernikovic,,24.0,6.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+MARQUIS SIMON,CrossFit 571,30.0,6.0,165.0,1:02,264.0,198.0,418.0,330.0,60.0
+Marcin Reus,,36.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+André Teresinho,Castelo CrossFit,20.0,7.0,185.0,--,264.0,202.0,396.0,330.0,0.0
+Kevin Schaedler,,27.0,75.0,185.0,--,255.0,195.0,405.0,325.0,0.0
+Tim Holmes,CrossFit Faction,34.0,70.0,167.0,0:00,0.0,0.0,0.0,0.0,0.0
+Robert Mills,CrossFit Deviant,30.0,7.0,196.0,0:00,275.0,198.0,451.0,352.0,50.0
+Ben Robinson,CrossFit Nottingham,28.0,0.0,206.0,--,0.0,0.0,0.0,0.0,0.0
+Mark Szot,Venomous CrossFit,26.0,0.0,186.0,--,0.0,0.0,0.0,0.0,0.0
+Justin Wofford,Unaffiliated,29.0,71.0,185.0,0:00,320.0,245.0,545.0,405.0,63.0
+Aaron Bielefeldt,Ballistic CrossFit,34.0,73.0,202.0,1:02,345.0,265.0,575.0,460.0,60.0
+Jeff Wright,Anthem CrossFit,35.0,68.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Josh Davis,CrossFit Lena,30.0,70.0,180.0,--,0.0,0.0,506.0,415.0,0.0
+John Paul Buchanan,Get Lifted CrossFit,29.0,70.0,170.0,0:00,0.0,0.0,0.0,0.0,0.0
+Philippe Scheire Guilbault,CrossFit 819,25.0,6.0,190.0,--,285.0,185.0,400.0,355.0,0.0
+Brady Cummings,CrossFit Deliverance,20.0,70.0,172.0,--,260.0,205.0,425.0,335.0,54.0
+Kyle Hoffman,Unaffiliated,25.0,68.0,167.0,--,292.0,240.0,0.0,0.0,67.0
+Kevin Leamy,CrossFit Tigers Den,23.0,73.0,175.0,--,265.0,215.0,415.0,365.0,0.0
+Gary Stallings Jr,CrossFit Hood River,32.0,69.0,205.0,1:00,355.0,285.0,525.0,495.0,0.0
+Cameron Lodge,CrossFit Kent and Sussex,20.0,70.0,170.0,--,288.0,242.0,418.0,396.0,0.0
+Tory Morgan,CrossFit Code 3,31.0,69.0,200.0,0:00,355.0,292.0,0.0,500.0,0.0
+Yeojoon choi,Beeline CrossFit,27.0,6.0,180.0,1:49,255.0,235.0,375.0,335.0,30.0
+Lukasz Trzonkowski,CrossFit Genius,33.0,6.0,207.0,--,352.0,277.0,573.0,485.0,61.0
+Miguel Velez,,26.0,72.0,180.0,--,300.0,240.0,485.0,395.0,55.0
+Miles Ailstock,CrossFit Takeover,26.0,69.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Drew Barquist,CrossFit Industrious,26.0,67.0,180.0,0:00,335.0,275.0,455.0,425.0,54.0
+Dylan Kelly,,24.0,70.0,220.0,1:15,380.0,285.0,555.0,485.0,53.0
+Kris Kling,CrossFit Milford,26.0,69.0,187.0,0:52,352.0,290.0,485.0,435.0,0.0
+Tate Vladic,CrossFit Billings,28.0,71.0,200.0,0:00,285.0,235.0,485.0,400.0,41.0
+Tim Dymmel,CrossFit Palo Alto,41.0,70.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Bryn Williams,Range of Motion CrossFit,28.0,6.0,182.0,0:00,297.0,231.0,462.0,385.0,55.0
+Guillaume Vallières,Academik CrossFit,28.0,73.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Christopher Gosler,CrossFit Southie,33.0,69.0,170.0,--,275.0,225.0,465.0,365.0,52.0
+Hubert Kolodziejczak,Unaffiliated,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Scott Tetlow,Finish Strong CrossFit,24.0,0.0,173.0,--,0.0,0.0,0.0,0.0,0.0
+Mateusz Wasilewski,CrossFit Zielona Góra,26.0,7.0,183.0,0:51,297.0,242.0,507.0,396.0,65.0
+Adam James,Muncie CrossFit,27.0,70.0,200.0,--,295.0,0.0,455.0,435.0,0.0
+Joe Timm,Brick CrossFit,36.0,72.0,192.0,0:00,305.0,242.0,505.0,405.0,0.0
+Sanna Dino,CrossFit Lyon,27.0,6.0,170.0,0:58,264.0,213.0,418.0,341.0,0.0
+Robert Wilson,Colonial CrossFit,25.0,75.0,220.0,--,315.0,280.0,500.0,380.0,0.0
+Dan Tavino,CrossFit Danbury,32.0,72.0,200.0,--,310.0,260.0,0.0,385.0,0.0
+Neal Riley,CrossFit Beaumont,31.0,69.0,162.0,0:00,255.0,205.0,435.0,355.0,56.0
+Adam Foster,CrossFit 151,38.0,65.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Andy Timm,East Valley CrossFit,36.0,71.0,183.0,0:00,0.0,0.0,0.0,0.0,0.0
+Zack McMillan,CrossFit Rocked,30.0,70.0,190.0,--,319.0,258.0,445.0,400.0,50.0
+Brandon Swan,CrossFit Brisbane,25.0,6.0,185.0,0:58,330.0,275.0,551.0,440.0,70.0
+Reid Howells,CrossFit Heath,22.0,66.0,180.0,--,340.0,265.0,555.0,475.0,60.0
+Rob Moloney,CrossFit Island Park,29.0,71.0,182.0,--,300.0,235.0,455.0,0.0,50.0
+Devon Hoelscher,T Bone CrossFit,21.0,68.0,170.0,--,265.0,210.0,455.0,375.0,47.0
+Gary Jones,CrossFit Paradigm Performance,28.0,72.0,193.0,0:49,365.0,275.0,500.0,500.0,0.0
+Zach Martin,Peak 360 CrossFit,23.0,70.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+James Cairney,CrossFit Vise,26.0,70.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Shawn McQueen,Railroad CrossFit,29.0,67.0,176.0,1:04,295.0,260.0,435.0,375.0,55.0
+Manfredi Ottavi,CrossFit Monterotondo,22.0,7.0,185.0,--,308.0,220.0,544.0,418.0,0.0
+Aaron Coutts,,39.0,6.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Julian Reinhold,Myleo CrossFit,30.0,6.0,182.0,0:58,286.0,220.0,518.0,440.0,0.0
+Kevin Bell,CrossFit Chino Hills,25.0,69.0,170.0,--,275.0,225.0,0.0,360.0,60.0
+Angelo Lee,CrossFit Lorton,28.0,70.0,190.0,0:00,315.0,255.0,460.0,375.0,0.0
+James Engesser,CrossFit Ventura,24.0,70.0,172.0,0:00,305.0,245.0,475.0,425.0,76.0
+Jordan Montgomery,Red Stick CrossFit,29.0,0.0,178.0,--,0.0,0.0,0.0,0.0,0.0
+Kyle Spears,Timberwolf CrossFit,26.0,74.0,225.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jamie Verden,CrossFit Bath,23.0,7.0,194.0,0:58,330.0,275.0,507.0,421.0,58.0
+Erik Miller,CrossFit Amplify,26.0,71.0,173.0,--,300.0,235.0,445.0,370.0,50.0
+Tim Briggs,Reebok CrossFit Tyneside,22.0,6.0,173.0,0:00,264.0,198.0,440.0,341.0,97.0
+Cj Walker,CrossFit Torian,29.0,7.0,198.0,--,326.0,275.0,496.0,440.0,50.0
+Anthony Baker,CrossFit Lake Macquarie,32.0,7.0,181.0,--,264.0,198.0,418.0,352.0,55.0
+Chris Mounce,CrossFit Recharged,25.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Gene Magliaro,Unaffiliated,26.0,70.0,175.0,--,300.0,240.0,505.0,435.0,0.0
+Zack George,CrossFit Oakham,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Alex Cox,CrossFit 604,29.0,68.0,180.0,--,275.0,215.0,410.0,350.0,60.0
+Jarrett Cherepak,Undefeated CrossFit,27.0,72.0,195.0,--,290.0,215.0,475.0,390.0,0.0
+Andrew Malek-Zadeh,CrossFit Endzone,30.0,73.0,215.0,0:00,350.0,275.0,525.0,475.0,50.0
+Matthew Sherburne,CrossFit MF,29.0,72.0,213.0,0:00,310.0,265.0,525.0,435.0,40.0
+Sean Kratchman,Rich City CrossFit,23.0,71.0,200.0,--,285.0,225.0,435.0,395.0,46.0
+Seokbeom Kim,CrossFit RAON,24.0,6.0,175.0,--,265.0,220.0,420.0,395.0,0.0
+Brian Bodtker,CrossFit Reflexion,30.0,69.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Ted Starkweather,CrossFit Mayhem,21.0,70.0,189.0,0:57,325.0,260.0,455.0,405.0,50.0
+Evan Locke,CrossFit Balance,25.0,0.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Anthony Abeel,Get Lifted CrossFit,23.0,72.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Eamon Coyne,CrossFit New England,36.0,67.0,170.0,1:03,325.0,250.0,505.0,435.0,107.0
+Peter Hellberg,CrossFit Royalty,32.0,75.0,234.0,0:00,0.0,0.0,0.0,0.0,0.0
+Robert Fitzpatrick,CrossFit Unfinished Project,29.0,71.0,195.0,--,300.0,235.0,500.0,425.0,60.0
+Christopher Cottingham,Unaffiliated,29.0,70.0,199.0,--,265.0,225.0,505.0,385.0,40.0
+Bruno Militao,CrossFit Alvalade,33.0,7.0,194.0,--,286.0,220.0,485.0,429.0,0.0
+Robert Strube,Unaffiliated,29.0,69.0,183.0,0:00,275.0,231.0,425.0,365.0,57.0
+Christian Soberanes,CrossFit Rowlett,27.0,70.0,190.0,--,290.0,230.0,425.0,400.0,2.0
+Blake Sama,Brick CrossFit DTX,28.0,0.0,179.0,--,0.0,0.0,0.0,0.0,0.0
+Dennis Hildebrandt,CrossFit Assault,31.0,6.0,194.0,--,326.0,249.0,462.0,451.0,0.0
+Matteo Mazzoni,CrossFit BLQ,33.0,7.0,195.0,1:05,279.0,220.0,496.0,385.0,70.0
+Ross Bones,CrossFit Stone Towers,31.0,0.0,194.0,1:01,286.0,231.0,473.0,396.0,0.0
+Morten Pedersen,CrossFit 8500,38.0,6.0,182.0,1:04,242.0,191.0,396.0,297.0,50.0
+Chris Spealler,CrossFit Park City,37.0,65.0,143.0,1:03,285.0,235.0,440.0,385.0,106.0
+Adrian Encinia,Gnardog CrossFit,32.0,70.0,193.0,1:20,245.0,200.0,445.0,365.0,30.0
+Tom Ramsland,CrossFit Direction,30.0,70.0,173.0,--,315.0,275.0,455.0,405.0,63.0
+Mitch Beaver,Unaffiliated,30.0,70.0,185.0,0:52,315.0,245.0,455.0,405.0,60.0
+Scott Mackenzie,CrossFit Cog,33.0,7.0,191.0,1:12,304.0,253.0,485.0,399.0,61.0
+George Caroulis,CrossFit 2 St,35.0,73.0,179.0,0:52,275.0,220.0,400.0,355.0,48.0
+Jordan Chiles,CrossFit Provision,26.0,70.0,185.0,--,355.0,285.0,500.0,490.0,0.0
+Aleksandr Ergin,,30.0,6.0,194.0,--,220.0,154.0,341.0,220.0,50.0
+Kim Wahlgren,Reebok CrossFit Onyx,31.0,0.0,192.0,--,0.0,0.0,0.0,0.0,0.0
+Adrian Conway,Unaffiliated,31.0,70.0,202.0,0:56,345.0,275.0,590.0,490.0,70.0
+Alex Haussermann,Unaffiliated,25.0,0.0,181.0,--,0.0,0.0,0.0,0.0,0.0
+Drummond Williamson,CrossFit 42 South,38.0,6.0,176.0,0:00,275.0,220.0,429.0,363.0,60.0
+Ben Wadwell,CrossFit Feel Good,27.0,7.0,194.0,--,319.0,264.0,507.0,418.0,60.0
+Jordan Roberts,CrossFit Oswego,26.0,73.0,210.0,--,350.0,270.0,500.0,450.0,50.0
+brandon kessler,CrossFit Havre De Grace,28.0,67.0,175.0,--,305.0,245.0,535.0,410.0,63.0
+Travis Page,Peak 360 CrossFit,42.0,69.0,178.0,--,300.0,230.0,535.0,485.0,74.0
+Cody Croft,AE CrossFit,25.0,73.0,198.0,--,305.0,225.0,505.0,375.0,0.0
+Jeffrey Binek,Friendship CrossFit,31.0,75.0,212.0,0:53,330.0,250.0,565.0,445.0,68.0
+Jamie Fry,CrossFit Blockhouse,21.0,60.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Todd Smith,CrossFit Soul Miami,22.0,0.0,193.0,--,0.0,0.0,0.0,0.0,0.0
+Leigh Bevan,CrossFit SA1,30.0,6.0,185.0,0:00,341.0,242.0,551.0,485.0,64.0
+Samuel Woodman,CrossFit Kinnick,22.0,72.0,205.0,--,301.0,275.0,455.0,385.0,0.0
+kyle flowers,CrossFit Annihilation,30.0,72.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Scott Linton,CrossFit Charlottesville,30.0,67.0,165.0,0:00,290.0,225.0,435.0,415.0,0.0
+Alex Evans,CrossFit Pen Y Bont,23.0,0.0,90.0,0:00,0.0,0.0,0.0,0.0,0.0
+Austin Siegel,Full Dimension CrossFit,26.0,0.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Martin,CrossFit Embark,26.0,73.0,200.0,--,300.0,230.0,543.0,460.0,0.0
+Devin Ford,CrossFit Transcend,26.0,68.0,175.0,1:00,300.0,240.0,500.0,400.0,65.0
+Kirk Bacsu,CrossFit 317,31.0,69.0,184.0,--,0.0,0.0,0.0,0.0,0.0
+Haraldur Holgersson,CrossFit XY,19.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Mahmood Shalan,CrossFit Alioth,23.0,6.0,188.0,--,315.0,225.0,500.0,395.0,0.0
+Julian Alcaraz,CrossFit Training Yard,27.0,70.0,197.0,--,350.0,275.0,537.0,485.0,75.0
+Mauro Calvete,CrossFit Aukan,27.0,0.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Apollo Lewis,Tulalip Bay CrossFit,30.0,70.0,195.0,--,310.0,250.0,475.0,410.0,68.0
+Simon Buteau,CrossFit 819,25.0,68.0,182.0,0:00,335.0,250.0,475.0,415.0,0.0
+Fabio Dechichi,CrossFit Thribo,27.0,6.0,174.0,1:00,302.0,242.0,473.0,352.0,50.0
+Jeremy Vigneault,CrossFit Quebec City,19.0,73.0,200.0,1:02,305.0,235.0,535.0,405.0,50.0
+Tony Kurz,Unaffiliated,38.0,70.0,209.0,1:09,278.0,222.0,484.0,440.0,30.0
+Thomas Karos,CrossFit High Gear,28.0,70.0,195.0,0:00,315.0,265.0,525.0,435.0,68.0
+Luke Douglass,CrossFit Ipswich,25.0,7.0,187.0,--,275.0,216.0,485.0,330.0,30.0
+Chris Woods,CrossFit Westchase,32.0,71.0,178.0,0:00,295.0,235.0,435.0,390.0,0.0
+Tyler Trettin,CrossFit Ephrata,32.0,74.0,208.0,--,305.0,230.0,520.0,405.0,0.0
+Anthony Taylor,CrossFit 285,28.0,70.0,201.0,--,335.0,270.0,555.0,460.0,0.0
+Kevin Mckay,CrossFit Cordis,27.0,69.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+John Finn III,Stay Strong CrossFit,23.0,74.0,215.0,--,0.0,0.0,0.0,0.0,0.0
+Cole Young,Ruination CrossFit,29.0,65.0,165.0,1:19,285.0,240.0,405.0,340.0,75.0
+Jonathan Edwards,CrossFit 30004,35.0,70.0,200.0,1:10,283.0,235.0,545.0,450.0,42.0
+Dayton Elsey,CrossFit Driven,26.0,65.0,152.0,0:47,285.0,235.0,425.0,405.0,0.0
+Andrew Reimon,CrossFit Love,23.0,68.0,174.0,--,260.0,200.0,350.0,320.0,0.0
+Paul Panno,River North CrossFit,24.0,0.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Daniel Burke,Bucktown CrossFit,26.0,60.0,95.0,10:03,0.0,0.0,0.0,0.0,1.0
+Reunan Delannoy,Reebok CrossFit Louvre,31.0,6.0,165.0,--,255.0,209.0,425.0,354.0,52.0
+Giulio Rosini,11k CrossFit,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Delarue Romain,My Burning CrossFit,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Rutkowski,CrossFit Renovate,34.0,0.0,165.0,--,215.0,0.0,500.0,335.0,0.0
+Lars Puggaard,CrossFit Hellerup,29.0,7.0,207.0,--,308.0,244.0,551.0,440.0,0.0
+Denis Smith,CrossFit 1878,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Matthew Lefave,CrossFit M3,36.0,72.0,205.0,1:00,340.0,262.0,555.0,455.0,55.0
+Grant Crawford,Unaffiliated,18.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Niklas Hecht,CrossFit Max Effort,25.0,70.0,205.0,--,350.0,275.0,525.0,475.0,68.0
+Ben Thompson,Dunes CrossFit,28.0,67.0,172.0,0:56,275.0,220.0,485.0,357.0,70.0
+Reilly McMorris,CrossFit Fraser Valley,30.0,71.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Agustin Richelme,CrossFit Aukan,19.0,0.0,164.0,--,275.0,220.0,0.0,0.0,60.0
+Kameron Rosenau,Koda CrossFit,31.0,69.0,175.0,0:55,315.0,235.0,555.0,445.0,68.0
+Ryan Taylor,Friendship CrossFit,43.0,66.0,183.0,1:03,310.0,235.0,472.0,445.0,48.0
+Jason Hamm,CrossFit Aero,28.0,72.0,177.0,0:00,295.0,215.0,480.0,395.0,0.0
+Austin Cahoy,CrossFit 417,24.0,72.0,220.0,0:00,0.0,0.0,0.0,0.0,0.0
+Cory Buerck,CrossFit St. Louis,30.0,72.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
+Marco Radocaj,CrossFit Vero Beach,31.0,0.0,208.0,--,0.0,0.0,0.0,0.0,0.0
+Graeme Fraser,CrossFit Closer,21.0,70.0,187.0,--,325.0,225.0,505.0,435.0,30.0
+Sebastian Moraglio,BoxPro CrossFit,26.0,6.0,190.0,--,227.0,178.0,330.0,286.0,50.0
+Mike Giaquinto,Hackettstown CrossFit,26.0,71.0,185.0,--,315.0,260.0,455.0,375.0,45.0
+Greg Campisi,CrossFit Garden City,29.0,65.0,182.0,0:00,0.0,0.0,0.0,0.0,0.0
+Brandon Shriner,CrossFit Olentangy,32.0,67.0,175.0,--,308.0,245.0,485.0,400.0,0.0
+Nick Puzzangara,CrossFit West Chester,26.0,74.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Andrew Manderino,Offshore CrossFit,28.0,72.0,205.0,0:00,319.0,120.0,500.0,405.0,50.0
+Zach Mosbarger,CrossFit Kings Point,26.0,69.0,185.0,--,315.0,242.0,515.0,405.0,0.0
+Bryce Chilton,Premier CrossFit,23.0,73.0,210.0,0:00,335.0,250.0,500.0,405.0,0.0
+Michael Kim,Maxability Sports and CrossFit,26.0,68.0,165.0,0:00,0.0,0.0,0.0,0.0,0.0
+Luis Fuchu,,42.0,67.0,162.0,--,0.0,0.0,0.0,0.0,0.0
+Joao Ferreira,CrossFit Coimbra,22.0,6.0,174.0,0:00,286.0,222.0,469.0,385.0,0.0
+Lee Howe,CrossFit Teesside,34.0,6.0,169.0,0:58,268.0,191.0,507.0,352.0,57.0
+Zac Kraai,8th Day CrossFit,25.0,70.0,162.0,--,205.0,195.0,315.0,265.0,0.0
+Andrew Boyd,Reebok CrossFit Northern Ireland,31.0,70.0,187.0,1:29,275.0,209.0,418.0,352.0,42.0
+Caleb McVey,Unaffiliated,22.0,69.0,169.0,--,260.0,195.0,405.0,340.0,45.0
+Emanuele Litrenta,CrossFit Parioli,30.0,6.0,165.0,--,255.0,200.0,376.0,330.0,47.0
+Viktor Munck-Larsson,CrossFit Falun,19.0,7.0,187.0,--,253.0,220.0,485.0,385.0,30.0
+Martyn Lever,CrossFit Bournemouth,32.0,7.0,0.0,--,297.0,220.0,509.0,407.0,0.0
+Pablo Chalfun,Valente CrossFit,24.0,6.0,184.0,--,305.0,0.0,0.0,428.0,0.0
+hunter trueax,CrossFit Marysville,19.0,70.0,185.0,--,290.0,235.0,415.0,390.0,0.0
+David Pertuset,Comanche CrossFit,31.0,72.0,210.0,--,340.0,295.0,545.0,445.0,63.0
+Pablo Haber,CrossFit Q21,21.0,0.0,167.0,--,0.0,0.0,0.0,0.0,0.0
+Alex Younger,Circuit Plus CrossFit Gulf Road,23.0,6.0,167.0,--,299.0,242.0,445.0,370.0,37.0
+Nick Bloch,CrossFit Fond du Lac,30.0,72.0,210.0,1:00,365.0,315.0,620.0,545.0,50.0
+Emmanuel Maldonado,CrossFit SJU,27.0,70.0,192.0,--,315.0,242.0,0.0,0.0,0.0
+Sebastián Hermosilla,CrossFit Q21,29.0,0.0,166.0,--,0.0,0.0,0.0,0.0,0.0
+YeonGyu Choo,CrossFit LOL,24.0,0.0,163.0,--,0.0,0.0,0.0,0.0,0.0
+Kim DongJu,CrossFit LOL,27.0,7.0,180.0,--,265.0,205.0,455.0,385.0,56.0
+Raphael Freedman,CrossFit Creature,25.0,67.0,177.0,--,297.0,233.0,396.0,443.0,30.0
+Phillip Guillot,CrossFit NOLA,28.0,70.0,202.0,--,345.0,270.0,480.0,420.0,0.0
+Luis Perez,,30.0,6.0,180.0,0:00,315.0,245.0,500.0,405.0,70.0
+Josh Woodhull,CrossFit Maven,26.0,73.0,212.0,0:59,302.0,240.0,525.0,425.0,47.0
+Richard Idoine,CrossFit East Tamaki,26.0,7.0,191.0,--,0.0,0.0,0.0,0.0,0.0
+Rory Boyden,CrossFit Creature,26.0,7.0,187.0,0:49,293.0,242.0,440.0,352.0,51.0
+Florian Grob,CrossFit Vernon,24.0,0.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Adam Fetter,Heavy Metal CrossFit,23.0,0.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Brad Hughes,Barbarian CrossFit,24.0,68.0,175.0,--,250.0,205.0,500.0,400.0,27.0
+Bill Grundler,CrossFit Inferno,47.0,72.0,195.0,1:04,285.0,225.0,455.0,400.0,56.0
+David Cyr-maranda,CrossFit Levis,20.0,69.0,175.0,--,265.0,215.0,525.0,380.0,70.0
+Kieran Hogan,CrossFit Melbourne,28.0,6.0,187.0,0:59,330.0,268.0,465.0,418.0,60.0
+Dillon Youngman,CrossFit Middle of the Map,23.0,70.0,195.0,--,328.0,260.0,515.0,410.0,0.0
+Andrew Cifelli,East Valley CrossFit,26.0,72.0,189.0,1:05,297.0,240.0,505.0,435.0,55.0
+Tommy Wornham,US CrossFit,26.0,72.0,205.0,--,315.0,275.0,500.0,395.0,49.0
+santiago scarafia,CrossFit Tropa,29.0,7.0,208.0,--,286.0,194.0,462.0,396.0,0.0
+Jared Meyers,CrossFit Gamma,29.0,68.0,200.0,--,287.0,220.0,450.0,385.0,26.0
+Brad Pew,Ute CrossFit Sugarhouse,25.0,73.0,191.0,--,310.0,260.0,425.0,355.0,52.0
+Adam Peterson,CrossFit Inferno,31.0,71.0,200.0,0:49,350.0,285.0,560.0,455.0,60.0
+Taylor King,CrossFit Vitruvius,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Drew Pollner,South Vegas CrossFit,35.0,71.0,200.0,0:58,300.0,245.0,475.0,375.0,57.0
+Brice Collier,Koda CrossFit,30.0,71.0,197.0,0:59,295.0,245.0,555.0,445.0,57.0
+David James,CrossFit Ballina,23.0,6.0,194.0,--,330.0,302.0,518.0,451.0,0.0
+Jordy Gremillion,CrossFit St. Landry,25.0,67.0,170.0,--,325.0,260.0,485.0,425.0,49.0
+Russell Scaringi,MW CrossFit,27.0,67.0,192.0,--,315.0,260.0,455.0,405.0,40.0
+Jared Davis,CrossFit DF,33.0,71.0,185.0,52:00,325.0,250.0,500.0,375.0,0.0
+Maxime Beland,STADD CrossFit,29.0,6.0,188.0,0:00,0.0,0.0,0.0,0.0,0.0
+Chris Allison,Godspeed CrossFit,35.0,0.0,184.0,--,0.0,0.0,0.0,0.0,0.0
+Dustin Travers,CrossFit RepScheme,26.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Thomas Slaten,CrossFit Madtown,27.0,68.0,170.0,0:00,305.0,250.0,455.0,405.0,0.0
+Dominic Scalzo,CrossFit Palm Beach,28.0,66.0,178.0,--,300.0,249.0,0.0,0.0,0.0
+Cody McCullough,CrossFit Invictus Point Loma,21.0,0.0,171.0,--,0.0,0.0,0.0,0.0,0.0
+David Kerr III,Unaffiliated,33.0,69.0,185.0,0:00,305.0,235.0,515.0,475.0,67.0
+Luke Gamble,CrossFit Torian,31.0,7.0,202.0,--,286.0,253.0,473.0,385.0,0.0
+Ian Murphy,CrossFit CrownTown,31.0,72.0,217.0,0:00,315.0,275.0,445.0,355.0,0.0
+Chuck Brehm,CrossFit Green Bay,34.0,71.0,205.0,--,305.0,225.0,435.0,445.0,0.0
+Jordan Behler,Visium CrossFit,30.0,72.0,195.0,0:00,355.0,280.0,0.0,0.0,0.0
+Ryan Dillon,CrossFit FF,31.0,72.0,185.0,--,315.0,250.0,455.0,425.0,0.0
+Joel Lundblad,Kronan CrossFit,26.0,6.0,176.0,1:01,275.0,233.0,440.0,352.0,57.0
+Scott Neal,CrossFit Lighthouse,27.0,67.0,177.0,--,300.0,260.0,475.0,395.0,55.0
+Jerrome McKittrick,CrossFit 2444,27.0,6.0,182.0,0:00,279.0,231.0,473.0,379.0,0.0
+Alexandre Provost,CrossFit De La Cite,37.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Nic Brinson,South Charlotte CrossFit,27.0,71.0,185.0,--,325.0,270.0,500.0,405.0,0.0
+Travis Hedrick,CrossFit Iron Up,27.0,68.0,185.0,--,335.0,255.0,585.0,500.0,0.0
+Glen Laws,G Force CrossFit,31.0,5.0,183.0,0:00,0.0,242.0,0.0,407.0,0.0
+Shayne Day,Salt Lake City CrossFit (SLC),26.0,67.0,210.0,--,340.0,245.0,715.0,635.0,0.0
+Bane Evans,CSC CrossFit,29.0,73.0,193.0,--,0.0,0.0,0.0,0.0,0.0
+Zak Nothling,CrossFit East Tamaki,27.0,76.0,218.0,--,0.0,0.0,0.0,0.0,0.0
+Jarrett Baston,CrossFit Accretion,31.0,71.0,169.0,1:01,300.0,235.0,445.0,365.0,45.0
+Micha? Grzesiewicz,CrossFit 72D,31.0,7.0,176.0,--,275.0,231.0,0.0,374.0,60.0
+Caleb Freeman,,24.0,70.0,185.0,--,300.0,240.0,559.0,465.0,46.0
+Reno Horton,CrossFit Breakout,20.0,68.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Adam greenberg,Shoreline CrossFit,35.0,69.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Simon Barg,CrossFit Living The Dream Ajax,33.0,72.0,185.0,--,285.0,240.0,440.0,390.0,0.0
+Derek Nelson,CrossFit Complete,31.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Jesse Stanley,CrossFit South Central Mass,31.0,69.0,190.0,1:02,265.0,225.0,405.0,315.0,53.0
+Bruce Pelphrey,CrossFit SkyFall,23.0,0.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Domenic Becker,CrossFit Munich,24.0,71.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Markus Tobiassen,CrossFit Arendal,24.0,6.0,187.0,0:00,291.0,231.0,462.0,396.0,0.0
+Mark Watson,CrossFit 413,28.0,72.0,0.0,--,275.0,210.0,425.0,350.0,43.0
+Asa Basco,CrossFit South Belt,29.0,0.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+CRAIG PUNTON,CrossFit East Kilbride,35.0,6.0,178.0,1:00,293.0,231.0,485.0,462.0,50.0
+Ryan Street,CrossFit Bear,23.0,0.0,165.0,--,305.0,245.0,455.0,400.0,0.0
+Alex Rees,Esprit de Corps CrossFit,29.0,7.0,198.0,0:59,288.0,227.0,462.0,396.0,45.0
+John Thomas,CrossFit Boynton Beach,31.0,68.0,172.0,--,255.0,215.0,475.0,325.0,59.0
+Pritchard Walker,CrossFit Talon,24.0,68.0,160.0,--,245.0,205.0,405.0,315.0,60.0
+Alan Wilson,CrossFit Kirkintilloch,28.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Stefano Di Francesco,CrossFit Sabina,23.0,6.0,176.0,1:00,275.0,220.0,451.0,396.0,0.0
+Ben Wadham,CrossFit Plymouth,30.0,6.0,174.0,--,264.0,220.0,485.0,396.0,72.0
+GIRAUD clement,CrossFit Original Addicts,30.0,0.0,174.0,--,0.0,0.0,0.0,0.0,0.0
+Nicholas Hitti,CrossFit University City,21.0,72.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Alex Swain,CrossFit SA1,24.0,7.0,185.0,--,0.0,165.0,507.0,363.0,0.0
+Hudson Fricke,Southern Moon CrossFit,28.0,73.0,200.0,--,295.0,275.0,0.0,390.0,0.0
+Vincent Rheault-Poirier,Concept Ekilibre CrossFit,23.0,6.0,193.0,--,325.0,250.0,525.0,495.0,64.0
+Tomos Smith,,18.0,0.0,158.0,--,286.0,220.0,440.0,330.0,58.0
+Kevin Righi,CrossFit Reston,26.0,69.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Hartnett,,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Talgat Yeskendirov,CrossFit Astana Highvill,30.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Chris Cristini,Reebok CrossFit East Woodbridge,32.0,7.0,215.0,--,320.0,260.0,500.0,430.0,53.0
+Dayton Smith,East Valley CrossFit,25.0,68.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Daniel Clarkson,CrossFit Athletic,24.0,6.0,183.0,1:01,320.0,255.0,525.0,415.0,67.0
+Colin Cunningham,CrossFit EGA,32.0,67.0,168.0,1:18,290.0,235.0,500.0,410.0,55.0
+John Zvejnieks,Down East CrossFit,33.0,69.0,200.0,0:10,666.0,666.0,666.0,666.0,666.0
+Devin Newsome,CrossFit Iron Mile,28.0,70.0,183.0,--,0.0,0.0,0.0,0.0,0.0
+Blake Prime,Godspeed CrossFit,33.0,70.0,185.0,0:00,0.0,0.0,0.0,0.0,0.0
+Chase Duke,Paradiso CrossFit Venice,27.0,69.0,205.0,--,335.0,285.0,450.0,535.0,0.0
+Carlos Lopez,CrossFit Fortius South,32.0,71.0,205.0,0:48,305.0,235.0,465.0,365.0,60.0
+Joel Chant,CrossFit NorWest,33.0,6.0,182.0,1:09,275.0,209.0,440.0,390.0,54.0
+Devon Simmons,South Tryon Athletic Center CrossFit,26.0,65.0,163.0,0:00,0.0,0.0,0.0,0.0,0.0
+Roy Voss,,31.0,70.0,199.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jonathan Caron,CrossFit MeCK,29.0,72.0,195.0,--,325.0,255.0,525.0,445.0,60.0
+Christian Ruiz,Finish Strong CrossFit,26.0,70.0,189.0,--,275.0,225.0,495.0,335.0,45.0
+Mark Desin,Unaffiliated,29.0,71.0,185.0,--,300.0,240.0,465.0,405.0,45.0
+Max Nikolenko,CrossFit Costa Mesa,30.0,68.0,185.0,0:00,308.0,249.0,507.0,447.0,0.0
+Jason Armendariz,Get Lifted CrossFit,33.0,70.0,178.0,0:00,0.0,0.0,0.0,0.0,0.0
+Caleb Gregory,CrossFit Nashville,33.0,68.0,182.0,0:58,315.0,265.0,475.0,405.0,72.0
+Aldo Xochihua,CrossFit Playa del Carmen,27.0,60.0,178.0,--,225.0,165.0,345.0,315.0,0.0
+Dylan Frantz,CrossFit Hutch,25.0,73.0,200.0,--,335.0,280.0,475.0,425.0,70.0
+Eli Hudson,Unaffiliated,20.0,70.0,155.0,--,0.0,0.0,0.0,0.0,0.0
+Joe Kearney,CrossFit Lewisburg,24.0,71.0,180.0,--,335.0,285.0,500.0,400.0,0.0
+Mark Clary,Steel Peak CrossFit,35.0,72.0,201.0,--,255.0,215.0,405.0,325.0,34.0
+Ryan Moore,Burg CrossFit,26.0,69.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Antoine Gasparini,CrossFit Gavroche,24.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Jeffrey Dupuis,CrossFit Closer,23.0,66.0,155.0,--,275.0,225.0,385.0,325.0,52.0
+Corban Cressley,CrossFit Mt Juliet,24.0,66.0,160.0,--,265.0,215.0,375.0,350.0,0.0
+Morten Nygaard,CrossFit Aalborg,30.0,6.0,184.0,--,0.0,0.0,0.0,0.0,0.0
+Jamie Clements,Reebok CrossFit Northern Ireland,25.0,6.0,169.0,--,251.0,194.0,429.0,348.0,51.0
+Tyler Ellegard,CrossFit SISU,22.0,66.0,170.0,--,295.0,250.0,445.0,390.0,56.0
+Kurt Garceau,CrossFit Milford,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Kurtis Jackson,CrossFit Wollongong,24.0,6.0,163.0,--,275.0,198.0,418.0,451.0,0.0
+Charlie Karlsson,Vagnhallen CrossFit,24.0,7.0,187.0,--,242.0,198.0,374.0,308.0,0.0
+Mike Hohenwald,Lift Bridge CrossFit,29.0,73.0,185.0,--,255.0,200.0,475.0,365.0,0.0
+Max Bolomozhnov,CrossFit Idol,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Rob Belville,CrossFit Cool Springs,34.0,68.0,182.0,0:59,285.0,230.0,415.0,400.0,70.0
+Alexander Anasagasti,CrossFit Zurriola,25.0,0.0,164.0,--,0.0,0.0,0.0,0.0,0.0
+Laurent Camps,Dragon CrossFit,26.0,6.0,210.0,--,330.0,286.0,507.0,418.0,0.0
+Bryan DiBuono,Unaffiliated,24.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Tore Lübeck Rønn,Lofteriet CrossFit,22.0,6.0,165.0,--,264.0,220.0,407.0,341.0,999.0
+Carlos Mojica,Orange Coast CrossFit,32.0,72.0,175.0,--,305.0,240.0,0.0,0.0,0.0
+Skyler Finnerty,Muncie CrossFit,26.0,70.0,184.0,--,255.0,185.0,0.0,365.0,0.0
+Marshall Creed,CrossFit 217,26.0,67.0,172.0,0:55,295.0,230.0,475.0,390.0,50.0
+Simon Beaudoin,Tonic CrossFit,34.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Brady Winkles,Snake River CrossFit,23.0,70.0,180.0,--,0.0,215.0,425.0,405.0,0.0
+Cole Sager,CrossFit Deliverance,26.0,70.0,200.0,0:54,345.0,275.0,470.0,475.0,68.0
+Han Sunjae,CrossFit 4TP,28.0,6.0,182.0,--,0.0,0.0,0.0,0.0,0.0
+Lance Castle,CrossFit Albuquerque,30.0,67.0,185.0,0:00,315.0,260.0,440.0,400.0,69.0
+Kevin Jones,CrossFit 061,33.0,71.0,210.0,--,370.0,255.0,585.0,500.0,55.0
+Olivier Gravel,Tonic CrossFit,28.0,72.0,196.0,--,325.0,255.0,495.0,415.0,61.0
+Tyler Watkins,CrossFit Weddington,24.0,0.0,230.0,--,315.0,255.0,600.0,625.0,75.0
+John Coltey,Unaffiliated,27.0,69.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+Gerardo Contreras,CrossFit Midpoint,25.0,73.0,220.0,1:02,0.0,270.0,485.0,450.0,0.0
+Mack Unruh,CrossFit Billings,26.0,72.0,195.0,1:00,305.0,235.0,475.0,405.0,65.0
+Devon Brack,CrossFit Beaumont,28.0,68.0,160.0,1:00,315.0,235.0,435.0,385.0,49.0
+Storm Patterson,CrossFit Queen Street,25.0,73.0,190.0,0:49,320.0,265.0,525.0,440.0,60.0
+Ryan Poroznik,Tidal CrossFit North,30.0,70.0,185.0,--,325.0,245.0,475.0,435.0,0.0
+Henry Sailes,CrossFit Lena,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Aaron Martin,Unaffiliated,29.0,72.0,195.0,--,325.0,255.0,505.0,435.0,30.0
+Rob Thomas,CrossFit Hype,27.0,73.0,205.0,1:06,323.0,241.0,570.0,490.0,51.0
+Christopher Guerrero,CrossFit Westchester,32.0,72.0,198.0,0:00,295.0,245.0,506.0,400.0,55.0
+Tim VanDeusen,CrossFit Plymouth MI,36.0,66.0,168.0,0:00,320.0,245.0,515.0,435.0,58.0
+Dmitrii Trushkin,CrossFit Idol,25.0,7.0,220.0,0:00,0.0,0.0,0.0,0.0,0.0
+Alexander Perez,Boombox CrossFit SD,23.0,71.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
+Nicholas Sandorf,CrossFit 760 C,23.0,71.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Cardin,Unaffiliated,24.0,66.0,150.0,1:00,270.0,220.0,450.0,405.0,75.0
+Cain Murillo,CrossFit CenTex,23.0,65.0,155.0,--,0.0,0.0,0.0,0.0,0.0
+Wesley Sun Chee Fore,CrossFit Lafayette,31.0,67.0,170.0,0:59,295.0,265.0,475.0,445.0,59.0
+Omar Tapia,Railside CrossFit,31.0,0.0,170.0,--,285.0,205.0,455.0,385.0,50.0
+Kevin Montoya,Backcountry CrossFit,33.0,70.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Christopher Gartrell,Unaffiliated,30.0,69.0,169.0,0:00,0.0,0.0,0.0,0.0,0.0
+Tony Grippando,River North CrossFit,23.0,0.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Andrew Morcillo,Burg CrossFit,28.0,70.0,189.0,--,305.0,250.0,0.0,0.0,0.0
+Michael Calhoun,,29.0,68.0,194.0,0:59,335.0,265.0,465.0,475.0,45.0
+Matt Jacobsen,Maltese CrossFit,40.0,66.0,168.0,0:00,0.0,0.0,0.0,0.0,0.0
+Josh Stoetzel,Unaffiliated,29.0,0.0,196.0,--,0.0,0.0,0.0,0.0,0.0
+Jonas Olsson,CrossFit Sydkusten,29.0,7.0,191.0,--,319.0,244.0,557.0,403.0,52.0
+Emmanuel Gauthier,CrossFit Saint Simon,30.0,7.0,179.0,0:51,0.0,0.0,0.0,0.0,0.0
+Conor Kidner,CrossFit Llanishen,19.0,6.0,180.0,0:56,295.0,242.0,440.0,396.0,0.0
+Victoriano Blasco,Yo Soy CrossFit,23.0,6.0,147.0,1:30,268.0,198.0,396.0,374.0,74.0
+Luka Golob,Reebok CrossFit Ljubljana,25.0,7.0,178.0,--,271.0,220.0,385.0,374.0,62.0
+Adam Garrity,CrossFit Embark,32.0,74.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Steven Cook,Reebok CrossFit Lab,30.0,69.0,162.0,--,0.0,0.0,0.0,0.0,0.0
+Thomas Frøsig Larsen,CrossFit Butcher's Lab,27.0,6.0,184.0,--,297.0,235.0,451.0,407.0,40.0
+Tyler Kidd,CrossFit Lynchburg,20.0,67.0,173.0,--,315.0,242.0,0.0,430.0,0.0
+Phillip Itwaru,CrossFit Mount Kisco,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Niklas Grymen,Fabrikken CrossFit (Slagelse),22.0,7.0,198.0,0:00,330.0,244.0,485.0,489.0,50.0
+Robbie Townsley,CrossFit Burn,27.0,67.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Patrick Borchardt,CrossFit Flensburg,26.0,7.0,189.0,--,0.0,0.0,0.0,0.0,45.0
+Aleksandras Sutiaginas,Unaffiliated,35.0,6.0,150.0,--,235.0,175.0,405.0,325.0,49.0
+Preston Soechting,CrossFit Nashville,32.0,74.0,195.0,0:00,295.0,255.0,435.0,370.0,43.0
+Skyler Blanco,CrossFit Stompin' Ground,21.0,0.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Craig Charton,CrossFit Cadre,30.0,67.0,199.0,--,0.0,0.0,0.0,0.0,0.0
+Bruno Almeida,CrossFit Almada,34.0,6.0,169.0,--,264.0,198.0,462.0,352.0,72.0
+Alec Kara,Brick CrossFit,38.0,71.0,178.0,1:09,275.0,205.0,515.0,385.0,65.0
+Alex Thackray,G Force CrossFit,30.0,7.0,216.0,0:00,275.0,220.0,473.0,330.0,46.0
+Jake Douglas,Snake CrossFit,25.0,6.0,202.0,--,0.0,0.0,0.0,0.0,0.0
+Piotr Mielczarek,CrossFit Krzyki,29.0,7.0,194.0,--,286.0,231.0,407.0,0.0,0.0
+Nick Lucchesi,CrossFit 209 Sport,27.0,73.0,205.0,1:03,0.0,0.0,0.0,0.0,53.0
+Grayson Schiphorst,Functional Strength CrossFit,26.0,0.0,211.0,--,0.0,0.0,0.0,0.0,0.0
+Noel Nocas,CrossFit Alaska,28.0,68.0,180.0,0:00,0.0,0.0,0.0,0.0,0.0
+Benjamin Hebert,CrossFit Quebec City,26.0,6.0,175.0,0:00,315.0,255.0,500.0,465.0,0.0
+Seth Connelly,CrossFit 417,27.0,73.0,215.0,--,335.0,285.0,575.0,445.0,0.0
+Brady Mora,CrossFit 913,29.0,69.0,183.0,1:03,340.0,255.0,555.0,470.0,50.0
+Kenny Ochoa,C4 CrossFit,40.0,66.0,170.0,0:57,305.0,235.0,455.0,435.0,70.0
+Jeff McGregor,CrossFit Forest,27.0,0.0,181.0,--,0.0,0.0,0.0,0.0,0.0
+Jonathan Wall,CrossFit Oneonta,27.0,69.0,195.0,--,335.0,265.0,555.0,455.0,52.0
+Ruben Rodriguez,Certus CrossFit,28.0,71.0,198.0,--,345.0,265.0,515.0,415.0,0.0
+phillip teixeira,CrossFit Showdown,29.0,68.0,190.0,0:58,345.0,275.0,505.0,445.0,45.0
+daniel rankin,Andfit CrossFit,23.0,6.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Ian Al,Stay Classy CrossFit,31.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Ragnar Ingi Klemenzson,CrossFit Sport,28.0,7.0,205.0,0:00,319.0,238.0,573.0,440.0,30.0
+Aaron Gardner,CrossFit Napa Valley,29.0,70.0,196.0,1:05,355.0,265.0,550.0,470.0,57.0
+Ray Traitz,CrossFit South Rockland,39.0,68.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jason Ingham,CrossFit Ragnarok,30.0,72.0,198.0,1:58,305.0,235.0,530.0,370.0,77.0
+Rob Aronofsky,Ocean State CrossFit,30.0,71.0,205.0,0:00,325.0,260.0,505.0,440.0,35.0
+Chip Phillips,CrossFit Deep,26.0,70.0,210.0,--,325.0,260.0,450.0,440.0,0.0
+Leighton Brillo-Sonnino,CrossFit 212,20.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Samuel Eustrom,CrossFit 720,34.0,70.0,183.0,--,0.0,0.0,0.0,0.0,0.0
+Peter Foster,Hanscom Warrior Training Center CrossFit,33.0,69.0,180.0,1:07,285.0,225.0,455.0,360.0,66.0
+Juan Ramirez,CrossFit JCN,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Michael Priest,Top Tier CrossFit,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Derrick Peoples,CrossFit Lubbock,28.0,69.0,205.0,--,335.0,245.0,0.0,465.0,0.0
+Jonathan Stuart,Mt. Sinai CrossFit,25.0,71.0,193.0,--,330.0,265.0,515.0,420.0,0.0
+Anthony Vouis,Burg CrossFit,28.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Virgil Procaccini III,CrossFit RedZone,20.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Dan Cestoni,CrossFit Grandview,27.0,0.0,166.0,--,0.0,0.0,0.0,0.0,0.0
+Mitch Stech,CrossFit Rise,30.0,71.0,186.0,0:00,280.0,220.0,470.0,410.0,58.0
+Daniel Lunney,CrossFit 413,35.0,70.0,204.0,0:00,305.0,245.0,415.0,395.0,0.0
+Christian Schlank,Big Barn CrossFit,28.0,70.0,195.0,0:58,315.0,265.0,545.0,385.0,57.0
+Brendan Domingo,CrossFit HIDDENGYM,29.0,65.0,165.0,--,315.0,260.0,405.0,475.0,0.0
+Jarrett Bond,CrossFit Ridgeline,31.0,68.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Greg Pulliam,BGB CrossFit,22.0,72.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+William Valdes,CrossFit Soul Miami,29.0,72.0,205.0,--,335.0,265.0,520.0,400.0,0.0
+Ben Weatherley,CrossFit RNA,31.0,62.0,147.0,--,220.0,165.0,440.0,352.0,47.0
+Michaell Thorsager,Lofteriet CrossFit,25.0,6.0,176.0,--,297.0,246.0,396.0,330.0,0.0
+Tyler Smarslok,CrossFit Klew,24.0,67.0,155.0,1:06,250.0,200.0,445.0,340.0,51.0
+Richard Spence,CrossFit Tonbridge,35.0,6.0,169.0,--,286.0,220.0,440.0,374.0,52.0
+Justin Kozak,Red Stick CrossFit,31.0,70.0,180.0,0:58,265.0,205.0,425.0,375.0,0.0
+JP Christal,CrossFit Brawn,29.0,7.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Ben Breen,CrossFit 17,26.0,6.0,192.0,0:00,0.0,0.0,0.0,0.0,0.0
+Mario Mairena Eriksson,CrossFit Marbella,24.0,7.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Cole Springer,CrossFit 404,29.0,73.0,185.0,0:58,265.0,220.0,455.0,375.0,0.0
+David Nilsson,CrossFit FNF,25.0,0.0,204.0,--,0.0,0.0,0.0,0.0,0.0
+Damian Mlakar,,36.0,7.0,231.0,0:00,308.0,231.0,485.0,374.0,0.0
+Mitchell Szwec,CrossFit East Cobb,21.0,72.0,190.0,--,0.0,220.0,445.0,0.0,0.0
+Jakub Migdal,CrossFit Zabrze,27.0,6.0,149.0,--,209.0,171.0,330.0,275.0,46.0
+Caleb Gressett,Reservoir CrossFit,21.0,68.0,185.0,--,335.0,260.0,460.0,420.0,0.0
+John Wormuth,CrossFit 570,30.0,72.0,198.0,--,325.0,255.0,535.0,0.0,0.0
+William Sumpter,CrossFit 116,28.0,68.0,180.0,--,320.0,240.0,500.0,420.0,64.0
+Justin Allen,CrossFit T-Town,30.0,72.0,208.0,1:00,350.0,290.0,525.0,465.0,60.0
+Sindre Østebø Thomsen,CrossFit Orskog,28.0,183.0,0.0,--,308.0,264.0,573.0,485.0,0.0
+Jaco Van der Vyver,CrossFit Valley Road,26.0,7.0,205.0,0:55,341.0,275.0,551.0,447.0,55.0
+Josh Kyser,CrossFit Roseville,23.0,66.0,175.0,--,315.0,250.0,475.0,405.0,0.0
+Stephano Tsaganis,CrossFit PRX,29.0,69.0,192.0,0:59,345.0,280.0,500.0,485.0,0.0
+Chris Detmering,,26.0,69.0,187.0,1:01,335.0,275.0,530.0,455.0,60.0
+David ben David,CrossFit Hadar Yosef,25.0,7.0,185.0,--,315.0,265.0,540.0,450.0,60.0
+Myung Sik kwak,Unaffiliated,25.0,6.0,175.0,--,304.0,253.0,485.0,418.0,42.0
+INSU BAEK,CrossFit HON,27.0,6.0,202.0,1:15,325.0,250.0,535.0,405.0,47.0
+Erik Alvarez,CrossFit HNL,27.0,0.0,160.0,--,0.0,0.0,0.0,0.0,0.0
+Erik Fay,CrossFit Lifted,32.0,70.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Aaron Hyatt,CrossFit Nola 504,29.0,73.0,205.0,1:01,345.0,285.0,525.0,455.0,55.0
+Cole Holman,CrossFit Duratus,29.0,72.0,205.0,1:12,270.0,200.0,405.0,345.0,0.0
+Nathan Loren,CrossFit Fort Vancouver,43.0,72.0,187.0,0:59,260.0,215.0,485.0,400.0,60.0
+Jay Adams,Reebok CrossFit 5th Ave,29.0,70.0,200.0,0:00,0.0,0.0,0.0,0.0,0.0
+Calvin Reder,Chemical City CrossFit,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Austin Tallant,CrossFit First Creek,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chase Ingraham,CrossFit Big D,34.0,74.0,205.0,0:58,295.0,245.0,435.0,385.0,55.0
+Mariano Nicolas Sanchez,BIGG CrossFit Palermo Chico,22.0,6.0,187.0,1:00,330.0,265.0,510.0,440.0,0.0
+Andrew Rape,CrossFit Trussville,27.0,71.0,220.0,0:55,400.0,310.0,545.0,525.0,55.0
+Michel LeBlanc,CrossFit YQM,29.0,69.0,194.0,0:00,0.0,0.0,0.0,0.0,0.0
+Robert Charlesworth,CrossFit Tuebor,27.0,76.0,227.0,0:00,325.0,250.0,535.0,445.0,51.0
+Hunter McCallum,CrossFit Bonedale,26.0,68.0,170.0,1:08,265.0,220.0,405.0,335.0,50.0
+Robert Mendoza,Unaffiliated,29.0,69.0,170.0,--,295.0,225.0,455.0,405.0,0.0
+Steven Lopes,BHF CrossFit,27.0,69.0,190.0,--,290.0,235.0,500.0,485.0,0.0
+Jeffrey Milam,12 Labours CrossFit,27.0,71.0,195.0,1:00,315.0,255.0,475.0,385.0,40.0
+Matthew Aikin,CrossFit Knurling,29.0,72.0,215.0,0:58,360.0,295.0,550.0,0.0,0.0
+David Neyens,CrossFit Marysville,33.0,71.0,195.0,1:01,305.0,235.0,475.0,395.0,50.0
+Jacob Curreri,CrossFit 540,22.0,68.0,178.0,0:55,330.0,270.0,515.0,420.0,84.0
+Cameron Wolfe,Beltway CrossFit,27.0,67.0,170.0,--,300.0,240.0,465.0,405.0,60.0
+Pearson Gean,CrossFit Little Rock,23.0,75.0,225.0,0:51,325.0,265.0,0.0,0.0,0.0
+Adam Leaney,Unaffiliated,24.0,7.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Mike Catris,CrossFit Llanishen,29.0,70.0,196.0,1:02,341.0,273.0,551.0,440.0,49.0
+Marc-Antoine Allard,CrossFit Quebec City,24.0,69.0,180.0,--,275.0,215.0,435.0,365.0,50.0
+Matt Kolozsvary,CrossFit Unmatched,30.0,70.0,198.0,0:00,295.0,255.0,545.0,465.0,0.0
+Matthew Herman,CrossFit Summa,28.0,70.0,185.0,0:51,275.0,225.0,405.0,355.0,60.0
+Luis Vildosola,115 Degrees CrossFit,29.0,6.0,187.0,0:00,325.0,255.0,535.0,415.0,58.0
+Brooks Farrar,CrossFit Resilience,29.0,71.0,192.0,1:02,355.0,290.0,500.0,450.0,60.0
+Nathan Hoiland,Sport of Fitness CrossFit,28.0,71.0,180.0,1:06,300.0,245.0,440.0,410.0,51.0
+Derek Bishop,The CrossFit Squad,28.0,0.0,209.0,--,0.0,0.0,0.0,0.0,0.0
+Leon Uptegrove,Railroad CrossFit,28.0,60.0,215.0,--,305.0,255.0,495.0,445.0,0.0
+Sebastián Lobo,Homeless CrossFit,26.0,6.0,185.0,1:10,275.0,195.0,405.0,355.0,65.0
+Bryan Wadkins,CrossFit Rx'd Placentia,44.0,69.0,172.0,--,285.0,205.0,440.0,395.0,49.0
+Zach Casey,CrossFit Harrisonburg,20.0,73.0,185.0,--,295.0,235.0,475.0,385.0,0.0
+Austin Livingston,Pale Horse CrossFit,22.0,73.0,205.0,1:03,340.0,270.0,505.0,0.0,0.0
+Joacim Bengtsson,CrossFit Lerum,42.0,6.0,187.0,1:04,286.0,227.0,451.0,396.0,0.0
+Ricky Chamberlain,Cohort CrossFit,26.0,0.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Blaine Strickland,CrossFit Identity,27.0,67.0,175.0,--,250.0,205.0,405.0,350.0,0.0
+Nathan Pontious,CrossFit Mean Streets,26.0,72.0,185.0,0:52,290.0,230.0,465.0,365.0,64.0
+Alexandre Caron,Tonic CrossFit,26.0,73.0,195.0,0:57,295.0,220.0,510.0,405.0,55.0
+Marshall Jones,CrossFit Blue and Gold,22.0,70.0,180.0,--,305.0,235.0,485.0,385.0,0.0
+Tyler Brungardt,SouthWind CrossFit,29.0,70.0,193.0,--,300.0,240.0,475.0,395.0,0.0
+George Nolan,CrossFit Pen Y Bont,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Shane Williams,CrossFit Chester,30.0,7.0,185.0,1:03,308.0,242.0,485.0,396.0,51.0
+Nathan Black,BGB CrossFit,37.0,69.0,165.0,1:02,295.0,240.0,440.0,420.0,42.0
+Andrew Ramirez,Temescal Valley CrossFit,20.0,0.0,0.0,--,245.0,235.0,475.0,395.0,0.0
+Brian Matero,Brick CrossFit DTX,26.0,72.0,175.0,--,305.0,255.0,475.0,435.0,0.0
+Joey Parrinello,CrossFit Park Ridge,23.0,69.0,180.0,--,275.0,225.0,440.0,350.0,0.0
+kody kowalowski,Maverick CrossFit,29.0,72.0,186.0,--,0.0,0.0,0.0,0.0,0.0
+Maciej Laszczak,CrossFit 43300,27.0,0.0,172.0,--,253.0,176.0,440.0,407.0,54.0
+Trent Sanders,CrossFit AOP,26.0,74.0,210.0,0:55,315.0,245.0,475.0,385.0,40.0
+Anthony Pieters,Staten Island CrossFit,32.0,69.0,177.0,--,225.0,175.0,425.0,335.0,44.0
+Richard Graca,CrossFit Da Vinci,26.0,6.0,150.0,1:04,275.0,220.0,429.0,374.0,40.0
+Jon Poli,Superhero CrossFit,24.0,0.0,169.0,--,0.0,0.0,0.0,0.0,0.0
+Hilmar Arnarson,CrossFit XY,26.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Robert Lawson,CrossFit Aberdeen,35.0,0.0,187.0,--,0.0,0.0,0.0,0.0,0.0
+George Healey,CrossFit Witham,31.0,6.0,180.0,--,120.0,220.0,418.0,330.0,50.0
+Brad Parkes,CrossFit Latitude 39,28.0,0.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Timothy Gonzales,CrossFit Coveted,23.0,69.0,160.0,0:54,225.0,175.0,365.0,345.0,30.0
+Håkan Jedhammar,CrossFit Linne,35.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+David Butterfield,CrossFit Teesside,27.0,6.0,174.0,1:07,244.0,196.0,374.0,302.0,32.0
+Max O'Malley,Heavy Metal CrossFit,22.0,70.0,180.0,--,215.0,180.0,315.0,280.0,30.0
+Michael Norwood,CrossFit Harbor East,32.0,72.0,218.0,0:57,265.0,220.0,530.0,415.0,21.0
+Ben Davies,InnerFight CrossFit DXB,33.0,6.0,196.0,1:12,265.0,185.0,495.0,335.0,20.0
+Esteban Durand,CrossFit Argos San Isidro,35.0,7.0,198.0,0:54,308.0,242.0,485.0,396.0,40.0
+Andrew St Germain,Easy Is Evil CrossFit,28.0,0.0,185.0,--,325.0,255.0,0.0,405.0,0.0
+Mervan Kaygu,CrossFit 1453,29.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Sprinkler,Unaffiliated,29.0,73.0,215.0,--,290.0,240.0,530.0,455.0,45.0
+Eivind Ringard,CrossFit Oslo,27.0,0.0,196.0,--,0.0,0.0,0.0,0.0,0.0
+Alexander Paulat,50 Grad Nord CrossFit,40.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Gonzalo Duro,BIGG CrossFit Palermo Chico,23.0,6.0,194.0,--,286.0,253.0,462.0,418.0,63.0
+Justin Ahrens,CrossFit MetaliZe,29.0,73.0,195.0,0:58,330.0,275.0,500.0,420.0,64.0
+Kyle Boyer,CrossFit Dixie,36.0,72.0,195.0,0:59,340.0,272.0,595.0,485.0,62.0
+Batuque Iribarren,Unaffiliated,29.0,0.0,205.0,--,308.0,264.0,507.0,440.0,65.0
+Elijah Muhammad,CrossFit New You,28.0,72.0,200.0,--,350.0,295.0,565.0,475.0,0.0
+Ryan Swobody,CrossFit Marysville,32.0,70.0,182.0,0:56,305.0,251.0,535.0,455.0,62.0
+Dustin Harth,Ironwood CrossFit,33.0,72.0,205.0,--,325.0,255.0,525.0,455.0,43.0
+Mason Flynn,CrossFit ATR,29.0,70.0,215.0,--,0.0,0.0,0.0,0.0,0.0
+George Sanchez,Steel Peak CrossFit,25.0,73.0,205.0,0:58,335.0,265.0,545.0,425.0,0.0
+Steve Briscoe,CrossFit 1855,29.0,69.0,192.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Shafer,CrossFit Blur,28.0,68.0,178.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Thomas,CrossFit Marysville,26.0,68.0,186.0,--,350.0,260.0,500.0,500.0,80.0
+adam mansy,,29.0,7.0,202.0,1:05,304.0,249.0,507.0,425.0,0.0
+Ben Alderman,CrossFit Iron Mile,34.0,70.0,208.0,0:00,355.0,293.0,515.0,440.0,60.0
+Eric Botsford,CrossFit Poipu,37.0,71.0,176.0,0:59,307.0,235.0,455.0,425.0,50.0
+Jack Bernstein,CrossFit Invictus Point Loma,23.0,0.0,202.0,--,0.0,0.0,0.0,0.0,0.0
+David Borrelli,Rising CrossFit Ballantyne,27.0,69.0,176.0,0:00,310.0,235.0,475.0,440.0,56.0
+Jay Siqueiros,CrossFit FTF,25.0,68.0,190.0,--,315.0,260.0,0.0,415.0,0.0
+Daniel Spray,Lake Hills CrossFit,23.0,65.0,160.0,0:00,305.0,245.0,455.0,385.0,1.0
+Corey Pruneski,The CrossFit Squad,29.0,67.0,188.0,--,0.0,295.0,0.0,500.0,0.0
+Tyler Tosunian,Pacesetter CrossFit,26.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Carlos Cantu,,18.0,0.0,185.0,--,305.0,235.0,455.0,410.0,50.0
+Adam Vinson,CrossFit Oneonta,29.0,71.0,215.0,0:00,355.0,285.0,550.0,525.0,40.0
+Spencer Panchik,CrossFit Mentality,20.0,68.0,175.0,--,340.0,256.0,475.0,445.0,0.0
+Eugene Babenko,CrossFit Gold Box,33.0,68.0,176.0,0:00,285.0,245.0,450.0,380.0,50.0
+Shawn Bhatti,CrossFit Fortius,23.0,71.0,198.0,0:55,319.0,247.0,535.0,385.0,0.0
+Ryan Nerenberg,Unaffiliated,26.0,73.0,189.0,--,0.0,220.0,465.0,370.0,62.0
+Nicholas Rocco,Lakeside CrossFit,28.0,72.0,205.0,0:00,355.0,285.0,545.0,435.0,42.0
+Malachi Bennett,Your Box CrossFit,24.0,74.0,197.0,0:00,0.0,0.0,0.0,0.0,0.0
+Cody Schick,CrossFit Villains,25.0,68.0,173.0,--,246.0,182.0,506.0,435.0,0.0
+sungwook yoo,CrossFit Win Your Body,31.0,6.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Dan Staton,CrossFit Spokane Valley,35.0,66.0,155.0,0:00,285.0,215.0,475.0,375.0,66.0
+Stephen Mackenzie,CrossFit Jono,27.0,0.0,200.0,--,315.0,275.0,517.0,500.0,0.0
+Corey Schmidt,Unaffiliated,29.0,70.0,202.0,0:00,0.0,0.0,0.0,0.0,0.0
+Gaje McDaniel,CrossFit Invictus,21.0,68.0,170.0,--,335.0,275.0,455.0,415.0,65.0
+Justin Parro,CrossFit St. Catharines,27.0,67.0,165.0,--,275.0,200.0,460.0,365.0,0.0
+Kenny Nugent,Northstate CrossFit,26.0,73.0,205.0,--,315.0,255.0,485.0,425.0,0.0
+Christopher Treanor,CrossFit Blade,32.0,67.0,173.0,--,265.0,230.0,450.0,345.0,65.0
+David Gibeault,CrossFit Adm,24.0,67.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Aaron Kimberly,CrossFit Nixa,29.0,69.0,210.0,--,325.0,235.0,570.0,550.0,0.0
+daimino stewart,Precision CrossFit,30.0,71.0,205.0,--,335.0,245.0,485.0,435.0,0.0
+James Sidwell,CrossFit Strong,28.0,0.0,188.0,1:08,350.0,285.0,515.0,485.0,58.0
+Matt Bechtold,CrossFit Wilsonville,35.0,72.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Matt Guarnieri,Chagrin Falls CrossFit,30.0,70.0,195.0,0:00,300.0,255.0,485.0,425.0,0.0
+Justin Tamane,CrossFit Solid Ground,29.0,67.0,175.0,--,315.0,265.0,465.0,435.0,0.0
+Yurii Hanson,CrossFit Billings,40.0,69.0,190.0,0:00,301.0,246.0,405.0,405.0,0.0
+Matt Dunaway,Unaffiliated,30.0,70.0,177.0,--,305.0,235.0,435.0,405.0,50.0
+Benjamin Campanile,Steel Peak CrossFit,33.0,68.0,183.0,1:09,300.0,248.0,445.0,465.0,67.0
+Michael Staderman,Centerville CrossFit,24.0,69.0,205.0,--,315.0,245.0,455.0,475.0,30.0
+cody limas,CrossFit Tacoma,28.0,69.0,180.0,0:57,315.0,265.0,445.0,430.0,54.0
+Grant Belrose,936 CrossFit,25.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Billy Breider,Unaffiliated,28.0,70.0,183.0,--,320.0,255.0,475.0,420.0,50.0
+Wendell Watson,CrossFit West Springfield,32.0,69.0,192.0,--,345.0,255.0,565.0,485.0,0.0
+Ivan Marjanovic,Circuit Plus CrossFit Gulf Road,28.0,7.0,189.0,--,235.0,185.0,495.0,355.0,0.0
+Brian Finn,Unaffiliated,27.0,71.0,185.0,--,0.0,0.0,506.0,415.0,0.0
+Alex Baronich,Red Stick CrossFit,29.0,67.0,177.0,0:00,0.0,0.0,0.0,0.0,0.0
+Justin Wright,Reebok CrossFit Back Bay,26.0,70.0,195.0,0:00,345.0,275.0,525.0,475.0,53.0
+Rey Fernandez,CrossFit Soul Miami,28.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Josh Hacker,CrossFit Conroe,22.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Trey Winkler,CrossFit 858,25.0,72.0,206.0,--,365.0,305.0,565.0,465.0,64.0
+Justin Graham,Pee Dee CrossFit,33.0,67.0,169.0,--,265.0,210.0,425.0,320.0,0.0
+Dustin LaBar,NEPA CrossFit,29.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Jacob Mason,CrossFit Spokane Valley,25.0,60.0,185.0,--,305.0,245.0,500.0,415.0,0.0
+Kyle Ruth,CrossFit Passion,31.0,71.0,199.0,0:54,345.0,255.0,555.0,450.0,66.0
+Cris Holler,CrossFit Monterey,26.0,69.0,178.0,1:08,267.0,235.0,475.0,355.0,68.0
+Jonathan Hawkins,CrossFit MNC,25.0,73.0,185.0,--,325.0,275.0,425.0,435.0,0.0
+Jacob Fillmore,All In CrossFit,22.0,70.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Francois-Laurent Beaudry,L'Usine CrossFit Sherbrooke,23.0,6.0,182.0,--,295.0,225.0,455.0,405.0,0.0
+Oskar Toro,Yankee CrossFit,28.0,67.0,180.0,--,278.0,225.0,415.0,385.0,0.0
+Matt Jones,CrossFit Aggieland,22.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Philip Bisgaard,CrossFit Nordvest,20.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Stephen Neer,Poughkeepsie CrossFit,24.0,68.0,180.0,--,330.0,265.0,545.0,445.0,55.0
+Ben Middleton,Thorndon CrossFit,20.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Tanner Stickney,Diablo CrossFit,18.0,68.0,160.0,0:57,280.0,225.0,405.0,330.0,54.0
+Dean Linder-Leighton,CrossFit Superbox,26.0,6.0,189.0,0:55,341.0,297.0,551.0,440.0,75.0
+Zechariah Townsend,Godspeed CrossFit,29.0,72.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Ed Hurley,CrossFit Mt. Lebanon,28.0,70.0,197.0,1:12,290.0,235.0,485.0,365.0,44.0
+Sebastien Morissette,STADD CrossFit,33.0,71.0,199.0,--,0.0,0.0,0.0,0.0,0.0
+Sean Tully,CrossFit Southie,31.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Glendon Bautista,CrossFit Surge,30.0,70.0,170.0,0:57,270.0,230.0,475.0,375.0,100.0
+Pete Taylor,CrossFit Roaster Barbell,29.0,70.0,190.0,0:55,335.0,285.0,510.0,445.0,50.0
+Chad Furey,902 Athletics CrossFit,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jake Marconi,Full Range CrossFit,19.0,67.0,172.0,--,275.0,185.0,505.0,415.0,0.0
+Cory Gibson,Unaffiliated,23.0,72.0,206.0,--,350.0,290.0,515.0,440.0,40.0
+Fayez Rabadi,CrossFit Strong,28.0,0.0,197.0,--,0.0,0.0,0.0,0.0,0.0
+Gregory Hung,CrossFit Turicum,34.0,6.0,182.0,--,304.0,242.0,462.0,396.0,0.0
+Omar Luaces,CrossFit Naron,32.0,6.0,163.0,0:55,286.0,220.0,551.0,407.0,55.0
+Dale Parker,PH CrossFit,33.0,6.0,176.0,--,275.0,227.0,440.0,374.0,50.0
+Stuart Cunningham,CrossFit Cranbourne,27.0,6.0,159.0,1:00,249.0,187.0,418.0,319.0,45.0
+Alexander Alvarez,CrossFit Siege,23.0,68.0,168.0,--,295.0,235.0,415.0,375.0,50.0
+Corey Southers,CrossFit Scioto,30.0,70.0,0.0,--,305.0,225.0,0.0,425.0,0.0
+Nick Rees,Ragin' CrossFit,26.0,72.0,210.0,--,320.0,265.0,525.0,420.0,40.0
+Ryan Russell,Niche CrossFit,27.0,6.0,182.0,1:00,209.0,176.0,396.0,319.0,20.0
+Jeremiah Santini,CrossFit Invictus Point Loma,34.0,73.0,185.0,0:55,255.0,205.0,483.0,340.0,43.0
+Dillon Boss,CrossFit Enhance,23.0,68.0,185.0,--,335.0,260.0,455.0,425.0,0.0
+Mat Frankel,CrossFit City Line,30.0,75.0,205.0,--,270.0,225.0,470.0,340.0,49.0
+Matt Johnson,NoCoast CrossFit,29.0,70.0,191.0,0:00,0.0,0.0,0.0,0.0,0.0
+Tyler Krueger,CrossFit Green Bay,30.0,70.0,198.0,0:53,355.0,275.0,525.0,455.0,45.0
+Michael Hyland,CrossFit Island Park,28.0,69.0,192.0,--,305.0,245.0,430.0,405.0,50.0
+florent paillasson,CrossFit Lyon,31.0,6.0,183.0,--,277.0,220.0,451.0,352.0,48.0
+Kyle Sikes,CrossFit 207,27.0,71.0,204.0,0:00,350.0,290.0,575.0,465.0,50.0
+Mitch Heady,CrossFit O'Fallon,26.0,73.0,216.0,--,365.0,310.0,535.0,455.0,0.0
+philip craig,CrossFit Hoka Hey,32.0,67.0,185.0,0:51,0.0,0.0,510.0,485.0,35.0
+Daniel Webb,CrossFit Rockwall,29.0,0.0,222.0,--,0.0,0.0,0.0,0.0,0.0
+James Catino,CTown CrossFit,29.0,0.0,175.0,--,245.0,185.0,405.0,347.0,0.0
+Khada Douglas,CrossFit Frantic,23.0,6.0,143.0,1:01,275.0,220.0,418.0,363.0,54.0
+Chase Sailer,Unaffiliated,21.0,72.0,210.0,--,315.0,235.0,565.0,485.0,0.0
+Christer Idland,CrossFit Centrum,30.0,7.0,194.0,0:00,310.0,253.0,440.0,374.0,50.0
+CJ Gerald,CrossFit Uncommon,23.0,0.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Philip Weigel,CrossFit CLE,25.0,69.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Maximilian Vargas,CrossFit Annihilation,21.0,72.0,200.0,--,345.0,252.0,530.0,405.0,50.0
+Blake Whitcomb,CrossFit Code 3 South,28.0,74.0,200.0,--,310.0,265.0,0.0,415.0,0.0
+Benjamin Stevens,CrossFit Impressions,30.0,70.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jo Neusser,CrossFit ACE 1150,30.0,7.0,187.0,0:00,0.0,0.0,0.0,0.0,0.0
+Farbod Sedeh,NorCal CrossFit Santa Clara,27.0,71.0,185.0,--,265.0,205.0,465.0,415.0,0.0
+Tyler Fischer,CrossFit Explode,24.0,68.0,185.0,0:00,325.0,275.0,465.0,405.0,0.0
+Falke Verwer,CrossFit Humble Beginnings,28.0,76.0,217.0,0:00,0.0,0.0,0.0,0.0,0.0
+Michael Riva,,26.0,68.0,150.0,1:04,245.0,200.0,375.0,305.0,0.0
+Matthew Taylor,Grapevine CrossFit,29.0,72.0,189.0,0:00,266.0,235.0,510.0,415.0,0.0
+Tanner Dixon,Unaffiliated,24.0,71.0,190.0,--,285.0,243.0,425.0,355.0,41.0
+Alex Romero,River Parish CrossFit,31.0,67.0,182.0,0:00,315.0,240.0,440.0,405.0,50.0
+Matthew Michaud,Everproven CrossFit,32.0,72.0,185.0,1:30,315.0,285.0,500.0,405.0,55.0
+Kody Goings,Unaffiliated,22.0,68.0,180.0,1:02,280.0,220.0,425.0,345.0,42.0
+Steven Richards,Victor CrossFit,26.0,75.0,205.0,--,0.0,240.0,495.0,435.0,60.0
+Matt Recknagel,CrossFit Fate,34.0,71.0,215.0,--,325.0,255.0,600.0,505.0,0.0
+Will Hall,CrossFit Blue Rock,26.0,72.0,238.0,0:00,415.0,345.0,565.0,550.0,0.0
+Andy Rodgers,Southern Latitude CrossFit,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Garrett Lowney,CrossFit Green Bay,37.0,72.0,230.0,1:00,345.0,285.0,525.0,485.0,55.0
+Frédéric Hamel,CrossFit Minotaure,18.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Blake Leigh-Smith,CrossFit Devour,26.0,6.0,152.0,--,264.0,198.0,418.0,341.0,0.0
+Joakim Rygh,CrossFit Oslo,25.0,0.0,166.0,--,0.0,0.0,0.0,0.0,0.0
+Ben Johnson,CrossFit Jackson,25.0,73.0,210.0,--,350.0,260.0,500.0,455.0,43.0
+John Butler,CrossFit Active Artarmon,25.0,70.0,189.0,--,305.0,245.0,485.0,400.0,50.0
+Steve Hartle,Backcountry CrossFit,47.0,68.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Mark Summerlin,TBE CrossFit,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chris Brunettin,CrossFit Ex Nihilo,27.0,73.0,209.0,--,0.0,0.0,0.0,0.0,0.0
+David J Myers,CrossFit Ridgeline,30.0,65.0,165.0,1:08,305.0,242.0,435.0,415.0,40.0
+Rick Wilson,CrossFit Hawk Eye,27.0,72.0,175.0,0:00,290.0,230.0,445.0,375.0,50.0
+Brett Lesinger,CrossFit Orange Beach,24.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jacob Ryan,CrossFit Bridgewater,24.0,70.0,185.0,1:00,275.0,225.0,485.0,400.0,60.0
+Ronnie Minervini,Be CrossFit,26.0,70.0,185.0,--,305.0,275.0,455.0,365.0,0.0
+Ryan Dixon,CrossFit The Club,22.0,68.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Steve Dukes,Signal 5 CrossFit,26.0,0.0,172.0,--,0.0,0.0,0.0,0.0,0.0
+Rob Martin,CrossFit Mallorca,37.0,7.0,198.0,0:00,313.0,264.0,529.0,407.0,0.0
+Derrick Dlouhy,CrossFit 8035,24.0,71.0,195.0,1:10,315.0,250.0,505.0,405.0,60.0
+Daniel Townson,CrossFit The Stables,26.0,6.0,171.0,--,308.0,242.0,485.0,440.0,0.0
+Alex Burgoyne,CrossFit South Boise,22.0,71.0,220.0,--,325.0,245.0,575.0,495.0,0.0
+David Rojas,KMF CrossFit,26.0,69.0,169.0,--,0.0,0.0,0.0,0.0,0.0
+August Dhayer,KMF CrossFit,27.0,70.0,195.0,--,275.0,230.0,465.0,355.0,65.0
+Ryan Troupe,CrossFit West Springfield,31.0,72.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jacob Buffa,Unaffiliated,23.0,70.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Dave Schwanke,Unaffiliated,37.0,66.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Yoan Fraser,Hangar CrossFit,21.0,0.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Anders Johansen,CrossFit Olentangy,30.0,69.0,170.0,0:50,245.0,225.0,405.0,405.0,60.0
+Jake Armistead,CrossFit Health Creation,23.0,7.0,174.0,--,231.0,187.0,352.0,308.0,36.0
+Daniel Bauer,CrossFit R.A.W.,33.0,69.0,175.0,--,275.0,205.0,425.0,325.0,0.0
+John-Paul Hethcock,CrossFit ATR,23.0,0.0,196.0,--,0.0,0.0,0.0,0.0,0.0
+David Miller,CrossFit Medford,33.0,68.0,170.0,0:00,0.0,0.0,0.0,0.0,0.0
+Mateusz Hakman,CrossFit DogField,27.0,7.0,209.0,--,330.0,264.0,440.0,407.0,43.0
+Bergur Sverrisson,Reebok CrossFit Reykjavík,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jordan Robert,CrossFit De La Cite,23.0,7.0,195.0,--,315.0,225.0,500.0,445.0,0.0
+Ryan Barker,Cityside CrossFit,33.0,71.0,187.0,0:00,0.0,0.0,0.0,0.0,0.0
+Joseph Limon,CrossFit Ten:4,26.0,64.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Lago Guiraldes,CrossFit Tuluka Nuñez,19.0,7.0,158.0,--,198.0,154.0,308.0,264.0,32.0
+Claudio Fischetti,CrossFit Casilina,37.0,6.0,180.0,--,297.0,220.0,210.0,440.0,50.0
+Bryan Betters,CrossFit Route 1,27.0,74.0,183.0,--,0.0,0.0,0.0,0.0,0.0
+Adam Purcell,CrossFit Staunton,33.0,66.0,176.0,--,280.0,220.0,405.0,355.0,0.0
+Patrick Byrnes,CrossFit Vae Victis,33.0,68.0,150.0,--,265.0,195.0,450.0,385.0,0.0
+Blair Chapman,Unaffiliated,23.0,67.0,179.0,1:01,330.0,280.0,530.0,455.0,52.0
+Michael Eagle,CrossFit Fast Factory,22.0,67.0,170.0,--,295.0,230.0,445.0,390.0,53.0
+Calvin Reynoso,CrossFit Payback,32.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Rambo Bengtsson,Tullinge CrossFit,30.0,6.0,174.0,--,282.0,222.0,496.0,379.0,48.0
+Erik Cole,CrossFit Ready to Live,27.0,71.0,190.0,1:00,315.0,245.0,425.0,420.0,0.0
+John Knowlton,CrossFit Radford,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Bertrand Saugy,CrossFit Riviera,28.0,6.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Joe Blaylock,CrossFit Hawk Eye,30.0,6.0,163.0,0:00,286.0,209.0,440.0,363.0,61.0
+Craig Jennings,CrossFit Perth,35.0,6.0,154.0,--,0.0,0.0,0.0,0.0,0.0
+Zsolt Varga,CrossFit Tesseract,27.0,6.0,185.0,1:00,297.0,243.0,408.0,364.0,70.0
+Kevin Seaman,Superhero CrossFit,31.0,71.0,0.0,1:07,295.0,245.0,460.0,385.0,47.0
+bourrin lionel,Alpes CrossFit Unity,33.0,6.0,176.0,1:02,264.0,209.0,451.0,0.0,0.0
+Zach Goren,CrossFit Los Angeles (LA),31.0,67.0,171.0,0:00,265.0,205.0,500.0,400.0,52.0
+Eddie Fordyce,CrossFit Explode,19.0,73.0,185.0,--,265.0,225.0,365.0,305.0,0.0
+Andrea Ferrero,CrossFit Lago Maggiore,27.0,7.0,194.0,--,297.0,242.0,462.0,396.0,28.0
+Jón Elí,Reebok CrossFit Reykjavík,21.0,7.0,200.0,1:15,308.0,264.0,462.0,418.0,45.0
+Blake Hood,CrossFit Hollywood,32.0,71.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jacob Stubbings,Bring It On CrossFit,21.0,6.0,163.0,--,242.0,182.0,363.0,330.0,30.0
+Mateusz Zajaczkowski,CrossFit Genius,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+will loughman,CrossFit Hereford,23.0,7.0,209.0,0:00,319.0,242.0,551.0,440.0,0.0
+Colin Pauline,CrossFit Love,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Javi Bustos Murillo,CrossFit Lleida,30.0,6.0,174.0,0:00,242.0,176.0,418.0,330.0,63.0
+Maximilien Simon,CrossFit 197,23.0,6.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Tom Parker,Reebok CrossFit Reading,30.0,7.0,182.0,--,297.0,238.0,507.0,407.0,0.0
+Shawn Nuetzman,CrossFit Des Moines,32.0,70.0,159.0,--,275.0,225.0,385.0,315.0,0.0
+Josh Mohs,CrossFit Fast Factory,27.0,70.0,175.0,--,255.0,205.0,410.0,365.0,0.0
+Craig Preston,CrossFit Active Artarmon,26.0,6.0,185.0,--,265.0,235.0,405.0,330.0,0.0
+Nuno Costa,One Soul CrossFit,29.0,0.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Jack Mclean,CrossFit Melbourne,26.0,7.0,194.0,0:58,238.0,216.0,462.0,368.0,25.0
+Jason Imhof,CrossFit Embark,41.0,67.0,160.0,--,235.0,175.0,405.0,325.0,0.0
+Robert Manlove,CrossFit CM2,30.0,74.0,210.0,0:00,297.0,242.0,465.0,396.0,60.0
+Josh Knudson,CrossFit Turbine,29.0,72.0,178.0,57:00,0.0,0.0,415.0,290.0,0.0
+Simon Thomson,CrossFit East Kilbride,28.0,0.0,209.0,--,0.0,0.0,0.0,0.0,0.0
+Dempsey Tamara,CrossFit 075,32.0,7.0,225.0,--,310.0,255.0,485.0,407.0,0.0
+Luke Keeble,Unaffiliated,21.0,68.0,169.0,--,290.0,230.0,0.0,375.0,0.0
+Maros Forgac,CrossFit Solent,26.0,6.0,187.0,--,299.0,242.0,440.0,374.0,50.0
+Agustin Cicognini,CrossFit Tuluka Nuñez,21.0,0.0,154.0,--,0.0,0.0,0.0,0.0,0.0
+Alexander Liljeqvist,CrossFit Linne,28.0,6.0,174.0,--,0.0,0.0,0.0,0.0,0.0
+Lukasz Gluszynski,CrossFit Bia?ystok,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Marko Žigrovi?,Id Est CrossFit,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Daniel Moore,CrossFit Oslo,31.0,0.0,181.0,--,0.0,0.0,0.0,0.0,0.0
+Nicolas Delay,CrossFit Lyon,29.0,6.0,158.0,--,176.0,132.0,308.0,264.0,0.0
+Benjamin Eischen,Reebok CrossFit Back Bay,29.0,73.0,190.0,0:00,275.0,215.0,425.0,325.0,42.0
+Charles Hallworth,CrossFit Fabriken,21.0,6.0,185.0,1:01,277.0,242.0,500.0,356.0,0.0
+Tomeu Sanso Perello,CrossFit Hellerup,23.0,6.0,154.0,--,0.0,0.0,0.0,0.0,0.0
+Jon Davies,CrossFit Civitas,26.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Elijah Hockensmith,CrossFit Charleston,21.0,74.0,217.0,0:54,315.0,285.0,525.0,400.0,75.0
+Joshua Skepper,Reebok CrossFit Glevum,23.0,67.0,165.0,0:00,242.0,198.0,352.0,286.0,0.0
+Michael Goods,WGA CrossFit,27.0,6.0,176.0,0:57,271.0,220.0,529.0,440.0,60.0
+Tor Wigum,CrossFit Tromso,35.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Pit Ressler,,27.0,6.0,187.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jason Kinnick,CrossFit Kinnick,39.0,72.0,199.0,0:00,0.0,0.0,0.0,0.0,0.0
+Austin Garcia,CrossFit Grandview,22.0,75.0,220.0,0:00,0.0,0.0,0.0,0.0,0.0
+Nick Gagliano,CrossFit X-treme Athletics,29.0,75.0,235.0,0:00,345.0,295.0,490.0,410.0,0.0
+Tyler Lee,Unaffiliated,27.0,70.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Adam Wilson,,34.0,66.0,156.0,0:00,265.0,215.0,425.0,360.0,70.0
+Zak Anderson,CrossFit Rowlett,27.0,67.0,178.0,--,0.0,0.0,485.0,440.0,0.0
+Michael Cazayoux,CrossFit West,26.0,69.0,190.0,0:56,305.0,225.0,500.0,425.0,0.0
+Ben Rogers,CrossFit Mayhem,23.0,68.0,179.0,0:52,305.0,255.0,445.0,405.0,0.0
+Christoffer Gammelgaard,CrossFit Gold Box,27.0,7.0,211.0,0:00,319.0,253.0,529.0,418.0,0.0
+Juan Gonzalez,Space Coast CrossFit,27.0,66.0,160.0,0:59,330.0,250.0,545.0,425.0,0.0
+Aaron Esparza,CrossFit Jaakarhu,21.0,68.0,170.0,0:00,315.0,230.0,500.0,400.0,56.0
+Anders Gronsund,CrossFit Centrum,29.0,6.0,154.0,0:00,275.0,220.0,440.0,376.0,67.0
+Stefano Italiano,Reebok CrossFit Ravenna,30.0,6.0,178.0,0:00,264.0,209.0,454.0,352.0,0.0
+JP Hernández,CrossFit Downtown Miami,20.0,60.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Isaac Campbell,Verdant CrossFit,21.0,69.0,185.0,1:00,305.0,240.0,465.0,395.0,67.0
+Gerhard van der Merwe,CrossFit PBM,27.0,7.0,187.0,0:54,320.0,280.0,506.0,418.0,55.0
+Alexander Hunt,Advanced Performance CrossFit,23.0,0.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+brian horwath,Hackettstown CrossFit,27.0,66.0,155.0,--,285.0,235.0,505.0,375.0,50.0
+Nelson Gonzalez Benitez,CrossFit 393,28.0,6.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Aaron Vaughn,CrossFit CLC,22.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Joseph Dinkel,CrossFit Blue and Gold,23.0,0.0,170.0,--,0.0,0.0,0.0,0.0,0.0
+Patrick Barr,CrossFit Trussville,27.0,73.0,190.0,0:00,305.0,235.0,465.0,365.0,52.0
+Caleb Woods,CrossFit Spokane Valley,23.0,69.0,160.0,--,315.0,235.0,445.0,410.0,70.0
+Julio Gutierrez,CrossFit Union Square,28.0,67.0,168.0,--,5.0,3.0,525.0,425.0,78.0
+Keith Cooper,CrossFit Descendants,23.0,67.0,177.0,--,0.0,0.0,0.0,0.0,0.0
+Jose Luis Insua,CrossFit Teatinos,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+David Levey,CrossFit Algoa,39.0,6.0,200.0,0:50,319.0,268.0,473.0,440.0,60.0
+Charles Felx Leduc,CrossFit Adm,29.0,6.0,207.0,1:02,325.0,295.0,565.0,510.0,70.0
+Hyuksan Kwon,Reebok CrossFit Fighting Spirit,30.0,6.0,182.0,--,310.0,235.0,435.0,405.0,0.0
+Yunus Emre Ilhan,Antrum CrossFit,21.0,6.0,171.0,--,264.0,231.0,418.0,363.0,0.0
+Chase Heywood,Rockwell CrossFit,34.0,70.0,191.0,0:00,340.0,260.0,535.0,485.0,56.0
+David Barnett,CrossFit Lubbock,29.0,72.0,195.0,1:04,320.0,255.0,460.0,430.0,41.0
+Tehau Yves,CrossFit Varua,25.0,7.0,171.0,--,310.0,245.0,551.0,365.0,65.0
+Isaac Dillon,Raza CrossFit,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Rob Miller,CrossFit Santa Cruz,31.0,71.0,205.0,0:00,308.0,275.0,485.0,440.0,0.0
+Cole Armstrong,CrossFit Infinite Strength,22.0,68.0,175.0,--,330.0,250.0,0.0,385.0,0.0
+Taylor Myers,The Claw CrossFit,25.0,73.0,210.0,--,310.0,235.0,475.0,425.0,67.0
+Brandon Brickner,CrossFit Midlo,25.0,66.0,155.0,1:03,275.0,237.0,405.0,357.0,53.0
+Richard Berreth,CrossFit Argyle,19.0,67.0,175.0,1:10,305.0,235.0,455.0,450.0,53.0
+Peter Kazanas,Peak 360 CrossFit,40.0,70.0,190.0,1:14,318.0,250.0,543.0,427.0,0.0
+Brandon Rodick,CrossFit Humble Beginnings,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jake Neubauer,CrossFit Anywhere,35.0,69.0,195.0,0:56,315.0,250.0,500.0,435.0,55.0
+Jandro Suarez,BluePrint CrossFit,32.0,65.0,161.0,0:00,235.0,165.0,405.0,325.0,50.0
+Peter Galloup,8th Day CrossFit,22.0,72.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Nathan Benavides,Odessa Black CrossFit,27.0,65.0,153.0,--,280.0,225.0,405.0,405.0,0.0
+Christopher Miller,Crofton CrossFit,24.0,6.0,193.0,--,315.0,255.0,525.0,435.0,62.0
+Dillon Betancourt,CrossFit Soul Miami,29.0,70.0,199.0,--,319.0,253.0,535.0,455.0,0.0
+James H Kim,CrossFit Kingstowne,27.0,68.0,172.0,--,275.0,225.0,435.0,425.0,50.0
+Benjamin Swedish,CrossFit Spot,28.0,70.0,200.0,--,295.0,215.0,415.0,390.0,0.0
+Matthias Turner,CrossFit Torian,27.0,7.0,195.0,--,260.0,220.0,440.0,341.0,0.0
+Owen Bernstein,Reebok CrossFit Back Bay,21.0,68.0,178.0,1:12,300.0,245.0,485.0,420.0,0.0
+Henry Kulla,CrossFit Kreis 9,27.0,7.0,215.0,0:57,285.0,237.0,555.0,385.0,0.0
+Dustin Edwards,Unaffiliated,29.0,71.0,185.0,1:04,275.0,225.0,485.0,365.0,63.0
+Travis Schliesser,Thorbeckes CrossFit,30.0,70.0,187.0,1:10,315.0,275.0,460.0,405.0,0.0
+Kai Braden,Depot CrossFit HW,28.0,68.0,146.0,1:11,240.0,200.0,435.0,345.0,25.0
+Barrett Danz,CrossFit Big Dane,28.0,71.0,200.0,0:58,325.0,255.0,535.0,445.0,0.0
+David Rodriguez,CrossFit Reston,29.0,68.0,180.0,--,305.0,227.0,0.0,380.0,0.0
+Cody Thompson,CrossFit Intrigue,25.0,68.0,170.0,1:01,300.0,245.0,500.0,415.0,0.0
+James Wozniak,Unaffiliated,28.0,66.0,160.0,0:00,305.0,235.0,515.0,425.0,55.0
+Nicholas Burton,Advanced Performance CrossFit,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Joe Poyma,Comanche CrossFit,28.0,69.0,182.0,--,275.0,215.0,455.0,395.0,0.0
+Robert Garcia,Alpine CrossFit,24.0,60.0,185.0,--,305.0,195.0,415.0,365.0,51.0
+Ryan Hewitt,CrossFit Route 1,37.0,71.0,195.0,0:00,285.0,215.0,475.0,380.0,54.0
+Roberto Gutierrez,RADD CrossFit NSLI,33.0,68.0,185.0,0:00,300.0,245.0,435.0,375.0,45.0
+Eriks Selickis,CrossFit 4 Life,26.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Ricky Redus,CrossFit Jaakarhu,23.0,70.0,205.0,0:54,385.0,305.0,565.0,505.0,55.0
+Darryl McNeil,TAS CrossFit,25.0,72.0,198.0,--,305.0,250.0,455.0,365.0,60.0
+Joshua Schram,CrossFit Cambridge,26.0,74.0,200.0,--,285.0,235.0,515.0,400.0,0.0
+Craig Jones,CrossFit North Charleston,31.0,72.0,216.0,0:00,0.0,0.0,0.0,0.0,0.0
+James Burns,CrossFit Exe,21.0,6.0,182.0,0:00,0.0,0.0,0.0,0.0,0.0
+ryan peterson,CrossFit Jetty,28.0,0.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Stephane Ossanga,,26.0,6.0,193.0,1:00,313.0,244.0,551.0,440.0,65.0
+Piotr Kaleta,CrossFit Active Artarmon,30.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Ryan Alec Chavez,CrossFit 915,27.0,70.0,177.0,0:59,300.0,225.0,435.0,350.0,0.0
+Rubén Insua,CrossFit Salnes,31.0,6.0,158.0,--,0.0,0.0,496.0,363.0,0.0
+Spencer Whiteley,CrossFit Blockhouse,38.0,68.0,171.0,1:06,291.0,233.0,462.0,407.0,45.0
+Julian Marquez,CrossFit Power Grid,30.0,72.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Thomas Pichler,CrossFit Boss,30.0,6.0,143.0,--,0.0,0.0,0.0,0.0,0.0
+Andrew Ciantar,CrossFit Plymouth MI,29.0,0.0,160.0,--,0.0,0.0,0.0,0.0,0.0
+Jozef Porubsky,CrossFit Nitra,28.0,0.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Bastiaan Rejen,CrossFit Apeldoorn,40.0,7.0,191.0,0:00,264.0,231.0,418.0,352.0,45.0
+Phedias Demou,CrossFit Hackney,25.0,7.0,191.0,--,0.0,0.0,0.0,0.0,0.0
+Graham McCann,FFD CrossFit,29.0,70.0,191.0,--,286.0,231.0,473.0,335.0,47.0
+Adam Yelland,CrossFit SA1,33.0,0.0,191.0,--,0.0,0.0,0.0,0.0,0.0
+Nkosi Campbell,CrossFit Greensboro,37.0,67.0,177.0,--,325.0,265.0,405.0,435.0,63.0
+Jordan Holland,Xplore CrossFit,35.0,71.0,0.0,1:01,295.0,230.0,560.0,405.0,65.0
+Martin Tunhag,Unaffiliated,26.0,7.0,199.0,53:19,286.0,231.0,440.0,352.0,47.0
+David Jonatansson,Reebok CrossFit Reykjavík,28.0,0.0,187.0,--,0.0,0.0,0.0,0.0,0.0
+Lachlan McGonigle,CrossFit Newton,23.0,0.0,183.0,--,0.0,0.0,0.0,0.0,0.0
+Shingo Moromasa,CrossFit CSTL,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Moritz König,CrossFit Weinstrasse,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Nathan Beveridge,CrossFit Fraser Valley,35.0,74.0,201.0,0:56,330.0,266.0,540.0,450.0,60.0
+Gabriel Fung,Reebok CrossFit PTY,21.0,6.0,160.0,1:10,305.0,235.0,375.0,360.0,63.0
+Joshua Santhou,PH CrossFit,27.0,7.0,191.0,--,308.0,271.0,507.0,440.0,0.0
+Charlie Hulbert,CrossFit Coveted,27.0,68.0,188.0,--,340.0,290.0,445.0,450.0,50.0
+Alex Burdett,Undefeated CrossFit,23.0,69.0,185.0,--,300.0,230.0,465.0,385.0,0.0
+Francisco Javier,CrossFit SP,30.0,6.0,160.0,0:00,300.0,235.0,495.0,374.0,50.0
+Aaron Knisley,CrossFit Future,25.0,73.0,208.0,--,325.0,255.0,515.0,445.0,0.0
+Jonghwa Son,CrossFit Moodori,28.0,6.0,154.0,--,198.0,176.0,396.0,374.0,40.0
+Yavuz Senturk,,26.0,6.0,178.0,--,0.0,0.0,0.0,0.0,0.0
+Dalton Spanbauer,Backcountry CrossFit,24.0,67.0,184.0,0:50,255.0,235.0,460.0,400.0,0.0
+Carson Davis,Big Barn CrossFit,24.0,69.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Tyler Cummings,CrossFit CSA,24.0,73.0,210.0,--,360.0,285.0,500.0,475.0,0.0
+Turoa Needham,Injustice CrossFit,34.0,0.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Tola Morakinyo,Unaffiliated,21.0,72.0,200.0,--,355.0,315.0,573.0,455.0,0.0
+Samuel Mitchel,CrossFit Arifjan,27.0,69.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Omar Fleah,CrossFit Engine 38,25.0,6.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Thomas Barrick,NewCov CrossFit,27.0,74.0,205.0,--,330.0,265.0,525.0,455.0,0.0
+Sean Malloy,CrossFit T-Town South,41.0,74.0,200.0,--,295.0,225.0,555.0,385.0,60.0
+Hunter Wood,,26.0,68.0,177.0,--,280.0,225.0,420.0,395.0,0.0
+Jake Frye,CrossFit 43123,26.0,71.0,175.0,--,285.0,225.0,455.0,355.0,48.0
+Brandon Casey,CrossFit Conjugate,25.0,68.0,178.0,--,0.0,200.0,430.0,0.0,0.0
+Michael Butts,CrossFit Sanitas,37.0,69.0,190.0,--,315.0,265.0,445.0,405.0,45.0
+Shawn Rider,Shenandoah CrossFit,28.0,72.0,189.0,0:00,0.0,0.0,0.0,0.0,0.0
+Drew Hymer,Koda CrossFit,30.0,72.0,225.0,1:04,3325.0,290.0,625.0,550.0,57.0
+Brandon Leatherberry,Unaffiliated,34.0,72.0,185.0,1:01,235.0,190.0,415.0,320.0,49.0
+Stanley White II,Outsiders CrossFit,33.0,73.0,235.0,0:00,345.0,255.0,535.0,475.0,0.0
+Jess Williard,Unaffiliated,25.0,71.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Patrick Bishop,CrossFit Southie,30.0,66.0,157.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jason Leydon,CrossFit Milford,37.0,73.0,210.0,0:53,255.0,195.0,480.0,355.0,53.0
+Sean Campbell,CrossFit Explode,24.0,0.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Tony Silva,Koda CrossFit Norman,24.0,0.0,185.0,--,280.0,230.0,440.0,385.0,35.0
+Jameson Cubriel,LoneStar CrossFit,26.0,69.0,172.0,51:00,312.0,240.0,500.0,425.0,0.0
+Mike Kern,CrossFit Garden City,40.0,71.0,187.0,--,290.0,235.0,488.0,385.0,0.0
+Michael Brower Jr,CrossFit Westchase,26.0,73.0,205.0,1:00,295.0,225.0,465.0,395.0,56.0
+Jordon Werner,CrossFit Cameron Park,22.0,67.0,154.0,--,270.0,215.0,375.0,315.0,0.0
+Stacey Adams,CrossFit Adrenaline,41.0,69.0,170.0,0:00,285.0,226.0,455.0,345.0,0.0
+Travis Durant,CrossFit Boom,30.0,71.0,200.0,0:00,315.0,275.0,515.0,405.0,40.0
+Christophe Besnard,Reebok CrossFit Louvre,35.0,6.0,171.0,0:00,0.0,0.0,0.0,0.0,0.0
+Tyler Lloyd,CrossFit Des Moines,25.0,66.0,195.0,1:17,335.0,280.0,445.0,435.0,0.0
+Cale Marker,Mad River CrossFit,25.0,72.0,184.0,--,280.0,241.0,465.0,325.0,56.0
+Mark McSharry,CrossFit Rife,27.0,69.0,188.0,1:04,315.0,225.0,495.0,425.0,0.0
+Jason Calle,CrossFit EST,28.0,69.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Josue Burgos,CrossFit Muscle Farm,35.0,70.0,198.0,--,310.0,235.0,535.0,460.0,0.0
+Brandon Garner,CrossFit Invoke,35.0,66.0,158.0,--,280.0,225.0,465.0,375.0,55.0
+Chad Noble,CrossFit Loaded,30.0,6.0,169.0,--,268.0,209.0,440.0,341.0,51.0
+Dave Yanakis,CrossFit AF Joliette,24.0,67.0,175.0,--,295.0,225.0,0.0,0.0,0.0
+Ryan Lane,5 Valleys CrossFit,29.0,68.0,175.0,--,245.0,205.0,410.0,320.0,0.0
+Kyle Montgomery,CrossFit Reignited ILM,22.0,74.0,205.0,--,330.0,252.0,485.0,405.0,0.0
+Przemyslaw Strumian,Reebok CrossFit Mokotow,27.0,6.0,198.0,--,330.0,242.0,529.0,407.0,40.0
+Ryan Queale,Wayfarer CrossFit,22.0,75.0,199.0,--,315.0,265.0,455.0,405.0,47.0
+Ethan Brown,CrossFit Ilium,24.0,65.0,165.0,--,305.0,260.0,500.0,435.0,50.0
+Steven Villucci,Ocean State CrossFit,27.0,67.0,170.0,--,275.0,225.0,525.0,360.0,50.0
+Ghyslain Gallant,CrossFit de l'est,31.0,6.0,180.0,--,270.0,200.0,465.0,365.0,0.0
+Zane Thomson,Functional Strength CrossFit,25.0,6.0,165.0,0:00,264.0,187.0,440.0,341.0,40.0
+Jeff Tardiff,Unaffiliated,28.0,0.0,198.0,--,0.0,0.0,0.0,0.0,0.0
+Brian Pachtman,Ruya CrossFit,35.0,71.0,187.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jonathan Morgan,Hines Park CrossFit,31.0,0.0,208.0,--,0.0,0.0,0.0,0.0,0.0
+Vaughn Franklin,CrossFit 460,25.0,71.0,172.0,--,0.0,0.0,0.0,0.0,0.0
+Jordan Tolbert,CrossFit Total Control,23.0,67.0,158.0,--,275.0,225.0,435.0,375.0,60.0
+Aj Lizotte,CrossFit Mystic,26.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Michael Needleman,Stroud CrossFit,20.0,69.0,178.0,0:58,285.0,240.0,465.0,370.0,50.0
+Tyler Klipa,CrossFit Swerve,24.0,70.0,190.0,--,275.0,215.0,0.0,365.0,0.0
+Nate Yoho,CrossFit Merle Hay,33.0,70.0,199.0,--,310.0,245.0,565.0,405.0,0.0
+Ryan Wells,CrossFit Coventry,31.0,73.0,202.0,--,319.0,264.0,529.0,440.0,0.0
+Matt Elliott,Get Lifted CrossFit,27.0,70.0,175.0,--,275.0,230.0,435.0,405.0,51.0
+Domenico Agresta,CrossFit Black Fox,30.0,6.0,0.0,--,231.0,176.0,440.0,374.0,52.0
+Jeffrey Raimo,CrossFit AR Strength,29.0,74.0,200.0,--,305.0,235.0,535.0,0.0,0.0
+Anthony Morisi,CrossFit Baltimore,34.0,68.0,165.0,--,245.0,190.0,365.0,325.0,0.0
+Justin Policarpio,CrossFit Brickyard,26.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+espen Hellesøy,CrossFit Asane,21.0,7.0,215.0,0:00,297.0,253.0,462.0,418.0,47.0
+Roberto Ligato,CrossFit Lucca,41.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Alex Lutfi,CrossFit Jetty,22.0,68.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Riccardo Mosciatti,CrossFit Very Well,27.0,0.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Kyle Cameron,CrossFit Hardcore East,29.0,72.0,190.0,0:58,275.0,215.0,405.0,315.0,47.0
+Søren Rebsdorf,CrossFit Hellerup,22.0,7.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+James Cooper,CrossFit Linne,33.0,6.0,187.0,--,227.0,176.0,374.0,297.0,0.0
+Bo Wren,Unaffiliated,28.0,72.0,225.0,0:00,305.0,225.0,505.0,445.0,18.0
+Thierry Floriant,CrossFit Aix en Provence,29.0,6.0,180.0,0:00,264.0,220.0,407.0,352.0,40.0
+Sam Turner,Unaffiliated,24.0,6.0,165.0,--,264.0,209.0,451.0,363.0,0.0
+Christian Roness,CrossFit Oslo,32.0,7.0,216.0,--,0.0,0.0,0.0,0.0,0.0
+Matthew Szwinto,Crossfit Kvadraturen,30.0,6.0,165.0,1:04,242.0,187.0,418.0,135.0,0.0
+Conner Salisbury,CrossFit RTR,20.0,66.0,160.0,--,0.0,0.0,0.0,0.0,0.0
+Dennis Sama,CrossFit 00144,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Cory Johnson,CrossFit Ex Nihilo,29.0,0.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Austin Boggan,CrossFit Reality,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Pierre Roux,Unaffiliated,23.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chas Clark,CrossFit Alliance,26.0,6.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Damian Kobielak,CrossFit 3miasto,32.0,7.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Emil Gunnberg Querat,CrossFit Tegen,22.0,0.0,203.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Rouse,CrossFit CM2,33.0,7.0,188.0,0:59,352.0,266.0,518.0,462.0,79.0
+Fiodor Serkov,CrossFit EKB,24.0,6.0,198.0,--,324.0,264.0,462.0,440.0,80.0
+Ivan Gaitan,BIGG CrossFit Palermo Chico,26.0,6.0,0.0,--,286.0,209.0,485.0,352.0,0.0
+Richard Smith,CrossFit Kyalami,28.0,7.0,187.0,0:00,305.0,235.0,485.0,418.0,70.0
+Ron Harvey,East West CrossFit,33.0,6.0,187.0,1:00,0.0,0.0,462.0,396.0,0.0
+Francois Leclerc,Physics CrossFit,32.0,0.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+David Schroeder,Lat 45 CrossFit,33.0,75.0,210.0,0:00,320.0,250.0,565.0,460.0,0.0
+Tyler Eggimann,Kulak CrossFit,24.0,70.0,195.0,--,315.0,255.0,500.0,425.0,63.0
+Doug Springer,Salt Lake City CrossFit (SLC),29.0,71.0,172.0,55:00,295.0,245.0,450.0,405.0,74.0
+James Kapacila,CrossFit Prince Albert,19.0,69.0,180.0,0:54,295.0,255.0,405.0,380.0,0.0
+Jonathan Lipp,,32.0,70.0,169.0,1:05,295.0,215.0,455.0,355.0,55.0
+Matias Friz,San Francisco CrossFit,24.0,69.0,170.0,--,265.0,205.0,0.0,0.0,0.0
+Jonathan Houle,CrossFit Pro1,27.0,70.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Braeden Long,CrossFit Brigade,23.0,71.0,205.0,1:03,350.0,290.0,500.0,455.0,44.0
+Ruben Perez,CrossFit Napa Valley,29.0,76.0,250.0,1:05,370.0,300.0,535.0,500.0,48.0
+Josh Boonstra,CrossFit BelRed,33.0,6.0,203.0,--,295.0,225.0,435.0,410.0,51.0
+Andy Aragon,Woodward CrossFit,30.0,70.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+james keeler,Unaffiliated,32.0,68.0,178.0,--,310.0,250.0,500.0,375.0,63.0
+Daniel Skidmore,Unaffiliated,28.0,72.0,200.0,0:58,315.0,275.0,565.0,470.0,30.0
+Andres Villalobos,CrossFit Las Cruces,28.0,68.0,155.0,1:02,285.0,220.0,490.0,375.0,58.0
+Brandon Brasseaux,CrossFit Mid-County,31.0,71.0,212.0,--,335.0,255.0,485.0,495.0,50.0
+Casey Haines,CrossFit Explode,25.0,73.0,225.0,0:00,0.0,0.0,0.0,0.0,0.0
+John Sansbury,Friendship CrossFit,29.0,69.0,195.0,--,305.0,225.0,500.0,425.0,0.0
+James Bevan-lee,CrossFit West Seattle,28.0,0.0,195.0,0:00,0.0,0.0,0.0,0.0,0.0
+Scott Hutchison,Lotus CrossFit,34.0,6.0,180.0,1:02,313.0,246.0,551.0,462.0,67.0
+Matt Breen,CrossFit Islander,25.0,71.0,175.0,--,0.0,0.0,0.0,0.0,0.0
+Luke Starr,CrossFit Active Artarmon,33.0,6.0,176.0,0:00,304.0,231.0,540.0,462.0,70.0
+Anthony Baranta,CrossFit Athletic Academy,35.0,70.0,190.0,1:07,315.0,260.0,525.0,435.0,70.0
+Pepe Alvarez,,34.0,71.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Mitchell Yaffee,Ruination CrossFit,20.0,71.0,185.0,1:09,300.0,250.0,467.0,355.0,40.0
+David Jones,CrossFit Krypton,44.0,69.0,189.0,--,285.0,235.0,503.0,425.0,40.0
+Mickey Kilmartin,CrossFit Free,30.0,68.0,189.0,--,305.0,235.0,450.0,400.0,0.0
+Taylor Yaffee,Unaffiliated,24.0,71.0,195.0,1:00,310.0,250.0,500.0,405.0,50.0
+Travis Boyd,CrossFit Big D,29.0,70.0,0.0,--,315.0,255.0,475.0,455.0,0.0
+William Dermody,Unaffiliated,25.0,73.0,210.0,--,0.0,0.0,0.0,0.0,0.0
+Matho Vizcarra,CrossFit Q21,26.0,7.0,298.0,--,0.0,0.0,0.0,0.0,0.0
+Jake Allen,Pale Horse CrossFit,25.0,69.0,174.0,0:00,0.0,0.0,0.0,0.0,0.0
+Matt Lutz,CrossFit Revamped,23.0,69.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Sebastien Ferket,CrossFit Asterion,30.0,7.0,197.0,0:00,0.0,0.0,0.0,0.0,0.0
+James Barber,CrossFit Sweat Shop,30.0,68.0,167.0,--,0.0,240.0,0.0,373.0,50.0
+Kyle Broom,Unaffiliated,25.0,70.0,175.0,--,295.0,245.0,465.0,355.0,0.0
+Nathan Flach,CrossFit Rikr,29.0,69.0,0.0,1:02,305.0,260.0,470.0,415.0,42.0
+Sebastian Costas,Suyai CrossFit Parque Chas,28.0,7.0,187.0,--,286.0,231.0,440.0,396.0,0.0
+Simon Gravel,,26.0,75.0,195.0,--,275.0,245.0,425.0,395.0,54.0
+Alex Kowalewski,CrossFit Maximus Nashland,20.0,71.0,187.0,0:55,315.0,270.0,455.0,375.0,0.0
+Brandon Sauers,South Mountain CrossFit,32.0,70.0,185.0,0:00,225.0,0.0,415.0,0.0,0.0
+Christopher Gibbs,Upper Hutt CrossFit,36.0,6.0,169.0,53:00,264.0,189.0,429.0,341.0,45.0
+Tom Higgins,VC CrossFit,30.0,0.0,165.0,--,0.0,0.0,0.0,0.0,0.0
+Keith Shui,Three Kings CrossFit,37.0,64.0,148.0,0:00,0.0,0.0,0.0,0.0,0.0
+Eli Shipley,CrossFit Lee's Summit (LS),24.0,0.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Sean ODeay,CrossFit Amplify,36.0,74.0,212.0,--,310.0,250.0,465.0,405.0,45.0
+cory mann,CrossFit Esprit,29.0,67.0,179.0,0:00,285.0,225.0,505.0,385.0,50.0
+Kyle Koontz,CrossFit On Track,28.0,72.0,185.0,--,264.0,210.0,460.0,315.0,45.0
+Judson Cole,,21.0,69.0,180.0,--,265.0,225.0,490.0,385.0,61.0
+Shane O'Donnell,Unaffiliated,27.0,72.0,176.0,--,295.0,225.0,415.0,375.0,62.0
+Phil Mosolino,CrossFit 570,23.0,71.0,190.0,--,305.0,245.0,465.0,415.0,0.0
+Jared VanTassel,Bear Republic CrossFit,30.0,76.0,205.0,--,0.0,0.0,0.0,0.0,0.0
+Jérôme Arnaud,LXXXIII CrossFit,29.0,7.0,212.0,--,275.0,229.0,440.0,374.0,52.0
+Jerad Aasen,CrossFit Minot,26.0,72.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+Zack Viera,Unaffiliated,20.0,65.0,150.0,0:58,280.0,215.0,415.0,375.0,70.0
+Derek Foltz,CrossFit Reaction,24.0,69.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Alexander Husgen,CrossFit Essen,22.0,7.0,205.0,--,275.0,220.0,529.0,429.0,40.0
+Kevin Banas,CrossFit E-Town,25.0,72.0,190.0,3:25,285.0,225.0,405.0,365.0,6.0
+Duran Justavino,CrossFit Hattiesburg,29.0,74.0,215.0,0:00,300.0,250.0,545.0,425.0,0.0
+Spencer Joe,B-FIT CrossFit,19.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Liam Beechinor,CrossFit Jaakarhu,23.0,73.0,205.0,--,335.0,265.0,515.0,455.0,40.0
+Tory Brown,CrossFit 406,26.0,68.0,168.0,--,0.0,0.0,0.0,0.0,0.0
+Lachlan Dansie,CrossFit Canada Bay,38.0,6.0,170.0,0:00,0.0,0.0,363.0,242.0,0.0
+Anthony Mucurio,CrossFit Utica,33.0,69.0,185.0,--,275.0,205.0,450.0,365.0,42.0
+Marco Toldbod,CrossFit Osterbro,27.0,0.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+Kamil Wentowski,CrossFit 3miasto,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Kay Ziesemer,CrossFit Purmerend,24.0,7.0,210.0,--,0.0,0.0,0.0,0.0,0.0
+Arnt-Inge Rongevær,CrossFit Asane,25.0,6.0,180.0,0:56,264.0,220.0,507.0,396.0,40.0
+Ryan Hill,CrossFit Haymaker,33.0,0.0,176.0,--,0.0,0.0,0.0,0.0,0.0
+Milos Vlahovic,,32.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Liam Houlton,CrossFit Civitas,27.0,7.0,202.0,1:05,319.0,264.0,462.0,396.0,50.0
+Eydstein Simonsen,CrossFit Nordvest,39.0,6.0,174.0,--,231.0,0.0,330.0,330.0,31.0
+John Champion,Legion CrossFit,21.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Marcel-Luc Verdon,Option CrossFit,36.0,64.0,155.0,--,235.0,175.0,0.0,355.0,0.0
+Dan Lewis,CrossFit RDU,27.0,70.0,185.0,--,300.0,260.0,465.0,375.0,51.0
+Rasmus Hentze,Fabrikken CrossFit (Slagelse),23.0,6.0,169.0,--,0.0,0.0,0.0,0.0,0.0
+James Howarth,BrewCity CrossFit,32.0,0.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Rasmus Andersen,CrossFit Butcher's Lab,19.0,6.0,160.0,0:00,275.0,231.0,407.0,385.0,0.0
+Scott Chan,ULT CrossFit,27.0,7.0,183.0,--,0.0,220.0,0.0,429.0,57.0
+Ian Kelly,CrossFit Yuma,22.0,0.0,172.0,--,0.0,0.0,0.0,0.0,0.0
+John Shannon,Unaffiliated,28.0,72.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+Nicholas Libert,CrossFit Tundra,25.0,0.0,202.0,--,0.0,0.0,0.0,0.0,0.0
+Rafael Nunes kilipper,CrossFit Sinistro,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Adam Gerlach,Mighty Warrior CrossFit,30.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Darwin Perez,Unaffiliated,27.0,67.0,180.0,--,355.0,285.0,555.0,525.0,0.0
+Jean-Charles Besnard,Casa CrossFit,31.0,6.0,180.0,1:01,299.0,242.0,496.0,405.0,53.0
+Andrew Rosenbaum,Boise CrossFit,36.0,66.0,184.0,--,335.0,245.0,505.0,505.0,52.0
+Bryan Diaz,CrossFit Costa Mesa,33.0,69.0,200.0,0:57,335.0,260.0,585.0,485.0,57.0
+Greg Gross,CrossFit Athlete Inside (AI),25.0,71.0,196.0,1:05,290.0,235.0,480.0,370.0,30.0
+Keith Enderlein,LumberYard CrossFit,27.0,72.0,187.0,--,330.0,0.0,565.0,555.0,0.0
+Alfredo Pascal,Peak 360 CrossFit,33.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Ben Suranko,Gas City CrossFit,27.0,73.0,205.0,0:59,320.0,265.0,520.0,460.0,43.0
+David Rochon,CrossFit Pyro,34.0,68.0,190.0,1:04,300.0,245.0,485.0,400.0,55.0
+Brendan Marolda,Yankee CrossFit,32.0,67.0,179.0,1:10,320.0,260.0,505.0,425.0,69.0
+Evan Morris,CrossFit 505,23.0,0.0,0.0,0:00,324.0,253.0,507.0,440.0,0.0
+Doug Hildreth,Newberg CrossFit Rebuilt,31.0,71.0,196.0,0:59,320.0,264.0,547.0,425.0,59.0
+Nate Dietzenbach,Unaffiliated,24.0,72.0,200.0,--,0.0,0.0,505.0,0.0,0.0
+Nicolai Mainz,CrossFit Gold Box,28.0,6.0,189.0,--,308.0,242.0,440.0,374.0,42.0
+Dex Hopkins,CrossFit Maximus Nashland,28.0,74.0,219.0,1:09,3350.0,2285.0,515.0,485.0,74.0
+Steven Cristini,Reebok CrossFit East Woodbridge,26.0,72.0,205.0,--,340.0,285.0,525.0,440.0,0.0
+Gregory DeGreen,Torture Chamber CrossFit,34.0,69.0,198.0,--,305.0,250.0,545.0,475.0,50.0
+Cliff Cotton,Backcountry CrossFit,34.0,72.0,208.0,--,315.0,235.0,535.0,425.0,0.0
+Luke Betts,CrossFit Maple Ridge,27.0,72.0,180.0,--,315.0,225.0,0.0,0.0,0.0
+Ashley Jordan,South Loop CrossFit,27.0,72.0,215.0,--,365.0,300.0,595.0,450.0,52.0
+Justin Heimiller,CrossFit Reality,34.0,74.0,228.0,--,325.0,265.0,485.0,405.0,52.0
+Tyler Wilcox,CrossFit ASAP,25.0,70.0,175.0,--,300.0,250.0,495.0,385.0,0.0
+Tim Medlicott,CrossFit Dunedin,25.0,6.0,198.0,1:02,286.0,249.0,485.0,396.0,0.0
+Joey Arnold,CrossFit X-Factor,29.0,69.0,195.0,1:00,335.0,265.0,0.0,445.0,69.0
+Dustin Virgil,Atascadero CrossFit,32.0,72.0,195.0,--,0.0,0.0,0.0,0.0,0.0
+Josh Bremner,,23.0,0.0,178.0,--,275.0,222.0,462.0,352.0,0.0
+Kyle Cook,CrossFit South Denver,29.0,73.0,193.0,0:49,315.0,255.0,445.0,410.0,0.0
+Paul Morton,CrossFit Mountain's Edge,25.0,73.0,225.0,--,325.0,240.0,605.0,435.0,44.0
+Moises Sevilla,Unaffiliated,27.0,7.0,171.0,0:00,295.0,225.0,500.0,405.0,65.0
+Stephane Cossette,,27.0,7.0,209.0,--,245.0,0.0,565.0,500.0,0.0
+Bernhard van Renssen,RTF CrossFit Repeat,23.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Kenny Lyman,CrossFit Utah Valley,26.0,71.0,210.0,--,305.0,265.0,545.0,425.0,0.0
+Anthony Torres,Dog House CrossFit,35.0,66.0,184.0,--,0.0,0.0,0.0,0.0,0.0
+Brandon Arndt,Unaffiliated,25.0,67.0,188.0,--,305.0,255.0,500.0,410.0,50.0
+Colby Thomason,Koda CrossFit,25.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Naon Mighall,CrossFit Artax,26.0,6.0,154.0,--,0.0,50.0,0.0,176.0,8.0
+Phil Cress,CrossFit Kitchener,23.0,70.0,215.0,0:00,315.0,250.0,455.0,425.0,31.0
+Omar Msameh,CrossFit 962,22.0,6.0,165.0,--,255.0,215.0,425.0,390.0,0.0
+Ken Battiston,CrossFit SkyFall,28.0,72.0,209.0,0:00,385.0,305.0,550.0,505.0,50.0
+Cory Spelman,CrossFit Grandview,26.0,69.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+James Lancaster,Unaffiliated,28.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jesse Moggo,CrossFit Bay City,27.0,67.0,170.0,--,242.0,205.0,455.0,345.0,0.0
+Mitchell Harbaugh,CrossFit 1 Force,22.0,69.0,180.0,--,310.0,250.0,500.0,460.0,65.0
+Glenn Powell,CrossFit Paradox,29.0,66.0,180.0,--,285.0,235.0,430.0,365.0,50.0
+Aydan Poko,CrossFit Papamoa,23.0,7.0,206.0,--,275.0,198.0,485.0,374.0,23.0
+Jent Botterman,Top Fuel CrossFit,26.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+George Hay,CrossFit Closer,21.0,69.0,199.0,--,235.0,185.0,350.0,315.0,0.0
+Parker Gray,Falcon CrossFit,21.0,70.0,185.0,0:56,265.0,205.0,365.0,355.0,60.0
+Martin Bowden,CrossFit Plus,34.0,7.0,198.0,1:00,304.0,264.0,507.0,440.0,47.0
+Jordan Reiley,CrossFit Kingstowne,24.0,68.0,175.0,1:12,285.0,245.0,435.0,370.0,0.0
+Justin Sarubbi,JSA CrossFit,27.0,69.0,195.0,1:02,320.0,250.0,510.0,450.0,40.0
+Dustin Tovar,CrossFit Omaha,34.0,64.0,150.0,0:00,260.0,192.0,402.0,385.0,52.0
+Christopher Vilagi,CrossFit Falun,21.0,7.0,198.0,--,286.0,242.0,418.0,352.0,0.0
+Clint Desoto,CrossFit Performance,37.0,71.0,190.0,--,322.0,260.0,565.0,425.0,44.0
+Patrick Lahaie,CrossFit Vaudreuil,29.0,7.0,193.0,--,0.0,0.0,415.0,295.0,0.0
+Greg O'Donnell,CrossFit South Central Mass,23.0,71.0,188.0,--,0.0,0.0,0.0,0.0,0.0
+Miguel Robledo,CrossFit 061,23.0,70.0,169.0,--,295.0,235.0,485.0,355.0,56.0
+Lars Jakobeit,CrossFit Aorta,28.0,0.0,209.0,--,0.0,0.0,0.0,0.0,0.0
+Brett Blair,Sigma CrossFit,27.0,72.0,190.0,--,305.0,235.0,560.0,465.0,0.0
+Mike Ford,CrossFit Forth Valley,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Josh Wilson,Sturgis CrossFit,33.0,72.0,172.0,--,0.0,0.0,0.0,0.0,0.0
+Nick Steinley,CrossFit Explode,21.0,0.0,0.0,0:00,0.0,0.0,0.0,0.0,0.0
+jonny knapczyk,CrossFit Jaakarhu,28.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Kody Frank,Brick Wall CrossFit,24.0,0.0,185.0,--,0.0,0.0,0.0,0.0,0.0
+Robert Keefe,Unaffiliated,26.0,72.0,199.0,0:00,285.0,235.0,425.0,400.0,35.0
+Ben Sawyer,CrossFit Perpetua,25.0,68.0,175.0,0:57,308.0,240.0,491.0,451.0,61.0
+Boris Benke,CrossFit Celle,27.0,6.0,182.0,--,0.0,0.0,374.0,0.0,0.0
+Cord Gunnin,CrossFit Winder,24.0,72.0,185.0,1:10,349.0,286.0,475.0,415.0,57.0
+Casper Slynge,CrossFit Butcher's Lab,30.0,7.0,187.0,--,0.0,0.0,491.0,374.0,45.0
+Sam Bowles,CrossFit Iniquus,31.0,69.0,175.0,--,215.0,155.0,415.0,305.0,0.0
+Michalis Evryviades,CrossFit Rogue Forge,28.0,0.0,190.0,--,0.0,0.0,0.0,0.0,13.0
+Tyler MacDonald,CrossFit Bridgewater,23.0,69.0,185.0,0:57,265.0,225.0,455.0,405.0,60.0
+Jeff Fee,CrossFit Construct,30.0,68.0,169.0,1:02,275.0,244.0,475.0,385.0,69.0
+Jeffrey Rodriguez,411 CrossFit,24.0,67.0,150.0,--,245.0,190.0,425.0,355.0,50.0
+Sean Glanzmann,CrossFit Love,30.0,68.0,158.0,0:50,290.0,235.0,500.0,365.0,63.0
+John Kilroy,CrossFit Sprag,27.0,70.0,195.0,1:09,295.0,245.0,450.0,375.0,0.0
+Jens Brackland,CrossFit Wild Pack,30.0,7.0,191.0,0:00,264.0,220.0,0.0,0.0,50.0
+Garrett Bolella,CrossFit Stamford,29.0,68.0,155.0,0:00,220.0,190.0,0.0,300.0,0.0
+Matteo Fischer Giovannetti,CrossFit Original Addicts,24.0,7.0,187.0,1:10,231.0,182.0,363.0,330.0,60.0
+Fredrik Elfgren,CrossFit Solid,28.0,0.0,200.0,--,0.0,0.0,0.0,0.0,0.0
+Sean Cather,Offshore CrossFit,36.0,66.0,170.0,0:00,265.0,220.0,445.0,400.0,61.0
+Farouk Houssein,CrossFit Dynamix,27.0,67.0,176.0,--,305.0,255.0,500.0,405.0,54.0
+Lucas Nichols,Unaffiliated,35.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Alberto Martin Villarroya,Unaffiliated,28.0,0.0,158.0,--,0.0,0.0,0.0,0.0,0.0
+Colin Dupreay,Wreck Room CrossFit,23.0,65.0,155.0,--,275.0,220.0,425.0,0.0,0.0
+Jonathan Pink,CrossFit Colfax,30.0,69.0,155.0,0:57,265.0,205.0,470.0,400.0,90.0
+Billy Marshall,CrossFit Rife,27.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Jay Harmon,SEC CrossFit,27.0,71.0,195.0,--,315.0,255.0,535.0,475.0,0.0
+jose perez,,36.0,6.0,80.0,1:02,308.0,242.0,496.0,440.0,0.0
+Ram Dover,CrossFit TLV,29.0,7.0,189.0,1:02,286.0,231.0,462.0,396.0,40.0
+Arno van der Merwe,CrossFit Paarl,21.0,6.0,182.0,--,264.0,225.0,505.0,418.0,0.0
+Luke Kruckemeyer,Woodward CrossFit,26.0,72.0,206.0,--,360.0,290.0,600.0,450.0,50.0
+Hyungu Cho,CrossFit Bigfoot,29.0,0.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Chase Popp,CrossFit Battle Ready,20.0,72.0,192.0,0:00,0.0,0.0,0.0,0.0,0.0
+Jonathan Gibbons,Unaffiliated,29.0,69.0,200.0,--,320.0,255.0,490.0,475.0,0.0
+Rolo Gomez,Instinto CrossFit,33.0,6.0,0.0,--,0.0,0.0,0.0,0.0,0.0
+Oleksiy Dakhno,Chinook CrossFit,27.0,73.0,190.0,0:00,0.0,0.0,0.0,0.0,0.0
+Taylor Stewart,CrossFit Bytown,26.0,70.0,185.0,--,315.0,240.0,500.0,405.0,0.0
+Joshua Arcona,12 Labours CrossFit,26.0,72.0,214.0,0:52,375.0,315.0,555.0,525.0,70.0
+Joshua Rempel,Targhee CrossFit,35.0,76.0,225.0,0:00,340.0,260.0,500.0,425.0,0.0
+Zeke Cabell,CrossFit Vic City,38.0,73.0,192.0,--,0.0,0.0,0.0,0.0,0.0
+Maxim Bouchard,CrossFit 2342,27.0,68.0,190.0,--,0.0,0.0,0.0,0.0,0.0
+Andre Brule,Unaffiliated,30.0,70.0,180.0,--,255.0,195.0,455.0,405.0,0.0
+Cem Duru,Legion CrossFit,28.0,7.0,230.0,--,353.0,253.0,518.0,485.0,52.0
+Ryon O'Neill,CrossFit Monterey,28.0,60.0,180.0,--,0.0,0.0,0.0,0.0,0.0
+Konner Knudtsen,Ellensburg CrossFit,24.0,75.0,220.0,--,0.0,0.0,0.0,0.0,0.0
+Drew Tacher,Unaffiliated,23.0,60.0,195.0,--,295.0,235.0,475.0,425.0,0.0
+Zacq Hale,Boise CrossFit,28.0,70.0,175.0,--,305.0,225.0,470.0,400.0,59.0
+Ryan Gile,CrossFit Lifeworx,28.0,66.0,175.0,--,290.0,242.0,465.0,405.0,40.0
+James Braun,CrossFit West Valley,37.0,69.0,198.0,1:06,285.0,215.0,550.0,450.0,40.0
+Jack Corcoran,CrossFit Parallax,29.0,73.0,207.0,--,335.0,275.0,535.0,435.0,60.0

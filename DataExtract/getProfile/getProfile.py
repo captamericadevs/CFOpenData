@@ -94,19 +94,16 @@ class getProfile():
             age = int(age_txt.next_sibling.string)
         else:
             age = 0
+            
         height_txt = soup.find("dt", text="Height:")
+        height = 0 #default value
         if height_txt:
             height_txt = height_txt.next_sibling.string
-        else:
-            height_txt = 0
-
-        m = [int(s) for s in re.findall(r'\d+', height_txt)]
-        if "cm" in height_txt: #cm to inch
-            height = int(int(height_txt[:2])*0.393701)
-        elif m: #feet' inch" to inches
-            height = int((m[0] * 12) + m[1])
-        else:
-            height = 0
+            m = [int(s) for s in re.findall(r'\d+', height_txt)]
+            if "cm" in height_txt: #cm to inch
+                height = int(int(height_txt[:2])*0.393701)
+            elif m: #feet' inch" to inches
+                height = int((m[0] * 12) + m[1]) 
 
         weight_txt = soup.find("dt", text="Weight:")
         if weight_txt:

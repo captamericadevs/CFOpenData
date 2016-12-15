@@ -85,9 +85,10 @@ class extractScores():
         WkScore = numpy.array(range(5))
         WkRank = numpy.array(range(5))
         athletes = response['Athletes'] #get the athletes
-
+        logging.info('Number of athletes ' + str(len(athletes)))
+        
         #loop through all the athletes on each page
-        for i in range(self.numperpage):
+        for i in range(len(athletes)):
             Id = athletes[i]['Id']
             self.Id_list.append(Id)
             Name = athletes[i]['Name']
@@ -158,7 +159,7 @@ class extractScores():
         tend = time.time() #timer for number of pages
         logging.info('Time to Process = ' + str(tend - tstart))
 
-	def startEventLoop(self, start, num_per_block):
+    def startEventLoop(self, start, num_per_block):
         """
         function that creates an concurrent event loop
     
@@ -169,17 +170,17 @@ class extractScores():
         
         #loop through the first segment of pages
         loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages(start*num_per_block, num_per_block))
+        future = asyncio.ensure_future(self.loopPages(start, num_per_block))
         loop.run_until_complete(future)
 
-        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
-		if start == 0:
-			self.Scores.to_csv(path_or_buf=filename) #blocking function
-			print(filename + " written out.")
-	    else:
-		    self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
-            print(filename + " written to page " + str(start*num_per_block))
-		
+        filename = os.path.join(file_path, str(self.year) + "_" + file_enum[int(self.division)-1]) #create file in Scores directory
+        if start == 0:
+            self.Scores.to_csv(path_or_buf=filename) #blocking function
+            print(filename + " written out.")
+        else:
+            self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+            print(filename + " written to page " + str(start))
+        
     def __init__(self, div, year, numperpage):          
         """
         Initialize the class. Gets the total number of pages in the class based on the requested
@@ -212,13 +213,13 @@ class extractScores():
         num_pages = response['TotalPages'] #get number of pages
         print("Number of Pages = " + str(num_pages))
 
-		nper = 1000 #number of pages in each block
+        nper = 1000 #number of pages in each block
         endoflist = num_pages % nper #number in last block 
         
-		#Run the concurrent event loops
-		i = 0
+        #Run the concurrent event loops
+        i = 0
         while i < int(num_pages/nper):
-			self.startEventLoop(i*nper,nper) 
+            self.startEventLoop(i*nper,nper) 
             i = i + 1
         self.startEventLoop(i*nper, endoflist)
         
