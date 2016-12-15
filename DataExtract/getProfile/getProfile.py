@@ -91,9 +91,9 @@ class getProfile():
         #collect age, height, weight
         age_txt = soup.find("dt", text="Age:")
         if age_txt:
-            age_txt = int(age_txt.next_sibling.string)
+            age = int(age_txt.next_sibling.string)
         else:
-            age_txt = 0
+            age = 0
         height_txt = soup.find("dt", text="Height:")
         if height_txt:
             height_txt = height_txt.next_sibling.string

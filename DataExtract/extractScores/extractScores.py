@@ -157,7 +157,29 @@ class extractScores():
         logging.info('Average time per page = ' + str((tdownload - tstart)/numberofpages))
         tend = time.time() #timer for number of pages
         logging.info('Time to Process = ' + str(tend - tstart))
-       
+
+	def startEventLoop(self, start, num_per_block):
+        """
+        function that creates an concurrent event loop
+    
+        :params start: starting index of page number
+        """
+        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
+                            'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
+        
+        #loop through the first segment of pages
+        loop = asyncio.get_event_loop()
+        future = asyncio.ensure_future(self.loopPages(start*num_per_block, num_per_block))
+        loop.run_until_complete(future)
+
+        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
+		if start == 0:
+			self.Scores.to_csv(path_or_buf=filename) #blocking function
+			print(filename + " written out.")
+	    else:
+		    self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+            print(filename + " written to page " + str(start*num_per_block))
+		
     def __init__(self, div, year, numperpage):          
         """
         Initialize the class. Gets the total number of pages in the class based on the requested
@@ -189,45 +211,16 @@ class extractScores():
 
         num_pages = response['TotalPages'] #get number of pages
         print("Number of Pages = " + str(num_pages))
-        nper = 1000 #number of pages in each segment
-        self.endoflist = num_pages % nper
-        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
-                            'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
-        
-        #loop through the first segment of pages
-        loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages(0, nper))
-        print("Downloading " + str(num_pages) + " pages of scores...")
-        loop.run_until_complete(future)
 
-        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
-        self.Scores.to_csv(path_or_buf=filename) #blocking function
-        print(filename + " written out.")
+		nper = 1000 #number of pages in each block
+        endoflist = num_pages % nper #number in last block 
         
-        i = 1
+		#Run the concurrent event loops
+		i = 0
         while i < int(num_pages/nper):
-            self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
-                                    'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
-            #loop through the middle segments of pages
-            loop = asyncio.get_event_loop()
-            future = asyncio.ensure_future(self.loopPages((i*nper), nper))
-            loop.run_until_complete(future)
-
-            filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
-            self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
-            print(filename + " written to page " + str(i*nper))
+			self.startEventLoop(i*nper,nper) 
             i = i + 1
-        
-        #loop through the pages in the final segment (less that a clean cut)
-        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
-                                    'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
-        loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages((i*nper), self.endoflist))
-        loop.run_until_complete(future)
-
-        filename = os.path.join(file_path, str(year) + "_" + file_enum[int(div)-1]) #create file in Scores directory
-        self.Scores.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
-        print(filename + " written to page " + str((i*nper)+(self.endoflist)))
+        self.startEventLoop(i*nper, endoflist)
         
         
         
