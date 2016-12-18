@@ -121,20 +121,43 @@ class getProfile():
             weight = 0
 
         #collect maxes
-        sprint = soup.find("td", text="Sprint 400m").next_sibling.string
-        clean_jerk_txt = soup.find("td", text="Clean & Jerk").next_sibling.string
-        clean_jerk = self.convertWeight(clean_jerk_txt)
-        snatch_txt = soup.find("td", text="Snatch").next_sibling.string
-        snatch = self.convertWeight(snatch_txt)
-        deadlift_txt = soup.find("td", text="Deadlift").next_sibling.string
-        deadlift = self.convertWeight(deadlift_txt)
-        back_squat_txt = soup.find("td", text="Back Squat").next_sibling.string
-        back_squat = self.convertWeight(back_squat_txt)
-        pullup_txt = soup.find("td", text="Max Pull-ups").next_sibling.string
-        if "--" in pullup_txt:
-            pullups = int(0)
-        else: 
-            pullups = int(pullup_txt)
+        try:
+            sprint = soup.find("td", text="Sprint 400m").next_sibling.string
+        except AttributeError:
+            sprint = 0
+        
+        try:
+            clean_jerk_txt = soup.find("td", text="Clean & Jerk").next_sibling.string
+            clean_jerk = self.convertWeight(clean_jerk_txt)
+        except AttributeError:
+            clean_jerk = 0
+            
+        try:
+            snatch_txt = soup.find("td", text="Snatch").next_sibling.string
+            snatch = self.convertWeight(snatch_txt)
+        except AttributeError:
+            snatch = 0
+            
+        try:    
+            deadlift_txt = soup.find("td", text="Deadlift").next_sibling.string
+            deadlift = self.convertWeight(deadlift_txt)
+        except AttributeError:
+            deadlift = 0
+            
+        try:    
+            back_squat_txt = soup.find("td", text="Back Squat").next_sibling.string
+            back_squat = self.convertWeight(back_squat_txt)
+        except AttributeError:
+            back_squat = 0
+        
+        try:        
+            pullup_txt = soup.find("td", text="Max Pull-ups").next_sibling.string
+            if "--" in pullup_txt:
+                pullups = 0
+            else: 
+                pullups = int(pullup_txt)
+        except AttributeError:
+            pullups = 0
         
         self.Athletes.loc[name] = (affiliate_txt, age, height, weight, sprint, clean_jerk, snatch, deadlift, back_squat, pullups)
     
@@ -186,7 +209,7 @@ class getProfile():
         
         #loop through the athlete ID list accessing each profile
         print(str(len(Id_list)) + " athletes in this division")
-        num_per = 500 #number of pages to get at a time
+        num_per = 100 #number of pages to get at a time
         self.endoflist = len(Id_list) % num_per
  
         #loop through the first segment of pages
