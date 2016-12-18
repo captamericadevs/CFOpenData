@@ -20,6 +20,7 @@ import pandas
 
 import requests
 import re, os
+import logging
 
 headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36"}
 file_path = 'Profiles'
@@ -99,11 +100,18 @@ class getProfile():
         height = 0 #default value
         if height_txt:
             height_txt = height_txt.next_sibling.string
+            logging.info(height_txt)
             m = [int(s) for s in re.findall(r'\d+', height_txt)]
+            logging.info(m)
             if "cm" in height_txt: #cm to inch
-                height = int(int(height_txt[:2])*0.393701)
+                height = int(int(m[0])*0.393701)
+
             elif m: #feet' inch" to inches
-                height = int((m[0] * 12) + m[1]) 
+                height = int((m[0] * 12))
+                if len(m) == 3:
+                    height = height + (10 + m[2]) #if two digit inches, then inches are 10 + [1 or 0]
+                else:
+                    height = height + m[1]
 
         weight_txt = soup.find("dt", text="Weight:")
         if weight_txt:
@@ -143,6 +151,28 @@ class getProfile():
         else:
             return int(kilos[:-3]) #drop "lbs"
     
+    def startProfileLoop(self, start, end):
+        """
+        function that creates an concurrent event loop
+    
+        :params start: starting index of page number
+        """
+        self.Athletes = pandas.DataFrame(columns=('Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
+                               'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups'))
+        
+        #loop through the first segment of pages
+        loop = asyncio.get_event_loop()
+        future = asyncio.ensure_future(self.loopPages(self.Id_list[start:end]))
+        loop.run_until_complete(future)
+
+        filename = os.path.join(file_path, file_enum[int(self.division)-1]) #create file in Profile directory
+        if start == 0:
+            self.Athletes.to_csv(path_or_buf=filename) #blocking function
+            print(filename + " written out.")
+        else:
+            self.Athletes.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+            print(filename + " appended with " + str(end) + " profiles")
+    
     def __init__(self, Id_list, div):
         """
         Initialize the class. Segments the total number of athlete Id by an integer number of pages (num_per) 
@@ -151,7 +181,8 @@ class getProfile():
         :param Id_list: list integers describing athlete profile Ids
         :param div: integer describing the competitive division
         """
-        async_list = []
+        self.Id_list = Id_list
+        self.division = div
         
         #loop through the athlete ID list accessing each profile
         print(str(len(Id_list)) + " athletes in this division")
@@ -159,44 +190,18 @@ class getProfile():
         self.endoflist = len(Id_list) % num_per
  
         #loop through the first segment of pages
-        self.Athletes = pandas.DataFrame(columns=('Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
-                               'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups'))
-        loop = asyncio.get_event_loop()
+
+
         future = asyncio.ensure_future(self.loopPages(Id_list[0:num_per]))
         print("Downloading " + str(len(Id_list)) + " athlete profiles...")
-        loop.run_until_complete(future)
-  
-        filename = os.path.join(file_path, file_enum[int(div)-1])
-        self.Athletes.to_csv(path_or_buf=filename) #blocking function
-        print(filename + " written out.")
         
-        i = 1
+        i = 0
         while i < int(len(Id_list)/num_per):
             start = int(i*num_per)
-            #loop through the middle segment of pages
-            self.Athletes = pandas.DataFrame(columns=('Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
-                                  'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups'))
-            loop = asyncio.get_event_loop()
-            future = asyncio.ensure_future(self.loopPages(Id_list[start:(start+num_per)]))
-            loop.run_until_complete(future)
-  
-            filename = os.path.join(file_path, file_enum[int(div)-1])
-            self.Athletes.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
-            print(filename + " written to " + str(start+num_per))
+            self.startProfileLoop(start,(start+num_per))
             i = i + 1
-            
         start = int(i*num_per)
-        #loop through the final segment of pages
-        self.Athletes = pandas.DataFrame(columns=('Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
-                              'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups'))
-        loop = asyncio.get_event_loop()
-        future = asyncio.ensure_future(self.loopPages(Id_list[start:(start+self.endoflist)]))
-        loop.run_until_complete(future)
-  
-        filename = os.path.join(file_path, file_enum[int(div)-1])
-        self.Athletes.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
-        i = i + 1
-        print(filename + " written to " + str(start+(self.endoflist)))
+        self.startProfileLoop(start,(start+self.endoflist))
             
         
    
