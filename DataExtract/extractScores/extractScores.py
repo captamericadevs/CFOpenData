@@ -213,7 +213,7 @@ class extractScores():
         num_pages = response['TotalPages'] #get number of pages
         print("Number of Pages = " + str(num_pages))
 
-        nper = 1000 #number of pages in each block
+        nper = 500 #number of pages in each block
         endoflist = num_pages % nper #number in last block 
         
         #Run the concurrent event loops
