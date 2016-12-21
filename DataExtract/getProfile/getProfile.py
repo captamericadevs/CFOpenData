@@ -30,7 +30,7 @@ file_enum = ['Profile_Men.csv', 'Profile_Women.csv', 'Profile_Master_Men_45.csv'
              'Profile_Master_Women_40.csv', 'Profile_Teen_Boy_14.csv', 'Profile_Teen_Girl_14.csv', 'Profile_Teen_Boy_16.csv',
              'Profile_Teen_Girl_16.csv']
 
-class getProfile():    
+class getProfile():   
     async def downloadPage(self, sem, url, session):
         """
         async function that checks semaphore unlocked before calling get function
@@ -189,14 +189,18 @@ class getProfile():
         loop.run_until_complete(future)
 
         filename = os.path.join(file_path, file_enum[int(self.division)-1]) #create file in Profile directory
-        if start == 0:
-            self.Athletes.to_csv(path_or_buf=filename) #blocking function
-            print(filename + " written out.")
+        if not self.started:
+            if start == 0:
+                self.Athletes.to_csv(path_or_buf=filename) #blocking function
+                print(filename + " written out.")
+            else:
+                self.Athletes.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
+                print(filename + " appended with " + str(end) + " profiles")
         else:
             self.Athletes.to_csv(path_or_buf=filename, mode='a', header=False) #blocking function
             print(filename + " appended with " + str(end) + " profiles")
     
-    def __init__(self, Id_list, div):
+    def __init__(self, Id_list, div, started):
         """
         Initialize the class. Segments the total number of athlete Id by an integer number of pages (num_per) 
         to GET at a time to ensure sockets aren't maxed out (functions as a throttle)
@@ -206,16 +210,13 @@ class getProfile():
         """
         self.Id_list = Id_list
         self.division = div
+        self.started = started
         
         #loop through the athlete ID list accessing each profile
         print(str(len(Id_list)) + " athletes in this division")
         num_per = 100 #number of pages to get at a time
         self.endoflist = len(Id_list) % num_per
  
-        #loop through the first segment of pages
-
-
-        future = asyncio.ensure_future(self.loopPages(Id_list[0:num_per]))
         print("Downloading " + str(len(Id_list)) + " athlete profiles...")
         
         i = 0

@@ -32,10 +32,10 @@ def getProfilesFromFile(score_filename, prof_filename, div):
     start = 0
     inc = 300
     while start+inc <= len(Id_list):
-        getProfile.getProfile(Id_list[start:start+inc],div)
+        getProfile.getProfile(Id_list[start:start+inc],div,True)
         start = start + inc + 1
     overflow = len(Id_list) % inc
-    getProfile.getProfile(Id_list[start:start+overflow],div)
+    getProfile.getProfile(Id_list[start:start+overflow],div,True)
 
 def main():
     logging.basicConfig(filename='async.log',format='%(asctime)s %(message)s',level=logging.DEBUG)
@@ -57,7 +57,7 @@ def main():
     #Get Athlete Scores and Profiles from Interwebz
     #for div in divisions:
     #   CFOpenData = extractScores.extractScores(div,year,numberperpage)
-    #   getProfile.getProfile(CFOpenData.Id_list, div)
+    #   getProfile.getProfile(CFOpenData.Id_list, div, False)
         
 if __name__ == '__main__':
     main()
