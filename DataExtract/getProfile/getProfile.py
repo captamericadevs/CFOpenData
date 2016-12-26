@@ -100,9 +100,7 @@ class getProfile():
         height = 0 #default value
         if height_txt:
             height_txt = height_txt.next_sibling.string
-            logging.info(height_txt)
             m = [int(s) for s in re.findall(r'\d+', height_txt)]
-            logging.info(m)
             if "cm" in height_txt: #cm to inch
                 height = int(int(m[0])*0.393701)
 

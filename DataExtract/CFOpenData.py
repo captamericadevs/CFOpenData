@@ -24,7 +24,6 @@ def getProfilesFromFile(score_filename, prof_filename, div):
     for item in remove_list: #if a name is in the profile list and in the scores list then it has already downloaded
         if item in name_list:
             del Id_list[name_list.index(item)] #so remove the id from the list of profiles to download
-            logging.info(str(item) + " removed from the Id_list")
     
     print("Number of Ids to download " + str(len(Id_list)))
     

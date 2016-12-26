@@ -71,6 +71,7 @@ class extractScores():
         :param session: TCP session info of type aiohttp.ClientSession()
         :returns data: JSON response object
         """
+        logging.info("Params = " + str(params))
         async with session.get(basepath, params=params, headers=headers) as response:
             data = await response.json()
             return data
@@ -84,6 +85,7 @@ class extractScores():
         """
         WkScore = numpy.array(range(5))
         WkRank = numpy.array(range(5))
+        athletes = []
         athletes = response['Athletes'] #get the athletes
         logging.info('Number of athletes ' + str(len(athletes)))
         
@@ -137,7 +139,6 @@ class extractScores():
         async_list = []
         sem = asyncio.Semaphore(numberofpages) #create semaphore
         
-        tstart = time.time() #start timer
         async with ClientSession() as session:
             for p in range(start, start+numberofpages):
                 params={"division": self.division, "sort": "1", "region": "0",
@@ -148,16 +149,10 @@ class extractScores():
             results = await asyncio.gather(*async_list) 
         #loop through pages on complete
         logging.info('Number of results = ' + str(len(results)))
-        tdownload = time.time() #timer for downloads
         
         for page in results:
             self.getScores(page)
             logging.info('Length of scores = ' + str(len(results)))
-           
-        logging.info('Time to Download = ' + str(tdownload - tstart))
-        logging.info('Average time per page = ' + str((tdownload - tstart)/numberofpages))
-        tend = time.time() #timer for number of pages
-        logging.info('Time to Process = ' + str(tend - tstart))
 
     def startEventLoop(self, start, num_per_block):
         """
@@ -219,8 +214,10 @@ class extractScores():
         #Run the concurrent event loops
         i = 0
         while i < int(num_pages/nper):
+            logging.info("Passing range from: " + str(i*nper))
             self.startEventLoop(i*nper,nper) 
             i = i + 1
+            self.Scores = []
         self.startEventLoop(i*nper, endoflist)
         
         
