@@ -63,18 +63,20 @@ class getProfile():
         """
         async_list = []
         sem = asyncio.Semaphore(len(Id_list)) #create semaphore
+        prof_list = []
         
         async with ClientSession() as session:
             for profile in Id_list:
                 url = 'http://games.crossfit.com/athlete/' + str(profile)
+                prof_list.append(str(profile))
                 task = asyncio.ensure_future(self.downloadPage(sem, url, session))
                 async_list.append(task)
             results = await asyncio.gather(*async_list) 
         #loop through pages on complete
         for page in results:
-            self.getStats(page)            
+            self.getStats(page, prof_list[results.index(page)])            
 
-    def getStats(self, response):
+    def getStats(self, response, id):
         """
         function that extracts features of athlete profile
     
@@ -157,7 +159,7 @@ class getProfile():
         except AttributeError:
             pullups = 0
         
-        self.Athletes.loc[name] = (affiliate_txt, age, height, weight, sprint, clean_jerk, snatch, deadlift, back_squat, pullups)
+        self.Athletes.loc[id] = (name, affiliate_txt, age, height, weight, sprint, clean_jerk, snatch, deadlift, back_squat, pullups)
     
     def convertWeight(self, kilos):
         """
@@ -178,7 +180,7 @@ class getProfile():
     
         :params start: starting index of page number
         """
-        self.Athletes = pandas.DataFrame(columns=('Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
+        self.Athletes = pandas.DataFrame(columns=('Name', 'Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
                                'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups'))
         
         #loop through the first segment of pages

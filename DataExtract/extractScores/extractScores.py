@@ -83,8 +83,8 @@ class extractScores():
     
         :params response: JSON response object
         """
-        WkScore = numpy.array(range(5))
-        WkRank = numpy.array(range(5))
+        WkScore = numpy.array(range(6))
+        WkRank = numpy.array(range(6))
         athletes = []
         athletes = response['Athletes'] #get the athletes
         logging.info('Number of athletes ' + str(len(athletes)))
@@ -98,7 +98,7 @@ class extractScores():
             ORank = athletes[i]['OverallRank']
             Rank = athletes[i]['Rank']
 
-            for w in range(5): #loop through the workouts
+            for w in range(6): #loop through the workouts
                 try:
                     if athletes[i]['Weeks'][w]['Score'] == '--' or athletes[i]['Weeks'][w]['Score'] == None or athletes[i]['Weeks'][w]['Rank'] == None: #if no score
                         WkScore[w] = 0
@@ -126,7 +126,7 @@ class extractScores():
                     WkRank[w] = 0
 
             self.Scores.loc[Id] = (Name, Div, ORank, Rank, WkScore[0], WkRank[0], WkScore[1], WkRank[1], WkScore[2], WkRank[2],
-                              WkScore[3], WkRank[3], WkScore[4], WkRank[4]) #store in DataFrame
+                              WkScore[3], WkRank[3], WkScore[4], WkRank[4], WkScore[5], WkRank[5],) #store in DataFrame
     
     async def loopPages(self, start, numberofpages):
         """
@@ -141,8 +141,8 @@ class extractScores():
         
         async with ClientSession() as session:
             for p in range(start, start+numberofpages):
-                params={"division": self.division, "sort": "1", "region": "0",
-                        "stage": "15", "year": self.year, "page": str(p),
+                params={"division": self.division, "sort": "0", "region": "0",
+                        "stage": "5", "year": self.year, "page": str(p),
                         "numberperpage": self.numperpage, "scaled": "0", "occupation": "0"}
                 task = asyncio.ensure_future(self.downloadPage(sem, params, session))
                 async_list.append(task)
@@ -160,7 +160,7 @@ class extractScores():
     
         :params start: starting index of page number
         """
-        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 
+        self.Scores = pandas.DataFrame(columns=('Name', 'Division', 'OverallRank', 'Rank', 'Wk1_Score', 'Wk1_Rank', 'Wk1a_Score', 'Wk1a_Rank',
                             'Wk2_Score', 'Wk2_Rank', 'Wk3_Score', 'Wk3_Rank', 'Wk4_Score', 'Wk4_Rank', 'Wk5_Score', 'Wk5_Rank'))
         
         #loop through the first segment of pages
@@ -194,9 +194,9 @@ class extractScores():
         response = requests.get(basepath,
                                params={
                                    "division": div,
-                                   "sort": "1",
+                                   "sort": "0",
                                    "region": "0",
-                                   "stage": "15",
+                                   "stage": "5",
                                    "year": year,
                                    "page": "1",
                                    "numberperpage": numperpage,

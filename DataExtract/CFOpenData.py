@@ -13,35 +13,26 @@ def getProfilesFromFile(score_filename, prof_filename, div):
     #all the ids of athletes who registered
     dataList = pandas.read_csv(score_filename, names=score_columns, encoding='ISO-8859-1')
     Id_list = dataList.Id.tolist()
-    name_list = dataList.Name.tolist()
     print("Total number of Ids " + str(len(Id_list)))
     
     #all of the ids of athlete profiles already downloaded
-    prof_columns=('Name', 'Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
+    prof_columns=('Id', 'Name', 'Affiliate', 'Age', 'Height', 'Weight', 'Sprint 400m', 
                                'Clean & Jerk', 'Snatch', 'Deadlift', 'Back Squat', 'Max Pull-ups')
     profileList = pandas.read_csv(prof_filename, names=prof_columns, encoding='ISO-8859-1')
-    remove_list = profileList.Name.tolist() #get the names from the profile list
+    remove_list = profileList.Id.tolist() #get the names from the profile list
     for item in remove_list: #if a name is in the profile list and in the scores list then it has already downloaded
-        if item in name_list:
-            del Id_list[name_list.index(item)] #so remove the id from the list of profiles to download
+        if item in Id_list:
+            del Id_list[Id_list.index(item)] #so remove the id from the list of profiles to download
     
     print("Number of Ids to download " + str(len(Id_list)))
-    
-    #rudimentary loop to download profiles from saved list
-    start = 0
-    inc = 300
-    while start+inc <= len(Id_list):
-        getProfile.getProfile(Id_list[start:start+inc],div,True)
-        start = start + inc + 1
-    overflow = len(Id_list) % inc
-    getProfile.getProfile(Id_list[start:start+overflow],div,True)
+    getProfile.getProfile(Id_list,div,True)
 
 def main():
     logging.basicConfig(filename='async.log',format='%(asctime)s %(message)s',level=logging.DEBUG)
             
     #controlling variables
-    divisions = [2,1] #Women's and Men's Rx Divisions
-    year = 16
+    divisions = [1] #Women's and Men's Rx Divisions
+    year = 15
     numberperpage = 30
 
     #******************#
@@ -50,12 +41,12 @@ def main():
     
     #******************#
     #Get profiles from existing score list
-    getProfilesFromFile(r'Scores\16_Scores_Men.csv', r'Profiles\Profile_Men.csv', divisions[1])
+    #getProfilesFromFile(r'Scores\16_Scores_Men.csv', r'Profiles\Profile_Men.csv', divisions[1])
         
     #*******************#
     #Get Athlete Scores and Profiles from Interwebz
-    #for div in divisions:
-    #   CFOpenData = extractScores.extractScores(div,year,numberperpage)
+    for div in divisions:
+       CFOpenData = extractScores.extractScores(div,year,numberperpage)
     #   getProfile.getProfile(CFOpenData.Id_list, div, False)
         
 if __name__ == '__main__':
