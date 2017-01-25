@@ -1,3 +1,9 @@
+#!/usr/local/bin/python3.5
+
+# Author: Will Parker <mr.william.a.parker@gmail.com>
+"""
+A script to check file for duplicate athlete entries. Should return 0 if none
+"""
 import logging
 import pandas
 from collections import defaultdict

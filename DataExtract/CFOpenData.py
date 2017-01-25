@@ -1,3 +1,10 @@
+#!/usr/local/bin/python3.5
+
+# Author: Will Parker <mr.william.a.parker@gmail.com>
+"""
+A script that calls classes to download 
+CrossFit Open scores, profile data, and affiliate lists
+"""
 from getProfile import *
 from extractScores import *
 from getAffiliates import *
@@ -31,7 +38,7 @@ def main():
     logging.basicConfig(filename='async.log',format='%(asctime)s %(message)s',level=logging.DEBUG)
             
     #controlling variables
-    divisions = [1] #Women's and Men's Rx Divisions
+    divisions = [2,1] #Women's and Men's Rx Divisions
     year = 15
     numberperpage = 30
 
@@ -47,7 +54,7 @@ def main():
     #Get Athlete Scores and Profiles from Interwebz
     for div in divisions:
        CFOpenData = extractScores.extractScores(div,year,numberperpage)
-    #   getProfile.getProfile(CFOpenData.Id_list, div, False)
+       getProfile.getProfile(CFOpenData.Id_list, div, False)
         
 if __name__ == '__main__':
     main()
