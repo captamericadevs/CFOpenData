@@ -251,7 +251,7 @@ class getProfile():
         future = asyncio.ensure_future(self.loopPages(self.Id_list[start:end]))
         loop.run_until_complete(future)
 
-        filename = os.path.join(file_path, file_enum[int(self.division)]) #create file in Profile directory
+        filename = os.path.join(file_path, file_enum[1])#]int(self.division)]) #create file in Profile directory
         if not self.started:
             if start == 0:
                 self.Athletes.to_csv(path_or_buf=filename) #blocking function

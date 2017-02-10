@@ -10,7 +10,7 @@ import pandas
     
 def main():
     logging.basicConfig(filename='async.log',format='%(asctime)s %(message)s',level=logging.DEBUG)
-    division = ['Men', 'Women']
+    division = ['Women']
     
     part_columns=['Id', '2012 Reg', '2012 Finish', '2013 Reg', '2013 Finish', '2014 Reg', '2014 Finish', 
                             '2015 Reg', '2015 Finish', '2016 Reg', '2016 Finish']
