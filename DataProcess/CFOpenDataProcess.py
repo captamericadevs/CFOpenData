@@ -5,8 +5,6 @@
 A script to process data from CrossFit Open Scores by Athlete (Id)
 """
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
 import logging
 import bisect
@@ -58,7 +56,7 @@ def main(idx):
         print("Number of athletes who completed all the workouts: " + str(len(compList[i-12])))
         i = i + 1
         
-    df = pd.DataFrame(columns=('2012 Reg', '2012 Finish', '2013 Reg', '2013 Finish', '2014 Reg', '2014 Finish', '2015 Reg', '2015 Finish', '2016 Reg', '2016 Finish',))
+    df = pd.DataFrame(columns=('2012 Reg', '2012 Finish', '2013 Reg', '2013 Finish', '2014 Reg', '2014 Finish', '2015 Reg', '2015 Finish', '2016 Reg', '2016 Finish'))
     print("Number of Athletes 2012-2016: " + str(len(indices)))
     logging.info("Length of 2012: " + str(len(Id_list[0])))
 
@@ -82,26 +80,7 @@ def main(idx):
 
     #save to csv
     df.to_csv(path_or_buf=div+'_Participation_Matrix.csv')
-
-    #display plot
-    fig, ax = plt.subplots()
-    index = np.arange(i-12)
-    bar_width = 0.35
-    opacity = 0.8
-    
-    rects1 = plt.bar(index, [len(Id_list[0]),len(Id_list[1]),len(Id_list[2]),len(Id_list[3]),len(Id_list[4])], bar_width, alpha=opacity, color='b', label='Registered')
-    rests2 = plt.bar(index + bar_width, [len(compList[0]), len(compList[1]), len(compList[2]), len(compList[3]), len(compList[4])], bar_width, alpha=opacity, color='g', label='Completed')
-    
-    plt.xlabel('Year')
-    plt.ylabel('Athletes')
-    plt.title('Athletes per Year')
-    plt.xticks(index + bar_width, ('2012', '2013', '2014', '2015', '2016'))
-    plt.legend()
-    
-    plt.tight_layout()
-    plt.show()
-    
-        
+       
         
 if __name__ == '__main__':
     for index in range(len(division)):
